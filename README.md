@@ -26,7 +26,7 @@ So, this is a small effort for promoting the Nepali language and literature amon
 - [x] Commit the changes and make a new pull request
 
 
-<h1 align="center"> नेपाली उखा टुक्का संग्रह :nepal: </h1>
+<h1 align="center"> नेपाली उखान  टुक्का संग्रह :nepal: </h1>
 
 
 
