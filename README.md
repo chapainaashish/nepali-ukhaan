@@ -649,6 +649,7 @@ So, this is a small effort for promoting the Nepali language and literature amon
 बाह्र बर्षमा पोइ आयो, मै राँडीलाइ ज्वारो आयो    |   	Bahra barsha maa poi aayo, mai raadi lai jworo aayo.
 बिद्या नै धन हो    |   	Bidhya nai dhan ho.
 बिरालोको घाँटीमा सिद्राको माला    |   	Biralo ko ghati ma sidra ko mala.
+बिहे गर्ने अलमल मा केटी खोजै बिर्सियो    |   Bihe garne almal ma kt khojnai birsiyo.  | Mukhya kam nai birsinu.
 बिरालोको हातमा सिद्राको नासो    |   	Biralo ko haat maa sidhra ko naaso.
 बुझ्नेलाई श्रीखण्ड, नबुझ्नेलाई खुर्पाको बिँड    |   	Buhne lai srikhanda, nabujhne lai khurpaa ko bid.
 बुढानिलकण्‍ठ नारानथान, सौता सौता हानाहान    |   	Budanilkantha raaranthaan, sauta sauta haanaahaan.
