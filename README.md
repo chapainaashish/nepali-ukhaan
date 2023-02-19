@@ -21,7 +21,7 @@ So, this is a small effort for promoting the Nepali language and literature amon
 
 <h2> Steps For Contribution👣 </h2>
 
-- [x] Clone this repo to your Github account
+- [x] Fork this repository to your account
 - [x] Press the edit button of `README.md`
 - [x] Do the contribution (Add ukhaan, meaning or example)
 - [x] Commit the changes and make a new pull request
