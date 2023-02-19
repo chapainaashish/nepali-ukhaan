@@ -39,6 +39,7 @@ So, this is a small effort for promoting the Nepali language and literature amon
 अकबरी सुनलाई कसी लाउनु पर्दैन    |   	Akabari sun lai kasi laaunu pardaina. | Ramro manche yesai ramro
 अक्चु खाए बक्छु खाए झुसे बारुलो    |   	Akchhu khaaye bakchhu khaaye jhuse baarulo
 अगुल्टोले हानेको कुकुर बिजुलीदेखि तर्सन्छ    |   	Agulto le haaneko kukur bijuli dekhi tarsanchha.
+अगुल्ठो पनि नठोसी बल्दैन    |   	Agultho pani nathosi baldaina    |   	कुनै पनि सम्बन्धमा केही असामान्य हुन आवश्यक हुन्छ
 अघि हेर्नु चार हात, पछि हेर्नु बाह्र हात    |   	Aghi hernu chaar haat, pachhi hernu bahra haat 
 अघिको तीतो पछिको मीठो    |   	Aghi ko tito pachhi ko mitho.
 अचानो को पिर खुकुरी ले जान्दैन    |   	Achaano ko pir khukuri le jaandaina 
@@ -82,10 +83,12 @@ So, this is a small effort for promoting the Nepali language and literature amon
 असारमा मीत लाए हिलामा हात, मंसिरमा मीत लाए फिलामा हात    |   	Asar ma mit laaye hila ma haat, mangsir ma mit laaye fila ma haat.
 असारमा सुरुवाल लगाउनेले मंसिरमा पराल चोर्छ    |   	Asaar ma suruwal laguane le mangsir ma paral chorchha.
 अहंकारी भ्यागुताको ट्वार ट्वारै ठूलो    |   	Ahankari bhyaguto ko twar twar nai thulo
+अँध्यारो काम खोला को गीत    |   	Andhyaro kaam khola ko geet | भेउ नपाई गरिएको काम
 आँ गर्दा अलङ्‍कार बुझ्ने    |   	Aa gardaa alangkaar bujhne.
 आँखा नदेख्‍ने नेत्रलाल, कान नसुन्‍ने कर्णकान्त    |   	Aankha nadekhne netralaal kana nasunne karnakaanta
 आँटी छोरीलाई बाघले नि खाँदैन    |   	Aati chhori lai baagh le ni khaadaina.
 आँटेको काम झट्टै श्री गणेश    |   	Aateko kaam jhattai shree ganesh.
+आँपको आँप, कोयाको दाम    |   	Aap ko aap, koya ko daam    |   	नाफादार थोकबाट त नाफा छ नै तर जे कुराबाट आशा छैन, त्यसबाट पनि लाभ पाउनु
 आइमाई को रुपै सत्रु, रुपै मित्रु    |   	Ayimaayi ko rupai satru, rupai mitru.
 आइमाईको पेटमा कुरा पच्दैन    |   	Aayimai ko pet maa kura pachhdaina.
 आई बूढी मच्चिंदै, गई बूढी थच्चिंदै    |   	Aaayi budi machchidai, gayi budi thachchidai.
