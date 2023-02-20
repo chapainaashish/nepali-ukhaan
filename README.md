@@ -364,10 +364,10 @@ So, this is a small effort for promoting the Nepali language and literature amon
 जसको डम्फू उसकै ताल    |   	Jasko damfu uskai taal.
 जसको तरबार उसको घरबार    |   	Jasko tarbaar usko gharbaar.
 जसको बाँदर उसैले नचाउँछ    |   	Jasko baadar, usaile nachauchha.
-जसको लाठी उसको भैंसी    |   	Jasko lathi usko bhaisi.
-जसको शक्ति, उस्को भक्ति    |   	Jasko shakti, usko bhakti.
-जसको सीता खानु, उसकै गीता गाउनु    |   	Jasko sita khanu, uskai gita gaunu.
-जसरी आयो, त्यसरी गयो    |   	Jasari aayo, tesari gayo.
+जसको लाठी उसको भैंसी    |   	Jasko lathi usko bhaisi. | Jo snagha srot sadhan xa uni mathi hunxa |
+जसको शक्ति, उस्को भक्ति    |   	Jasko shakti, usko bhakti. | Jo sangha sakhti xa sabai usai ko jai jai kar garxan |
+जसको सीता खानु, उसकै गीता गाउनु    |   	Jasko sita khanu, uskai gita gaunu. | Jasko nun khayeko xa usaiko ghunghan gaunu |
+जसरी आयो, त्यसरी गयो    |   	Jasari aayo, tesari gayo. | chitha parera aako paisa useless kaam mai karcha hunxa |
 जसले बोक्छ भारी, खान्छ मेख मारी    |   	Jasle bokchha bhaari, khaanchha mekh maari.
 जसले मह काढ्छ, उसले हात चाट्छ    |   	Jasle maha kaadchha usle haat chaatchha.
 जसो जसो बराजु उसै उसै नाति    |   	Jaso jaso baraju usai usai naati.
@@ -375,17 +375,17 @@ So, this is a small effort for promoting the Nepali language and literature amon
 जस्ता लाई तेस्तै पाउरोटीलाई निस्तै    |   	Jastaa lai testai pauroti lai nistai.
 जस्तालाई त्यस्तै, ढिंडोलाई निस्तै    |   	Jasta lai thestai, dhindo lai nistai.
 जस्तो आफु उस्तै च्यापु    |   	Jasto aafu ustai chyapu.
-जस्तो गुरु उस्तै चेला    |   	Jasto guru ustai chelaa.
+जस्तो गुरु उस्तै चेला    |   	Jasto guru ustai chelaa. | teacher leh j sikayo student leh tehi sikxa ra they become similar |
 जस्तो तस्तो चाहिएन, भने जस्तो पाइएन    |   	Jasto tasto chaahiyena, bhane jasto paayiyena 
-जस्तो देश उस्तै भेष    |   	Jasto desh, ustai bhesh.
-जस्तो नाम उस्तै काम    |   	Jasto naam ustai kaam.
-जस्तो रोप्यो, तेस्तै फल्छ    |   	Jasto ropyo testai falchha.
+जस्तो देश उस्तै भेष    |   	Jasto desh, ustai bhesh. | In Rome do as the romans do |
+जस्तो नाम उस्तै काम    |   	Jasto naam ustai kaam. | Jasko j naam xa usle testai prakar ko kaam garxa |
+जस्तो रोप्यो, तेस्तै फल्छ    |   	Jasto ropyo testai falchha. | afu leh jasto byabhar garyo testai byabhar aru leh afu prati garxan |
 जहाँ कंगाल, त्यहाँ चण्डाल    |   	Jaha kangaal, tyahaa chandaal.
 जहाँ केरा त्यहीँ ,बाहुनको डेरा    |   	Jaha kera, tyahi bahun ko dera.
-जहाँ गुलियो त्यहाँ बाहुन भुलियो    |    	Jaha guliyo tyaahaa baahun bhuliyo
+जहाँ गुलियो त्यहाँ बाहुन भुलियो    |    	Jaha guliyo tyaahaa baahun bhuliyo.
 जहाँ जाला जोगी भातै खाला    |   	Jaha jala jogi bhatai khala.
-जहाँ दही, त्यहीँ बाहुनको सही    |   	Jaha dahi, tyahi baahun ko sahi.
-जहाँ पुग्दैन रवि, त्यहाँ पुग्छन् कवि    |   	Jaha pugdaina ravi, tyaha pugchhan kabi.
+जहाँ दही, त्यहीँ बाहुनको सही    |   	Jaha dahi, tyahi baahun ko sahi. | Paisa jaha aauxa tehaaa baahun ko sahi hunxa |
+जहाँ पुग्दैन रवि, त्यहाँ पुग्छन् कवि    |   	Jaha pugdaina ravi, tyaha pugchhan kabi. | gahirahi ma kabi haru pugxan jaha samanya manxe pugdainan |
 जाँगर न साँगर खाने बेला आँ गर    |   	Jaagar na saagar khaane belaa aa gar.
 जाँड बिग्रने मोर्चा गुना, छोराछोरी बिग्रने आमा गुना    |   	Jaad bigrine morchaa gunaa, chora chori bigrine aamaa gunaa.
 जाडो भयो राती अनी बुढी ताती    |   	Jaado bhayo raati ani budi taati.
