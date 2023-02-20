@@ -85,7 +85,7 @@ So, this is a small effort for promoting the Nepali language and literature amon
 असारमा सुरुवाल लगाउनेले मंसिरमा पराल चोर्छ    |   	Asaar ma suruwal laguane le mangsir ma paral chorchha.
 अहंकारी भ्यागुताको ट्वार ट्वारै ठूलो    |   	Ahankari bhyaguto ko twar twar nai thulo
 अँध्यारो काम खोला को गीत    |   	Andhyaro kaam khola ko geet | भेउ नपाई गरिएको काम
-आँ गर्दा अलङ्‍कार बुझ्ने    |   	Aa gardaa alangkaar bujhne.
+आँ गर्दा अलङ्‍कार बुझ्ने    |   	Aa gardaa alangkaar bujhne. | Jaty vanya cha tyo vanda badi bujhne.
 आँखा नदेख्‍ने नेत्रलाल, कान नसुन्‍ने कर्णकान्त    |   	Aankha nadekhne netralaal kana nasunne karnakaanta
 आँटी छोरीलाई बाघले नि खाँदैन    |   	Aati chhori lai baagh le ni khaadaina.
 आँटेको काम झट्टै श्री गणेश    |   	Aateko kaam jhattai shree ganesh.
@@ -135,7 +135,7 @@ So, this is a small effort for promoting the Nepali language and literature amon
 इखालु स्वास्नीको बचन, बहुला कुकुरको दाँत    |   	Ikhaalu swaasni ko bachan, bahulaa kukur ko daat.
 इन्द्रको अगाडि स्वर्गको बयान    |   	Indra ko agaadi swarga ko bayaan.       |       Kei kura bare derai thaha vayeko manxe laie tei kura bare bayan garnu.
 इश्वर धपायो, शास्त्र चपायो    |   	Ishwor dhapaayo, saastra chapaayo.
-ईट को जवाफ पत्थर ले दिनु    |   	It ko jawaaf patthar le dinu.
+ईट को जवाफ पत्थर ले दिनु    |   	It ko jawaaf patthar le dinu. | Tit for Tat.
 उखाने काका मन्तरी भाका    |   	Ukhane kaka mantari bhaka.
 उचालेको कुकुरले मृग मार्दैन    |   	Uchaaleko kukur le mriga maardaina.
 उठ बुहारी सास फेर, ढिकी छाड्नासाथ जाँतो हेर    |   	Utha buhaari saas fera, dhiki chaadnaa saath jaato hera.
@@ -168,7 +168,7 @@ So, this is a small effort for promoting the Nepali language and literature amon
 एक माघले जाडो जाँदैन    |   	Ek maagh le jaado jaadaina.       |       Ek choti vako kura feri feri huna sakxa.
 एक रुपैंया धन छ, घोडा किन्छु भन्छ    |   	Ek rupaiya dhan chha, ghodaa kinchhu bhanchha 
 एक हातले तालि बज्दैन    |   	Ek haat le taali bajdaina.
-एकता नै बल हो    |   	Ekataa nai bal ho.
+एकता नै बल हो    |   	Ekataa nai bal ho. | Unity is strength.
 एकातिर आँधी, अर्कोतिर झोलुङ्गो    |   	Ekatira andhi, arko tira jhalungo.
 एक्लो बृहस्पति झुट्‍टा    |   	Eklo bhrihaspati jhuttaa.
 ओखरबोटमा चिल बस्यो, देखेपछि दिल बस्यो    |   	Okhar botmaa chil basyo, dekhe pachhi dil basyo.
@@ -193,7 +193,7 @@ So, this is a small effort for promoting the Nepali language and literature amon
 कसैको आहार कसैको विष    |   	Kasai ko aahar, kasaiko bish.       |       Eutai kura ma bhibid bichar
 कसैलाई के धन्दा घरज्वाईंलाई खानको धन्दा    |   	Kasai lai ke dhandaa, ghar juwai lai khaana ko dhandaa.
 कसैलाई लाखा, कसैलाई पाखा    |   	Kasai lai kaakhaa, kasai lai paakhaa.
-कसैले तपाईं भनोस् नभनोस् आफैं मपाईं    |   	Kasaile tapai bhanos nabhanos aafai mapai.       |       Aafno pasansa aafai garnu.
+कसैले तपाईं भनोस् नभनोस् आफैं मपाईं    |   	Kasaile tapai bhanos nabhanos aafai mapai.       |       Aafno prasansa aafai garnu.
 कस्ता कस्ता कहाँ गए मुसाको बच्चा दरबारमा    |   	Kasta kasta kaha gaye musa ko bacchha durbar maa
 कहाँ जान्छस् मछली मेरै ढडिया    |   	Kaha jaanchhas machali merai dhadiya.
 कही नभाको जात्रा प्रग्या प्रतिस्ठानमा    |   	Kahi nabhayeko jaatraa pragya pritisthaan maa.
@@ -229,7 +229,7 @@ So, this is a small effort for promoting the Nepali language and literature amon
 किनेको दाउरा किनेकै पानी, कर्मचारीका श्रीमती महलका रानी    |   	Kineko daura kinekai pani, karmachari ka shrimati mahal kaa raani.
 कुकुर भुक्दै गर्छ, हात्ती लम्कँदै गर्छ    |   	Kukur bhukdai garchha, hatti lamkidai garchha.
 कुकुरको पुच्छर बाह्र बर्ष सम्म ढुङ्रोमा राखेपनी बाङ्गाको बाङ्गै    |   	Kukur ko puchhar bahra barsha dhungro maa raakhe pani bangaa ko baangai 
-कुकुरलाई घ्यू पच्दैन    |   	Kukur lai ghyu pachdaina.
+कुकुरलाई घ्यू पच्दैन    |   	Kukur lai ghyu pachdaina. | Naramro lai jaty ramro garepani pachdaina.
 कुकुरलाई मासु पैंचो    |   	Kukur lai maasu paicho.
 कुकुरलाई लुतो    |   	Kukur lai luto.
 कुकुरले खुट्टा टोक्यो भन्दैमा कुकुरको खुट्टा टोक्नु हुन्न    |   	Kukur le khutta tokyo bhandai ma kukur ko khutta toknu hunna.
@@ -707,6 +707,7 @@ So, this is a small effort for promoting the Nepali language and literature amon
 मकैको रोटीमा घिउ हाल्न र माइतिको सम्पतिमा जिउ हाल्न बेकार छ    |   	Makai ko roti maa ghyu haalna ra maiti ko sampatti maa jiu haalna bekaar chha.
 मन नपर्ने जेठी बुढिले पकाएको खिर पनि गनाउँछ, मन पर्ने कान्छी बुढिको पाद पनि बसाउँछ    |   	Man naparne jethi budi le pakaayeko kheer pani ganauchha, man parne kaanchhi bude ko paad pani basauchha.
 मन परेको केटो जेठाजू    |   	Man pareko keto jethaju.
+मन परेको फुल सुकेपनी रसिलो   |    Man pareko ful sukepani rasilo.
 मन पर्ने मान्छेको दुर्गन्ध नै सुगन्ध    |   	Man parne manchhe ko durgandha nai sugandha.
 मनको लड्‍डु घ्यूसँग खानु    |   	Man ko laddu ghiu sanga khaanu.
 मनमा चिसो पस्नु    |   	Man ma chiso pasnu.
