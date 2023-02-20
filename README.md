@@ -606,8 +606,6 @@ So, this is a small effort for promoting the Nepali language and literature amon
 बर्मा आए कर्मसँगै, नेपाल गए कपालसँगै   |   	Burma aaye karma sangai, Nepal gaye kapaal sangai.
 बलिया बाङ्गा बाघलाई , बूढाखाढा माघलाई    |   	Baliyaa baangaa baaghlai, budaa khaadaa maagh lai.
 बलेको आगोमा घिउ थप्नु    |   	Baleko aago maa ghiu thapnu.
-बाँदर को पुच्छर, लौरो न हतियार    |   	Bandar ko puchchhar lauro na hatiyaar 
-बाँदरको हातमा नरिवल    |   	Baandar ko haat maa nariwal.
 बाउ गणेश, छोरो गोबर गणेश    |   	Baau Ganesh, chhoro gobar Ganesh.
 बाउभन्दा छोरा जान्‍ने, खुकुरीभन्दा कर्द लाग्ने    |   	Bau bhanda chhoro jaanne, khukuri bhandi karda laagne.
 बाउले गर्नु पर्ने चुलाको ड्युटी    |   	Baule garnu parne chulaa ko duty.
@@ -630,6 +628,8 @@ So, this is a small effort for promoting the Nepali language and literature amon
 बाच्छो खाने बाघले पाडोलाई नि बाँकी राख्दैन    |   	Baachchho khaane baagh le paado lai ni baaki raakhdaina.
 बाटो न घाटो, दगुर्छ लाटो    |   	Bato na ghato, dagurchha laato.
 बादरको पुच्छर टाई न इँजार    |   	Badar ko puchhar tai na ijaar
+बाँदर को पुच्छर, लौरो न हतियार    |   	Badar ko puchchhar lauro na hatiyaar 
+बाँदरको हातमा नरिवल    |   	Badar ko haat maa nariwal.
 बाध दुब्लाएर बिरालो हुदैन    |   	Baag dublaayera biralo hudaina.
 बाबू भन्दा छोरो जान्ने, नाति पेटै बाट मट्याङ्ग्रा हान्ने    |   	Baabu bhanda chhoro janne, naati petai baata matyangra hanne.
 बारी न विरुवा नौ मुरी तोरी    |   	Baari na biruwaa nau muri tori.
@@ -763,6 +763,7 @@ So, this is a small effort for promoting the Nepali language and literature amon
 राजाको घरमा नुन को दु:ख    |   	Raajaa ko ghar maa nun ko dukha 
 राजाको धन जान्छ, भँडारेको पेट पोल्छ    |   	Raaja ko dhan jaanchha, badaareko pet polchha.
 राजाको मति १२ बर्ष प्रजातन्त्रमा राखे पनि बाँङ्गाको बाँङ्गै    |   	Rajaa ko mati 12 barsha prajatantra maa raakhe pani bangaa ko baangai.
+राडी को घर मा पोइ को के खाँचो    |   	Raadi ko ghar ma poi ko k khacho.
 रात कि रानि    |   	Raat ki raani.
 रात गए अग्रात पलाउँछ    |   	Raat gaye agraat palauchha.
 रात भरि करायो, दक्षिणा हरायो    |   	Raat bhari karaayo, dakshina harayo.
