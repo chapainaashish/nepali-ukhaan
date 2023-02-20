@@ -143,7 +143,7 @@ So, this is a small effort for promoting the Nepali language and literature amon
 उधारो प्रेम को कैची हो    |   	Udhaaro prem ko kaichi ho.
 उनीहरूको घरमा झगडा हाम्रो घरमा धुनधान    |   	Uni haru ko ghar ma jhagada hamro ghar ma dhun dhaan.
 उपाध्यायले तोङ्बा खायो, नाली नै रङ्यायो    |   	Upadhaya le tongba khaayo, naali nai rangyaayo.
-उम्केको माछो ठुलो    |   	Umkeko maachho thulo
+उम्केको माछो ठुलो    |   	Umkeko maachho thulo 
 उसै त बूहारी मरिच खाएकी    |   	Usai ta buhari marich khaayeki.
 उसै त सासू सुन लगाएकी    |   	Usai ta saasu sun lagaayeki
 उही नाम्लो उही कुम्लो    |   	Uhi naamlo uhi kumlo. | jati kura garepani aakhir ma afno kaam afai sangha hunxa |
@@ -167,7 +167,7 @@ So, this is a small effort for promoting the Nepali language and literature amon
 एक पल्ट पकरा्उ परेको चोर पोस्टम्यानलाई देख्दा पनि भाग्छ    |   	Ek palta pakrau pareko chor postman lai dekhda pani bhaagchha.
 एक माघले जाडो जाँदैन    |   	Ek maagh le jaado jaadaina.       |       Ek choti vako kura feri feri huna sakxa.
 एक रुपैंया धन छ, घोडा किन्छु भन्छ    |   	Ek rupaiya dhan chha, ghodaa kinchhu bhanchha 
-एक हातले तालि बज्दैन    |   	Ek haat le taali bajdaina.
+एक हातले तालि बज्दैन    |   	Ek haat le taali bajdaina.    |    
 एकता नै बल हो    |   	Ekataa nai bal ho. | Unity is strength.
 एकातिर आँधी, अर्कोतिर झोलुङ्गो    |   	Ekatira andhi, arko tira jhalungo.
 एक्लो बृहस्पति झुट्‍टा    |   	Eklo bhrihaspati jhuttaa.
@@ -233,7 +233,7 @@ So, this is a small effort for promoting the Nepali language and literature amon
 कुकुरलाई घ्यू पच्दैन    |   	Kukur lai ghyu pachdaina. | Naramro lai jaty ramro garepani pachdaina.
 कुकुरलाई लुतो    |   	Kukur lai luto.
 कुकुरले खुट्टा टोक्यो भन्दैमा कुकुरको खुट्टा टोक्नु हुन्न    |   	Kukur le khutta tokyo bhandai ma kukur ko khutta toknu hunna.
-कुक्कुरलाई हड्डी पैचो    |   	Kukur lai haddi paicho.
+कुक्कुरलाई हड्डी पैचो    |   	Kukur lai haddi paicho. 
 कुचोले बढार्नु पर्ने कसिङ्‍गर हावाले उडायो    |   	Kucho le badaarnu parne kasingar hawa le udaayo.
 काम छैन बुहारी पाडाको कन्डो कनाएर बस   | Kam xaina buhari pada ko kando kanayera bas 
 कुन्ता कि बुहरी भ्टमास खाकि    |   	Kunta ki buhari bhatmaas khaaki.
@@ -397,7 +397,7 @@ So, this is a small effort for promoting the Nepali language and literature amon
 जाहा ईक्छा, त्यहाँ उपाए    |   	Jaha itchya, tyaahaa upaaye.
 जिउ पाल्न भन्दा नाम पाल्न गाह्रो    |   	Jiu paalna bhanda naam paalna gahro.
 जिउँदी कमारीको बाह्रबिसे पोइ, मर्दी कमारीको कोहि न कोहि    |   	Jiudi kamaari ko bahrabise poi, mardi kamaari ko kohi na kohi.
-जिउदाको जन्ती, मर्दाको मलामी    |   	Jiuda ko janti mardaa ko malaami.
+जिउदाको जन्ती, मर्दाको मलामी    |   	Jiuda ko janti mardaa ko malaami. 
 जिते हस्तिनापुरको राज, हारे चपरी मुनीको बास    |   	Jite hastinaapur ko raaj, haare chapari muni ko baas.
 जुत्ता लगाउनेको चुरिफुरी खोला आए पछि देखिन्छ    |   	Jutta lagaune ko churi furi khola aaye pachhi dekhinchha.
 जुत्ताको माला लगाएको नेता छाला देख्दा तर्सन्छ    |   	Jutta ko mala lagayeko netaa chhala dekhda tarsanchha.
@@ -531,7 +531,7 @@ So, this is a small effort for promoting the Nepali language and literature amon
 नक्कल गर्न पनि अक्कल चाहिन्छ    |   	Nakkal garna pani akkal chaahinchha
 नखाउँ भने दिन भरी को सिकार, खाउँ भने कान्छा बाउ को अनुहार    |   	Nakhau bhane din vari ko sikar, khau bhane kanchha bau ko anuhaar 
 नङले चिमोटे हुनेलाई बन्चरो किन लगाउने    |   	Nang le chimote hune lai bancharo kina lagaune?
-नजाने गाउँको बाटो नसोध्नु    |   	Najaane gau ko bato nasodhnu.
+नजाने गाउँको बाटो नसोध्नु    |   	Najaane gau ko bato nasodhnu. | Don't waste time on things that do not concern you.
 नजाने शहरको GPS नलगाउनु    |   	Najaane sahar ko GPS nalagaunu.
 नजिकको तीर्थ हेला    |   	Najik ko tirtha hela. |  The value of things when we use regularly is diminished
 नजित्ने लडाइँ नलडेकै राम्रो    |   	Najitne ladai naladekai ramro.
@@ -579,7 +579,7 @@ So, this is a small effort for promoting the Nepali language and literature amon
 पशुपतीको जात्रा गाँजाको ब्यापार    |   	Pashupati ko jaatra gaanja ko byaapaar.
 पहिले गरेर देखाउनु अनि भन्नु    |   	Pahile garera dekhaunu ani bhannu.
 पहिलो गाँसमै ढुङ्गा    |   	Pahilo gaas mai dhunga.
-पहेंलो सबै सुन हुँदैन    |   	Pahelo sabai sun hudaina.
+पहेंलो सबै सुन हुँदैन    |   	Pahelo sabai sun hudaina. 
 पाँच घरका कुत्ता, खाने बेला यता न उता    |   	Panch ghar kaa kuttaa, khaane bela yeta na uta.
 पाँच पैसाको ल्वांग छैन, दस पैसाको स्वांग    |   	Paanch paisa ko lwaang chhaina, dash paisa ko swang.
 पाठकी कन्धनी, भाङ्ग्राको धोती    |   	Pathaki kandhani, bhangra ko dhoti.
@@ -652,7 +652,7 @@ So, this is a small effort for promoting the Nepali language and literature amon
 बाह्र बर्ष बाइबल पढायो, भुकम्प आउँदा राम राम    |   	Bahra barsha bible padaayo, bhukampa aauda Ram Ram 
 बाह्र बर्ष रामायण पढायो, सीता कस्की जोइ    |   	Bahra barsha ramayan padaayo, sita kaski joi?
 बाह्र बर्षमा पोइ आयो, मै राँडीलाइ ज्वारो आयो    |   	Bahra barsha maa poi aayo, mai raadi lai jworo aayo.
-बिद्या नै धन हो    |   	Bidhya nai dhan ho.
+बिद्या नै धन हो    |   	Bidhya nai dhan ho. | Education is Wealth.
 बिरालोको घाँटीमा सिद्राको माला    |   	Biralo ko ghati ma sidra ko mala.
 बिहे गर्ने अलमल मा केटी खोजै बिर्सियो    |   Bihe garne almal ma kt khojnai birsiyo.  | Mukhya kam nai birsinu.
 बिरालोको हातमा सिद्राको नासो    |   	Biralo ko haat maa sidhra ko naaso.
@@ -667,7 +667,7 @@ So, this is a small effort for promoting the Nepali language and literature amon
 बेलामा छोरा छोरिलाई नकुटेपछि आफ्नो छाती पिट्नु पर्छ    |   	Bela ma chora chori lai nakutepachhi aafno chhaati pitnu parchha.
 बैंक लुट्नेलाई भन्दा समाउन जाने पुलिसलाई लाज    |   	Bank lutne lai bhanda samauna jane police lai laaj.
 बैंसमा स्याल पनि घोर्ले हुन्छ    |   	Baisa maa syaal pani ghorle hunchha.
-बैगुनीलाई गुनले मार्नु    |   	Baiguni lai gun le maarnu.
+बैगुनीलाई गुनले मार्नु    |   	Baiguni lai gun le maarnu. | Kill the ungrateful with gratitude.
 बैरो हाँसे, पैरो चल्छ    |   	Bairo haanse, pairo chalchha.
 बोकाको मुखमा कुभिन्डो    |   	Boka ko mukh ma kubhindo.
 बोकाले दाईं हुने भए गोरु किन चाहिन्थ्यो    |   	Boka le daayi hune bhaye goru kina chahinthyo.
@@ -685,7 +685,7 @@ So, this is a small effort for promoting the Nepali language and literature amon
 भन्नै परे पछी भित्तै पुर्यएर भन्नु    |   	Bhannai pare pachhi bhittai puryaayera bhannu.
 भन्सारमा सुन छ लिन गए हुन्छ    |   	Bhansaar maa sun chha lina gaye hunchha.
 भाइ गोठ, सालो धुरि    |   	Bhai goth, saalo dhuri.
-भाइ फुटे गँवार लुटे    |   	Bhai fute gawaar lute.
+भाइ फुटे गँवार लुटे    |   	Bhai fute gawaar lute. 
 भाई भए भरोस, गाई भए गोरस    |   	Bhai bhaye bharos, gai bhaye goras 
 भाउजुको देवर तन्नेरी    |   	Bhauju ko dewar tannari
 भाउजुले पोलेको देवर, बुहारीले पोलेको ससुरो    |   	Bhauju le poleko dewar, buhari le poleko sasuro 
@@ -754,7 +754,7 @@ So, this is a small effort for promoting the Nepali language and literature amon
 मूर्ख र पैसा छिट्‍टै सकिन्छ    |   	Murkha ra paisa chittai sakinchha.
 मूर्खको धन रहँदैन    |   	Marukha ko dhan rahadaina.
 मेरो गोरूको बार्‍है टक्‍का    |   	Mero goru ko bahrai takkaa.| Being overly stubborn.
-मेहनतको फल मिठो हुन्छ    |   	Mehenat ko fal mitho hunchha.
+मेहनतको फल मिठो हुन्छ    |   	Mehenat ko fal mitho hunchha.    |    Fruits of labor are always sweet.
 मोही माग्नु,ढुंग्रो लुकाउनु    |   	Mohi maagnu dhungro lukaunu.
 मौका आउँछ पर्खिँदैन, बगेको खोला फर्किँदैन    |   	Mauka auchha parkhidaina, bageko khola farkidaina.
 मौका मा चौका हान्न जान्नु पर्छ    |   	Maukaa maa chaukaa hanna jannu parchha 
@@ -771,7 +771,7 @@ So, this is a small effort for promoting the Nepali language and literature amon
 राडी को घर मा पोइ को के खाँचो    |   	Raadi ko ghar ma poi ko k khacho.
 रात कि रानि    |   	Raat ki raani.
 रात गए अग्रात पलाउँछ    |   	Raat gaye agraat palauchha.
-रात भरि करायो, दक्षिणा हरायो    |   	Raat bhari karaayo, dakshina harayo.
+रात भरि करायो, दक्षिणा हरायो    |   	Raat bhari karaayo, dakshina harayo. | Getting much less than expected.
 रात राम्रो जुनले, मान्छे राम्रो गुनले    |   	Raat ramro jun le, manchhe ramro gun le.
 रातभरि सराप्यो महाजन त जिउदै    |   	Raat bhari saraapyo, mahaajan ta jiudai.
 रातभरी रामायण पढायो, सीता कस्की जोइ    |   	Raat bhari ramaayan padhaayo, sita kaski joi?
@@ -810,7 +810,7 @@ So, this is a small effort for promoting the Nepali language and literature amon
 वल्लो घाट न पल्लो तीर    |   	Wallo ghaat na pallo tir
 वाणाको घरमा सबै पुजारी    |   	Baada ko ghar maa sabai pujaari.
 वारि खाल्डो, पारि भीर    |   	Wari khaaldo, paari bhir.
-विनाश काले विपरीत बुद्धि    |   	Binaas kaale biparit buddhi
+विनाश काले विपरीत बुद्धि    |   	Binaas kaale biparit buddhi 
 विष नभएको सर्प र ईख नभएको मानिस काम लाग्दैन    |   	Bish nabhayeko sarpa ra ikh nabhayeko maanish maak laagdaina.
 विष्टको घरमा भात पाक्दा दमाईको घरमा खलबल    |   	Bista ko ghar maa bhaat paakdaa damai ko ghar maa khalbal.
 विसौलीको जिब्रो फड्कार्नु भन्दा धार्नीको टाउको हल्लाउनु बेस    |   	Bisauli ko jibro fadkaarnu bhanda dhaarni ko dauko hallaunu bes.
@@ -899,7 +899,7 @@ So, this is a small effort for promoting the Nepali language and literature amon
 हात्ती चढिसकेको मान्छेले गधा चढ्न के रुचाउला    |   	Hatti chadi sakeko maanche gadhaa chadna ke ruchaula 
 हात्ती छिर्‍यो पुच्छर अड्क्यो    |   	Haatti chhiryo, puchhar adkyo. | Big problems are resolved but the small one is holding it.
 हात्ती लम्कनु घोडा चम्कनु    |   	Hatti lamkanu, ghoda chamkanu.
-हात्तीको मुखमा जीरा    |   	Hatti ko mukh maa jira.
+हात्तीको मुखमा जीरा    |   	Hatti ko mukh maa jira. | A drop in the ocean.
 हाथ को माछा छोडेर पोखरी को माछा खोज्ने    |   	Haat ko machha chhodera pokhari ko machha khojne.
 हारेको कुकुरले सँधैं दाँत देखाउँछ    |   	Hareko kukur le sadhai dant dekhauchha.
 हार्ने गोरुको छेर्ने दाउ    |   	Harne goru ko chherne dau.
@@ -909,7 +909,7 @@ So, this is a small effort for promoting the Nepali language and literature amon
 हिराको मोल किराले जान्दैन    |   	Hira ko mol kira le jandaina 
 हिस्स बुढीको खिस्स दाँत    |   	Hissa budi ko khissa daat.
 हुने बिरुवाको चिल्लो पात    |   	Hune beruwa ko chillo paat. | The prodigies display talent from an early age
-हुने हार, दैव नटार    |   	Hune haar daiba nataar.
+हुने हार, दैव नटार    |   	Hune haar daiba nataar. 
 हुलमुलमा जिउ जोगाउनु, अनिकालमा बिउ जोगाउनु    |   	Julmul maa jiu jogaunu, anikal maa jiu jogaunu.
 हेरेर मर्नु भन्दा छेरेर मर्नु जाती    |   	Herera marnu bhanda chherera marnu jaati.
 हेर्दा चरो, पर्दा बन्चरो    |   	Herdaa charo, pardaa bancharo.
