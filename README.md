@@ -915,5 +915,6 @@ So, this is a small effort for promoting the Nepali language and literature amon
 हेर्दा चरो, पर्दा बन्चरो    |   	Herdaa charo, pardaa bancharo.
 हेर्दाको राम्रो, दिन खानको चाम्रो    |   	Herda ko ramro dina khaana ko chamro 
 हेर्नेको र छेर्नेको भर हुँदैन    |   	Herne ko ra chherne ko bhar hudaina.
+नजाने गाउँको बाटै नसोध्नु    |    Najaane gauko baatai nasodhnu
 
 
