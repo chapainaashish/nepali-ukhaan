@@ -482,6 +482,7 @@ So, this is a small effort for promoting the Nepali language and literature amon
 थैली बलियो भए साथीको के कमि    |   	Thaili baliyo bhaye saathi ko k kami 
 थोत्रो घरमा मुसाको रजाई    |   	Thotro ghar maa musa ko rajai 
 थोपा थोपा मिलेर सागर बन्छ    |   	Thopa thopa milera saagar banchha.
+थोपडा ना सोप्डा प्रियंका चोपडा    |   	Thopda na sopda priyanka chopda.
 थोरै भए ठिक्क, धेरै भए दिक्क    |   	Thorai bhaye thikka, dherai bhaye dikka.
 दमाइको लुगामा तुना छिनेको    |   	Damai ko lugaamaa tunaa chhineko 
 दरबारमा जन्मदैमा सबैजना राजा हुदैनन्    |   	Durbar maa janmidaimaa sabai jana raja hudainan 
@@ -589,6 +590,7 @@ So, this is a small effort for promoting the Nepali language and literature amon
 पापा पनि चिची पनि    |   	Paapaa pani chini pani.
 पारिको घाँस हरियो हुन्छ    |   	Paari ko ghas hariyo hunchha.
 पुड्के बाहुनको सुड्के चन्दन    |   	Pudke baahun ko sudke chandan.
+पुँजी ना सुजी उचल मुजी    |    puji na suji uchal muuji
 पैसा न कौडी बजार बजार दौडी    |   	Paisa na kaudi bajar bajar daudi.
 पोहोर मरी सासु, अहिले आयो आँसु    |   	Pohor mari sasu, ahile ayo ansu.
 प्रतिक्षाको फल मिठो हुन्छ    |   	Pratiksha ko fal mitho hunchha.
