@@ -39,8 +39,7 @@ So, this is a small effort for promoting the Nepali language and literature amon
 अकबर राजा, बिरबल काजि, इन्साफ दिन्छन खुसिराजि    |   	Akabar raaja, birbal kaaji, insaaf dinchhan khusiraaji
 अकबरी सुनलाई कसी लाउनु पर्दैन    |   	Akabari sun lai kasi laaunu pardaina. | Ramro manche yesai ramro
 अक्चु खाए बक्छु खाए झुसे बारुलो    |   	Akchhu khaaye bakchhu khaaye jhuse baarulo
-अगुल्टोले हानेको कुकुर बिजुलीदेखि तर्सन्छ    |   	Agulto le haaneko kukur bijuli dekhi tarsanchha.       |        Ek choti dhuka bhogi sake ko manxe arko choti dheki sano kura le ni tarsin xa   
-अगुल्टोले हानेको कुकुर बिजुलीदेखि तर्सन्छ    |   	Agulto le haaneko kukur bijuli dekhi tarsanchha.
+अगुल्टोले हानेको कुकुर बिजुलीदेखि तर्सन्छ    |   	Agulto le haaneko kukur bijuli dekhi tarsanchha.       |        Ek choti dhuka bhogi sake ko manxe arko choti dheki sano kura le ni tarsin xa |
 अगुल्ठो पनि नठोसी बल्दैन    |   	Agultho pani nathosi baldaina    |   	कुनै पनि सम्बन्धमा केही असामान्य हुन आवश्यक हुन्छ
 अघि हेर्नु चार हात, पछि हेर्नु बाह्र हात    |   	Aghi hernu chaar haat, pachhi hernu bahra haat 
 अघिको तीतो पछिको मीठो    |   	Aghi ko tito pachhi ko mitho.       |       Mehanat le fal mitho hunxa
