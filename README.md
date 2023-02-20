@@ -2,9 +2,9 @@
 
 **Namaskar,**
 
- As a foreign language like English slowly invading our communication habits and lifestyle. It is essential that we don't forget the importance of our native language, Nepali. It feels like our ancient stories, cultural proverbs, and literature are no longer passing from generation to generation.
+ As foreign languages like English are slowly invading our communication habits and lifestyle, it is essential that we don't forget the importance of our native language, Nepali. It feels like our ancient stories, cultural proverbs, and literature are no longer passing from generation to generation.
 
-So, this is a small effort for promoting the Nepali language and literature among youth and helping to regain the position of the Nepali language in our generation. Dhanyabad
+So, this is a small effort for promoting the Nepali language and literature among youth and helping to regain the position of the Nepali language in our generation. Dhanyabad! 
 
 <h2> Things You Can Contribute 🤔 </h2>
 
