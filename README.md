@@ -128,8 +128,8 @@ So, this is a small effort for promoting the Nepali language and literature amon
 आमाको माया आँखाको डिलमा    |   	Ama ko maya ankha ko dil maa.
 आमाबाबुको मन छोराछोरी माथि छोराछोरीको मन ढुंगामुढा माथि    |   	Aamaa baabu ko man chhoraachhori maathi choraa chhori ko man dhungaa mudaa maathi.
 आमा–छोराको ऐंचोपैंचो, बाबु–छोराको लेनदेन    |   	Aamaa-chhoraa ko aicho paicho, baabu-chhoraa ko len den.
-आम्दानी चार आनाको खर्च बाह्र आनाको    |   	Aamdani chaar aanaa ko kharchaa bahra aanaa ko.
-आयूको छोरालाई वायूको डर    |   	Aayu ko choora lai baayu ko dar.
+आम्दानी चार आनाको खर्च बाह्र आनाको    |   	Aamdani chaar aanaa ko kharchaa bahra aanaa ko. | Aaye banda byaye dherai |
+आयूको छोरालाई वायूको डर    |   	Aayu ko choora lai baayu ko dar. | Hunai nasakne kura dekhi daraune |
 आयो गयो माया मोह, आएन गएन को हो को हो    |   	Aayo gayo maya moha, aayena gayena ko ho ko ho.
 आलु खाएर पेडाको धाक    |   	Aalu khaayera pedaa ko dhaak.       |       Sano kaam garera thulo kaam ko dhaak dine 
 इखालु स्वास्नीको बचन, बहुला कुकुरको दाँत    |   	Ikhaalu swaasni ko bachan, bahulaa kukur ko daat.
