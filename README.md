@@ -235,6 +235,7 @@ So, this is a small effort for promoting the Nepali language and literature amon
 कुकुरले खुट्टा टोक्यो भन्दैमा कुकुरको खुट्टा टोक्नु हुन्न    |   	Kukur le khutta tokyo bhandai ma kukur ko khutta toknu hunna.
 कुक्कुरलाई हड्डी पैचो    |   	Kukur lai haddi paicho.
 कुचोले बढार्नु पर्ने कसिङ्‍गर हावाले उडायो    |   	Kucho le badaarnu parne kasingar hawa le udaayo.
+काम छैन बुहारी पाडाको कन्डो कनाएर बस   | Kam xaina buhari pada ko kando kanayera bas 
 कुन्ता कि बुहरी भ्टमास खाकि    |   	Kunta ki buhari bhatmaas khaaki.
 कुन्ताको महादेव खरानी घसेको    |   	Kunta ko mahadev kharaani ghaseko.
 कुप्री बुढीलाई उठी सुख न बसी सुख    |   	Kupri budhi lai uthi sukha na basi sukha.
@@ -873,6 +874,7 @@ So, this is a small effort for promoting the Nepali language and literature amon
 हगे हग मुते काटुला    |   	Hage hag mute kaatulaa.
 हगेपछि दैलो देख्नु    |   	Hage pachhi dailo dekhnu.
 हग्नेलाई भन्दा देख्‍नेलाई लाज    |   	Hagne lai bhandaa dekhne lai laaj.
+हग्ने बेलामा चक खोज्नु  |   hagne bela ma chak khojnu   | antim samaya ma kehi garnu
 हडबड को काम गड्बड हुन्छ    |   	Hadbad ko kaam gadbad hunchha 
 हत्केलामा तोरी उम्रदैन    |   	Hatkela ma tori umradaina 
 हराएको गाई सूर्यलाई दान    |   	Harayeko gai surya lai daan.
