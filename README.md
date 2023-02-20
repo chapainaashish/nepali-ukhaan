@@ -871,6 +871,7 @@ So, this is a small effort for promoting the Nepali language and literature amon
 स्वास्नीमान्छेको थर छैन लोग्ने मान्छेको घर छैन    |   	Swasni maanchhe ko thar chhaina, logne maanchhe ko ghar chhaina.
 हँसियाको बिहेमा खुर्पाको गीत    |   	Hasiyaa ko bihe maa khurpaa ko geet.
 हगाई भन्दा पदाई ठूलो    |   	Hagai bhanda padai thulo.
+हग्नन गयो कन्डो बिर्सेयो  | Hagna gayo kando birseyo | Forgetting the major/important  thing  you need for some work or an activity.
 हगे हग मुते काटुला    |   	Hage hag mute kaatulaa.
 हगेपछि दैलो देख्नु    |   	Hage pachhi dailo dekhnu.
 हग्नेलाई भन्दा देख्‍नेलाई लाज    |   	Hagne lai bhandaa dekhne lai laaj.
