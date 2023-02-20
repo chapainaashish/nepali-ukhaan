@@ -108,7 +108,7 @@ So, this is a small effort for promoting the Nepali language and literature amon
 आजकालका केटी स्टाइलको भारी टाउकोमा भने डिस्को गर्ने जुम्राको ढाडी    |   	Aajkal kaa keti style ko bhaari tauko maa bhane disko garne jumraa ko dhaadi.
 आजको कामलाई भोलि नभन्नु    |   	Aaja ko kaam lai bholi nabhannu.       |       kaam na sachnu, aaja ko kaam aajai garni
 आधा गाग्रो छचल्किन्छ    |   	Adha gagro chhachalkinchha.
-आफु भलो त जगत भलो    |   	Aafu bhalo ta jagat bhallo
+आफु भलो त जगत भलो    |   	Aafu bhalo ta jagat bhallo | afuleh pargati garda samaj ko pragati afai hunxa kinaki ek ek jana milera nai samaj banxa |
 आफुले खान नपाएको अंगुर अमिलो    |   	Aafule khaana napaayeko angur amilo.
 आफू ताक्छु मुडो, बन्चरो ताक्छ घुँडो    |   	Afu taakchhu mudo, bancharo takchha ghundo.
 आफू नमरी स्वर्ग देखिँदैन    |   	Aafu namari swarga dekhidaina.       |       Aafu le kei kaam gari na heri thaha hunna 
@@ -119,13 +119,13 @@ So, this is a small effort for promoting the Nepali language and literature amon
 आफ्नो थैली सुरक्षित राखे अर्कालाई दोष लगाउनु पर्दैन    |   	Aafno thaili surakshit raakhe arkaa lai dosh lagaunu pardaina.
 आफ्नो थैलोको गाँठो कस्नु, अरुलाई दोष नदिनु    |   	Aafno thailo ko gaatho kasnu, aru lai dosh nadinu.
 आफ्नो नुन, आफ्नै पानी, खाउ ज्वाईं कोखा तानी    |   	Aafno nun, aafnai paani, khau juwai kokha taani 
-आफ्नो भाग्य आफैले बनाउनु पर्छ    |   	Aafno bhaagya aafai le banaunu parchha.
+आफ्नो भाग्य आफैले बनाउनु पर्छ    |   	Aafno bhaagya aafai le banaunu parchha. | mehanat garera aafno sapana afai pura garna sakinxa rather than wait for things to happen. |
 आफ्नो रुचि खानु, अर्काको रुचि लाउनु    |   	Aafno ruchhi khaanu, arkaa ko ruchi launu.
 आफ्‍नो हात जगन्‍नाथ    |   	Aafno haat jagannaath.
 आमा पनि ब्युटी छोरि पनि ब्युटी बाउले गर्नु पर्ने चुलाको ड्युटी    |   	Ama pani beauty, chori pani beauty, bau le garnu parne chula ko duty.
 आमा बाबुको मन छोरा छोरी माथि, छोरा छोरीको मन डिङगो जुत्ता माथि    |   	Aama baabu ko man chhora chhori mathi, chhora chori ko man dingo juttaa maathi.
 आमा बाबुलाई समस्या टार्न गार्हो, छोराछोरीलाई भने स्टाईल नै प्यारो    |   	Aamaa baabu lai samasya taarna gahro, chhora chhori lai bhane style nai pyaaro.
-आमा-बाबा को मन छोरा तिर, छोरा को मन अर्काको छोरी तिर    |   	Aama baba ko man chhora tira, chhora ko man arka ko chhori tira.
+आमा-बाबा को मन छोरा तिर, छोरा को मन अर्काको छोरी तिर    |   	Aama baba ko man chhora tira, chhora ko man arka ko chhori tira. | buwa ama ko maya chora lai chora bane budi kp kura matrai sunne |
 आमाको माया आँखाको डिलमा    |   	Ama ko maya ankha ko dil maa.
 आमाबाबुको मन छोराछोरी माथि छोराछोरीको मन ढुंगामुढा माथि    |   	Aamaa baabu ko man chhoraachhori maathi choraa chhori ko man dhungaa mudaa maathi.
 आमा–छोराको ऐंचोपैंचो, बाबु–छोराको लेनदेन    |   	Aamaa-chhoraa ko aicho paicho, baabu-chhoraa ko len den.
@@ -147,7 +147,7 @@ So, this is a small effort for promoting the Nepali language and literature amon
 उम्केको माछो ठुलो    |   	Umkeko maachho thulo
 उसै त बूहारी मरिच खाएकी    |   	Usai ta buhari marich khaayeki.
 उसै त सासू सुन लगाएकी    |   	Usai ta saasu sun lagaayeki
-उही नाम्लो उही कुम्लो    |   	Uhi naamlo uhi kumlo.
+उही नाम्लो उही कुम्लो    |   	Uhi naamlo uhi kumlo. | jati kura garepani aakhir ma afno kaam afai sangha hunxa |
 ऋण काढेर घिऊ खानु    |   	Rin kaadhera ghiu khaanu.       |       Gharo vaie rako bela sokhin jiwan juna khojnu.
 ऋण नलागे जमानी बस्नु    |   	Rin nalaage jamaani basnu.
 ऋण लाग्दा नडराउनु, दिन लाग्दा डराउनु    |   	Rin lagdaa nadaraunu, din laagdaa daraunu.       |       Rin lagyo vane tirna sakinxa tara din lagyo vani derai samasya aauna sakxa.
