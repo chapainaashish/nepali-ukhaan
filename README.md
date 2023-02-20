@@ -472,6 +472,7 @@ So, this is a small effort for promoting the Nepali language and literature amon
 तिर्थ न ब्रत, भुडी भर्त    |   	Tirtha na brata, bhudi barta
 तीजको झरी, चेलीबेटीको आँसु    |   	Teej ko jhari, cheli beti ko aansu 
 तेरो पो धान छन्, कुट्यो खायो, आफ्ना त चामल छन्, कहिले निफन्नु कहिले केलाउनु    |   	Tero po dhan chhan, kutyo khaayo, aafnaa ta chaamal chhan, kahile nifannu kahile kelaunu 
+तेल कम चिड चिड ज्यादा    |   	Tel kam chid chid jyada 
 तैं रानी मै रानी, को भर्ला कुवाको पानी    |   	Tai raani mai raani, ko bharlaa kuwa ko paani.
 थाकेको बेलामा पाकेको केरा    |   	Thakeko bela pakeko kera.
 थापा गयो नेपाल, खेत भयो सस्तै, कुलो लग्यो पहिरोले, जस्ताको तस्तै    |   	Thapa gayo Nepal, Khet bhayo sastai, kulo lagyo pahiro le, jasta ko tastai.
