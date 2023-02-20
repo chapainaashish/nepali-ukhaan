@@ -44,7 +44,7 @@ So, this is a small effort for promoting the Nepali language and literature amon
 अघि हेर्नु चार हात, पछि हेर्नु बाह्र हात    |   	Aghi hernu chaar haat, pachhi hernu bahra haat 
 अघिको तीतो पछिको मीठो    |   	Aghi ko tito pachhi ko mitho.       |       Mehanat le fal mitho hunxa
 अचानो को पिर खुकुरी ले जान्दैन    |   	Achaano ko pir khukuri le jaandaina     |       Dhukha dina manxe le dukha paune manxe ko samsya bujdiaena 
-अचार खानु मुलाको, संगत गर्नु ठुलाको    |   	Achaar khaanu mula ko, sangat garnu thula ko 
+अचार खानु मुलाको, संगत गर्नु ठुलाको    |   	Achaar khaanu mula ko, sangat garnu thula ko | Asal manxe ko sangat gare khushi paixa nabye dukha |
 अच्छा साले जुल्फी पाले, लिखाले टांग हाले    |   	Achchhaa saale julfi paale, likhaa le taang haale.
 अजिङ्गरको आहारा दैवले जुराउँछ    |   	Ajingar ko aahaaraa daiba le jurauchha.
 अड्को पड्को तेलको धूप    |   	Addo paddo tel ko dhup.
