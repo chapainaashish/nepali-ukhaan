@@ -2,17 +2,17 @@ from fastapi import FastAPI
 from tools import UkhaanTable
 
 
-ukhaans = UkhaanTable()
+ukhaan = UkhaanTable()
 
-nepali_lists = ukhaans.nepali()
-roman_lists = ukhaans.roman()
-meaning_lists = ukhaans.meaning()
-example_lists = ukhaans.example()
+nepali_lists = ukhaan.nepali()
+roman_lists = ukhaan.roman()
+meaning_lists = ukhaan.meaning()
+example_lists = ukhaan.example()
 
 
 app = FastAPI()
 
-@app.get("/ukhaantukkas")
+@app.get("/ukhaantukka")
 def main_page():
     return {
         'Nepali': nepali_lists,
@@ -22,28 +22,28 @@ def main_page():
         }
 
 
-@app.get("/ukhaantukkas/nepali")
+@app.get("/ukhaantukka/nepali")
 def nepali():
     return {
         "Nepali": nepali_lists,
     }
 
 
-@app.get("/ukhaantukkas/roman")
+@app.get("/ukhaantukka/roman")
 def roman():
     return {
         'Roman': roman_lists,
     }
 
 
-@app.get("/ukhaantukkas/meaning")
+@app.get("/ukhaantukka/meaning")
 def meaning():
     return {
         'Meaning': meaning_lists,
     }
 
 
-@app.get("/ukhaantukkas/example")
+@app.get("/ukhaantukka/example")
 def example():
     return {
         'Example': example_lists,
