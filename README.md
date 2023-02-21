@@ -30,8 +30,9 @@ So, this is a small effort for promoting the Nepali language and literature amon
 
 *NOTE: Please add ukhaan and tukka in alphabetical orders*
 
+<h2> Nepali Ukhaan APIs </h2>
 
-**For Nepali Ukhaan APIs: We have the separate repository. Please [visit this](https://github.com/chapainaashish/nepali-ukhaan-apis)**
+For APIs: There is a separate repository. Please visit [nepali-ukhaan-apis](https://github.com/chapainaashish/nepali-ukhaan-apis)
 
 
 <h1 align="center"> नेपाली उखान  टुक्का संग्रह :nepal: </h1>
