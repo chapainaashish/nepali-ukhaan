@@ -26,7 +26,13 @@ So, this is a small effort for promoting the Nepali language and literature amon
 - [x] Do the contribution (Add ukhaan, meaning or example)
 - [x] Commit the changes and make a new pull request
 
+
+
 *NOTE: Please add ukhaan and tukka in alphabetical orders*
+
+
+**For Nepali Ukhaan APIs: We have the separate repository. Please [visit this](https://github.com/chapainaashish/nepali-ukhaan-apis)**
+
 
 <h1 align="center"> नेपाली उखान  टुक्का संग्रह :nepal: </h1>
 
