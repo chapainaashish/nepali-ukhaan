@@ -54,7 +54,7 @@ For APIs: There is a separate repository. Please visit [nepali-ukhaan-apis](http
 अचार खानु मुलाको, संगत गर्नु ठुलाको    |   	Achaar khaanu mula ko, sangat garnu thula ko | Asal manxe ko sangat gare khushi paixa nabye dukha |
 अच्छा साले जुल्फी पाले, लिखाले टांग हाले    |   	Achchhaa saale julfi paale, likhaa le taang haale.
 अजिङ्गरको आहारा दैवले जुराउँछ    |   	Ajingar ko aahaaraa daiba le jurauchha.
-अड्को पड्को तेलको धूप    |   	Addo paddo tel ko dhup.
+अड्को पड्को तेलको धूप    |   	Adko padko tel ko dhup.
 अत्याधिक खानाले शरीरलाई पोषण दिने होइन, रोगी बनाउँछ    |   	Atyaadhik khaanaa le sarir lai posan dine hoina, rogi banauchha.
 अदुवा खाई सभामा बस, मुला खाई बन पस    |   	Aduwaa khaayi sabhaa maa basa, mulaa khaayi bana pasa.
 अनिकालको तोरी, सहकालको जौं    |   	Anikaal ko tori, sahakaal ko jau    
@@ -92,11 +92,11 @@ For APIs: There is a separate repository. Please visit [nepali-ukhaan-apis](http
 असारमा सुरुवाल लगाउनेले मंसिरमा पराल चोर्छ    |   	Asaar ma suruwal laguane le mangsir ma paral chorchha.
 अहंकारी भ्यागुताको ट्वार ट्वारै ठूलो    |   	Ahankari bhyaguto ko twar twar nai thulo
 अँध्यारो काम खोला को गीत    |   	Andhyaro kaam khola ko geet | भेउ नपाई गरिएको काम
-आँ गर्दा अलङ्‍कार बुझ्ने    |   	Aa gardaa alangkaar bujhne. | Jaty vanya cha tyo vanda badi bujhne.
+आँ गर्दा अलङ्‍कार बुझ्ने    |   	Aa gardaa alangkaar bujhne. | Jati bhaneko cha tyo bhanda badi bujhne.
 आँखा नदेख्‍ने नेत्रलाल, कान नसुन्‍ने कर्णकान्त    |   	Aankha nadekhne netralaal kana nasunne karnakaanta
-आँटी छोरीलाई बाघले नि खाँदैन    |   	Aati chhori lai baagh le ni khaadaina.
+आँटी छोरीलाई बाघले नि खाँदैन    |   	Aanti chhori lai baagh le ni khaadaina.
 आँटेको काम झट्टै श्री गणेश    |   	Aateko kaam jhattai shree ganesh.
-आँपको आँप, कोयाको दाम    |   	Aap ko aap, koya ko daam    |   	नाफादार थोकबाट त नाफा छ नै तर जे कुराबाट आशा छैन, त्यसबाट पनि लाभ पाउनु
+आँपको आँप, कोयाको दाम    |   	Aanp ko aanp, khoya ko daam    |   	नाफादार थोकबाट त नाफा छ नै तर जे कुराबाट आशा छैन, त्यसबाट पनि लाभ पाउनु
 आइमाई को रुपै सत्रु, रुपै मित्रु    |   	Ayimaayi ko rupai satru, rupai mitru.
 आइमाईको पेटमा कुरा पच्दैन    |   	Aayimai ko pet maa kura pachhdaina.
 आई बूढी मच्चिंदै, गई बूढी थच्चिंदै    |   	Aaayi budi machchidai, gayi budi thachchidai.
@@ -190,7 +190,7 @@ For APIs: There is a separate repository. Please visit [nepali-ukhaan-apis](http
 कपाल दुखेको औषधी नाइटोमा लगाउनु    |   	Kapaal dukheko ausadhi naito maa lagaunu.
 कपाल भन्दा टुपी छोटो    |   	Kapal bhanda tuppi chhoto       
 कमिलालाई सुसुको पहिरो    |   	Kamila lai mut ko pahiro       
-कम्बल ओढेर घ्यू खाने    |   	Kambal odera ghyu khaane.
+कम्बल ओढेर घ्यू खाने    |   	Kambal odera ghiu khaane.
 कर्कलालाई बन्चरो    |   	Karkalaa lai bancharo 
 कलिवुडको जात्रा तिघ्राको व्यापार    |   	Kollywood ko jatra tighra ko byaapar.
 कसाईंको अगाडि बाख्रा रोएको    |   	Kasaayi ko agaadi bakhraa royeko.
@@ -382,7 +382,7 @@ For APIs: There is a separate repository. Please visit [nepali-ukhaan-apis](http
 जसो जसो बराजु उसै उसै नाति    |   	Jaso jaso baraju usai usai naati.
 जसो जसो बाहुन बाजे, उसै उसै स्वाहा    |   	Jaso jaso baahun baaje, usai usai swahaa 
 जस्ता लाई तेस्तै पाउरोटीलाई निस्तै    |   	Jastaa lai testai pauroti lai nistai.
-जस्तालाई त्यस्तै, ढिंडोलाई निस्तै    |   	Jasta lai thestai, dhindo lai nistai.
+जस्तालाई त्यस्तै, ढिंडोलाई निस्तै    |   	Jasta lai testai, dhindo lai nistai.
 जस्तो आफु उस्तै च्यापु    |   	Jasto aafu ustai chyapu.
 जस्तो गुरु उस्तै चेला    |   	Jasto guru ustai chelaa. | teacher leh j sikayo student leh tehi sikxa ra they become similar |
 जस्तो तस्तो चाहिएन, भने जस्तो पाइएन    |   	Jasto tasto chaahiyena, bhane jasto paayiyena 
@@ -598,7 +598,7 @@ For APIs: There is a separate repository. Please visit [nepali-ukhaan-apis](http
 पापा पनि चिची पनि    |   	Paapaa pani chini pani.
 पारिको घाँस हरियो हुन्छ    |   	Paari ko ghas hariyo hunchha.
 पुड्के बाहुनको सुड्के चन्दन    |   	Pudke baahun ko sudke chandan.
-पुँजी ना सुजी उचल मुजी    |    puji na suji uchal muuji
+पुँजी ना सुजी उचाल  मुजी    |    puji na suji uchal muuji
 पैसा न कौडी बजार बजार दौडी    |   	Paisa na kaudi bajar bajar daudi.
 पोहोर मरी सासु, अहिले आयो आँसु    |   	Pohor mari sasu, ahile ayo ansu.
 प्रतिक्षाको फल मिठो हुन्छ    |   	Pratiksha ko fal mitho hunchha.
