@@ -38,7 +38,7 @@ For APIs: There is a separate repository. Please visit [nepali-ukhaan-apis](http
 
 <h3> Quick Navigation </h3>
 
-<h5>| <a href="#अ">अ</a> | <a href="#आ">आ</a> | <a href="#इ">इ</a> |<a href="#ई">ई</a> |<a href="#उ">उ</a> |<a href="#ऋ">ऋ</a> |<a href="#ए">ए</a> |<a href="#ओ">ओ</a> |<a href="#औ">औ</a> |<a href="#अ">क</a> |<a href="#ख">ख</a> 
+<h5>| <a href="#अ">अ</a> | <a href="#आ">आ</a> | <a href="#इ">इ</a> |<a href="#ई">ई</a> |<a href="#उ">उ</a> |<a href="#ऋ">ऋ</a> |<a href="#ए">ए</a> |<a href="#ओ">ओ</a> |<a href="#औ">औ</a> |<a href="#क">क</a> |<a href="#ख">ख</a> 
 </h5>
 
 | Nepali | Roman | Meaning | Example
