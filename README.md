@@ -27,7 +27,6 @@ So, this is a small effort for promoting the Nepali language and literature amon
 - [x] Commit the changes and make a new pull request
 
 
-
 *NOTE: Please add ukhaan and tukka in alphabetical orders*
 
 <h2> Nepali Ukhaan APIs </h2>
@@ -37,10 +36,14 @@ For APIs: There is a separate repository. Please visit [nepali-ukhaan-apis](http
 
 <h1 align="center"> नेपाली उखान  टुक्का संग्रह :nepal: </h1>
 
+<h3> Quick Navigation </h3>
 
+<h5>| <a href="#अ">अ</a> | <a href="#आ">आ</a> | <a href="#इ">इ</a> |<a href="#ई">ई</a> |<a href="#उ">उ</a> |<a href="#ऋ">ऋ</a> |<a href="#ए">ए</a> |<a href="#ओ">ओ</a> |<a href="#औ">औ</a> |<a href="#क">क</a> |<a href="#ख">ख</a> 
+</h5>
 
 | Nepali | Roman | Meaning | Example
 | --------- | ----------- |  ----------- | ----------- |
+<span id="अ" style="color:#ff0">अ</span>
 अंग्रेजीको काइदा, भुक्नेलाई फाइदा    |   	Angreji ko kaida, bhukne lai faida      |       
 अकटको कुलो, बिकटको खेत, बिर्सेछु दाजै शिलोकको फेद    |   	Akat ko kulo, bikat ko khet, birsechhu daajai silok ko fed
 अकबर राजा, बिरबल काजि, इन्साफ दिन्छन खुसिराजि    |   	Akabar raaja, birbal kaaji, insaaf dinchhan khusiraaji
@@ -93,6 +96,7 @@ For APIs: There is a separate repository. Please visit [nepali-ukhaan-apis](http
 अहंकारी भ्यागुताको ट्वार ट्वारै ठूलो    |   	Ahankari bhyaguto ko twar twar nai thulo
 अँध्यारो काम खोला को गीत    |   	Andhyaro kaam khola ko geet | भेउ नपाई गरिएको काम
 आँ गर्दा अलङ्‍कार बुझ्ने    |   	Aa gardaa alangkaar bujhne. | Jati bhaneko cha tyo bhanda badi bujhne.
+|<span id="आ" style="color:#ff0">आ</span> |
 आँखा नदेख्‍ने नेत्रलाल, कान नसुन्‍ने कर्णकान्त    |   	Aankha nadekhne netralaal kana nasunne karnakaanta
 आँटी छोरीलाई बाघले नि खाँदैन    |   	Aanti chhori lai baagh le ni khaadaina.
 आँटेको काम झट्टै श्री गणेश    |   	Aateko kaam jhattai shree ganesh.
@@ -139,10 +143,13 @@ For APIs: There is a separate repository. Please visit [nepali-ukhaan-apis](http
 आयूको छोरालाई वायूको डर    |   	Aayu ko choora lai baayu ko dar. | Hunai nasakne kura dekhi daraune |
 आयो गयो माया मोह, आएन गएन को हो को हो    |   	Aayo gayo maya moha, aayena gayena ko ho ko ho.
 आलु खाएर पेडाको धाक    |   	Aalu khaayera pedaa ko dhaak.       |       Sano kaam garera thulo kaam ko dhaak dine 
+<span id="इ" style="color:#ff0">इ</span>
 इखालु स्वास्नीको बचन, बहुला कुकुरको दाँत    |   	Ikhaalu swaasni ko bachan, bahulaa kukur ko daat.
 इन्द्रको अगाडि स्वर्गको बयान    |   	Indra ko agaadi swarga ko bayaan.       |       Kei kura bare derai thaha vayeko manxe laie tei kura bare bayan garnu.
 इश्वर धपायो, शास्त्र चपायो    |   	Ishwor dhapaayo, saastra chapaayo.
+<span id="ई" style="color:#ff0">ई</span>
 ईट को जवाफ पत्थर ले दिनु    |   	It ko jawaaf patthar le dinu. | Tit for Tat.
+<span id="उ" style="color:#ff0">उ</span>
 उखाने काका मन्तरी भाका    |   	Ukhane kaka mantari bhaka.
 उचालेको कुकुरले मृग मार्दैन    |   	Uchaaleko kukur le mriga maardaina.
 उठ बुहारी सास फेर, ढिकी छाड्नासाथ जाँतो हेर    |   	Utha buhaari saas fera, dhiki chaadnaa saath jaato hera.
@@ -154,10 +161,12 @@ For APIs: There is a separate repository. Please visit [nepali-ukhaan-apis](http
 उसै त बूहारी मरिच खाएकी    |   	Usai ta buhari marich khaayeki.
 उसै त सासू सुन लगाएकी    |   	Usai ta saasu sun lagaayeki
 उही नाम्लो उही कुम्लो    |   	Uhi naamlo uhi kumlo. | jati kura garepani aakhir ma afno kaam afai sangha hunxa |
+<span id="ऋ" style="color:#ff0">ऋ</span>
 ऋण काढेर घिऊ खानु    |   	Rin kaadhera ghiu khaanu.       |       Gharo vaie rako bela sokhin jiwan juna khojnu.
 ऋण नलागे जमानी बस्नु    |   	Rin nalaage jamaani basnu.
 ऋण लाग्दा नडराउनु, दिन लाग्दा डराउनु    |   	Rin lagdaa nadaraunu, din laagdaa daraunu.       |       Rin lagyo vane tirna sakinxa tara din lagyo vani derai samasya aauna sakxa.
 ऋण लिदा पनि नलिनु, दिदा पनि नदिनु    |   	Rin lida pani nalinu, dida pani nadinu.       |       Rin linu ra dinu thik haiena.
+<span id="ए" style="color:#ff0">ए</span>
 एउटा घिउ बेचुवा, अर्को तरवार बेचुवा    |   	Euta ghiu bechuwaa, arko tarbaar bechuwaa.
 एउटा थाप्लो दुईटा नाम्लो    |   	Euta thaplo duita namlo       |       Euta kaam garna garo vaie rako bela arko kaam thapnu.
 एउटा पोईको दुईटा जोई, ख्वाउने बेलामा कोही न कोही    |   	Euta poi ko duita joi, khuwaune bela maa kohi na kohi.
@@ -177,11 +186,14 @@ For APIs: There is a separate repository. Please visit [nepali-ukhaan-apis](http
 एकता नै बल हो    |   	Ekataa nai bal ho. | Unity is strength.
 एकातिर आँधी, अर्कोतिर झोलुङ्गो    |   	Ekatira andhi, arko tira jhalungo.
 एक्लो बृहस्पति झुट्‍टा    |   	Eklo bhrihaspati jhuttaa.
+<span id="ओ" style="color:#ff0">ओ</span>
 ओखरबोटमा चिल बस्यो, देखेपछि दिल बस्यो    |   	Okhar botmaa chil basyo, dekhe pachhi dil basyo.
 ओरालो लागेको मृगलाई बाच्छाले पनि खेद्छ    |   	Oraalo laageko mrigha lai bachchhaa le pani khedchha.       |       Tala pare paxi sabai le hepxan.
+<span id="औ" style="color:#ff0">औ</span>
 औंला दिंदा डुँडुल्ना निल्ने    |   	Aulaa didaa dudulnaa nilne. | Give him an inch and he will take an yard, don't bite the hand that feed you.
 औषधी र उपदेश मीठो हुन्‍नँ    |   	Ausadhi ra updadesh mitho hunna.       |       Aru le deko upadesh kasai laie ni ramro lagdaie na.
 औसींमा किनेर, पुर्णेमा फाल्ने    |   	Aunsi maa kinera, purne maa faalne       |        Saman derai din samma natiknu
+<span id="क" style="color:#ff0">क</span>
 कङ्गालको जात छैन, बोक्सीको गाउँ छैन    |   	Kangaal ko jaat chhaina, boksi ko gaaun chhaina.       |       Jata pani dhalna sakne manxe ko bhar hudaie na.
 कच्चा वैद्यको मात्रा यमपुरीको यात्रा    |   	Kachchaa baidhya ko matraa yampurko yaatra.
 कता हराइस् नौनी विलौनीमा    |   	Kataa haraayis nauni bilauni maa.       |       Rup pariwartan garnu.
@@ -252,6 +264,7 @@ For APIs: There is a separate repository. Please visit [nepali-ukhaan-apis](http
 के खोज्छस् नेता कुर्सी    |   	K khojchhas netaa kursi.
 केटाकेटी आए, गुलेली खेलाए, मट्‍याङ्‍ग्राको सत्यानाश    |   	Ketaketi aaye, guleli khelaaye, matyangra ko satyaanaas.
 केटी हेर्नै नपर्ने, केटो बोल्नै नपर्ने    |   	Keti hernai naparne, keto bolnai naparne.
+<span id="ख" style="color:#ff0">ख</span>
 खर्च न बर्च, तीर्थ जानु पर्छ    |   	Kharcha na barcha, tirtha jaanu parchha 
 खसको कुरा पेटको छुरा    |   	Khas ko kura pet ko chhuraa.
 खसी जोख्‍नु सय चोटि, मान्छे जोख्‍नु एक चोटि    |   	Khasi jokhnu saya choti, maanchhe jokhnu ek choti.
