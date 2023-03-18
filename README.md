@@ -35,7 +35,46 @@ For APIs: There is a separate repository. Please visit [nepali-ukhaan-apis](http
 
 <h2> Quick Navigation </h2>
 
-<h5>| <a href="#अ">अ</a> | <a href="#आ">आ</a> | <a href="#इ">इ</a> |<a href="#ई">ई</a> |<a href="#उ">उ</a> |<a href="#ऋ">ऋ</a> |<a href="#ए">ए</a> |<a href="#ओ">ओ</a> |<a href="#औ">औ</a> |<a href="#क">क</a> |<a href="#ख">ख</a> 
+<h5> 
+<a href="#अ"> अ </a>| 
+<a href="#आ"> आ </a>|
+<a href="#इ"> इ </a>|
+<a href="#ई"> ई </a>|
+<a href="#उ"> उ </a>|
+<a href="#ऋ"> ऋ </a>|
+<a href="#ए"> ए </a>|
+<a href="#ओ"> ओ </a>|
+<a href="#औ"> औ </a>|
+<a href="#क"> क </a>|
+<a href="#ख"> ख </a>|
+<a href="#ग"> ग </a>|
+<a href="#घ"> घ </a>|
+<a href="#च"> च </a>|
+<a href="#छ"> छ </a>|
+<a href="#ज"> ज  </a>|
+<a href="#झ"> झ  </a>|
+<a href="#ट"> ट  </a>|
+<a href="#ठ"> ठ  </a>|
+<a href="#ड"> ड  </a>|
+<a href="#ढ"> ढ  </a>|
+<a href="#त"> त  </a>|
+<a href="#थ"> थ  </a>|
+<a href="#ध "> ध   </a>|
+<a href="#न "> न  </a>|
+<a href="#प"> प  </a>|
+<a href="#फ"> फ   </a>|
+<a href="#ब"> ब   </a>|
+<a href="#भ"> भ  </a>|
+<a href="#म "> म  </a>|
+<a href="#र > र   </a>|
+<a href="#ल"> ल  </a>|
+<a href="#व"> व  </a>|
+<a href="#श"> श   </a>|
+<a href="#श्र"> श्र  </a>|
+<a href="#स"> स  </a>|
+<a href="#ह"> ह </a>
+
+
 </h5>
 
 
@@ -293,6 +332,7 @@ For APIs: There is a separate repository. Please visit [nepali-ukhaan-apis](http
 खोला तर्यो लौरो बिर्सियो    |   	Kholaa taryo lauro birsiyo.
 खोला र माया तलतिरै बग्छ    |   	Khola ra maya tala tirai bagchha.
 खोलाको देशमा पानीको दुःख    |   	Khola ko desh ma pani ko dukha.
+<span id="ग" style="color:#ff0">**ग**</span>
 गधा भारी नपुगी उठ्दैन    |   	Gadhaa bhaari napugi uthdaina 
 गर्जने बादल वर्षदैन    |   	Garjane baadal barshadaina. | Thunder clouds do not always give rain. 
 गहिराको घरलाई पहिराको डर, डाँडाको घरलाई जाडाको डर    |   	Gahiraa ko ghar lai pahiraa ko dar, dandaa ko ghar lai jaadaa ko dar.
@@ -314,6 +354,7 @@ For APIs: There is a separate repository. Please visit [nepali-ukhaan-apis](http
 गोडा मुती न्यानो    |   	Godaa muti nyaano.
 गोरु नभएको हली र ठेडी नभएको हलोको के काम    |   	Goru nabhayeko hale ra thedi nabhayeko halo ko k kaam 
 गोलीको घाउ निको हुन्छ, बोली को हुँदैन    |   	Goli ko ghau niko hunchha, boli ko hudaina | pain inflicted by world never heals so be wise and aware about how you talk and converse with people.
+<span id="घ" style="color:#ff0">**घ**</span>
 घमण्डको घडा फुट्छ    |   	Ghamanda ko ghadaa futchha.
 घर न थर, पोइको रहर    |   	Ghar na thar, poi ko rahar 
 घर नखाएको छोरि, परदेश नखाएको छोरो    |   	Ghar nakhaayeko chhori, paradesh nakhaayeko chhoro.
