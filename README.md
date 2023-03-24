@@ -85,7 +85,7 @@ For APIs: There is a separate repository. Please visit [nepali-ukhaan-apis](http
 
 | Nepali | Roman | Meaning | Example
 | --------- | ----------- |  ----------- | ----------- |
-<span id="अ" style="color:#ff0">**अ**</span>
+<td colspan=4><span id="अ" style="color:#ff0">**अ**</span></td>
 अंग्रेजीको काइदा, भुक्नेलाई फाइदा    |   	Angreji ko kaida, bhukne lai faida      |       
 अकटको कुलो, बिकटको खेत, बिर्सेछु दाजै शिलोकको फेद    |   	Akat ko kulo, bikat ko khet, birsechhu daajai silok ko fed
 अकबर राजा, बिरबल काजि, इन्साफ दिन्छन खुसिराजि    |   	Akabar raaja, birbal kaaji, insaaf dinchhan khusiraaji
