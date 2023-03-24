@@ -94,9 +94,7 @@ For APIs: There is a separate repository. Please visit [nepali-ukhaan-apis](http
 <tbody>
 <tr>
 <td colspan="4" align="center"><span id="अ"><strong>अ</strong></span></td>
-<td></td>
-<td></td>
-<td></td>
+
 </tr>
 <tr>
 <td>अंग्रेजीको काइदा, भुक्नेलाई फाइदा</td>
@@ -412,9 +410,7 @@ For APIs: There is a separate repository. Please visit [nepali-ukhaan-apis](http
 </tr>
 <tr>
 <td colspan="4" align="center"><span id="आ"><strong>आ</strong></span></td>
-<td></td>
-<td></td>
-<td></td>
+
 </tr>
 <tr>
 <td>आँखा नदेख्‍ने नेत्रलाल, कान नसुन्‍ने कर्णकान्त</td>
@@ -694,9 +690,7 @@ For APIs: There is a separate repository. Please visit [nepali-ukhaan-apis](http
 </tr>
 <tr>
 <td colspan="4" align="center"><span id="इ"><strong>इ</strong></span></td>
-<td></td>
-<td></td>
-<td></td>
+
 </tr>
 <tr>
 <td>इखालु स्वास्नीको बचन, बहुला कुकुरको दाँत</td>
@@ -718,9 +712,7 @@ For APIs: There is a separate repository. Please visit [nepali-ukhaan-apis](http
 </tr>
 <tr>
 <td colspan="4" align="center"><span id="ई"><strong>ई</strong></span></td>
-<td></td>
-<td></td>
-<td></td>
+
 </tr>
 <tr>
 <td>ईट को जवाफ पत्थर ले दिनु</td>
@@ -730,9 +722,7 @@ For APIs: There is a separate repository. Please visit [nepali-ukhaan-apis](http
 </tr>
 <tr>
 <td colspan="4" align="center"><span id="उ"><strong>उ</strong></span></td>
-<td></td>
-<td></td>
-<td></td>
+
 </tr>
 <tr>
 <td>उखाने काका मन्तरी भाका</td>
@@ -802,9 +792,7 @@ For APIs: There is a separate repository. Please visit [nepali-ukhaan-apis](http
 </tr>
 <tr>
 <td colspan="4" align="center"><span id="ऋ"><strong>ऋ</strong></span></td>
-<td></td>
-<td></td>
-<td></td>
+
 </tr>
 <tr>
 <td>ऋण काढेर घिऊ खानु</td>
@@ -832,9 +820,7 @@ For APIs: There is a separate repository. Please visit [nepali-ukhaan-apis](http
 </tr>
 <tr>
 <td colspan="4" align="center"><span id="ए"><strong>ए</strong></span></td>
-<td></td>
-<td></td>
-<td></td>
+
 </tr>
 <tr>
 <td>एउटा घिउ बेचुवा, अर्को तरवार बेचुवा</td>
@@ -952,9 +938,7 @@ For APIs: There is a separate repository. Please visit [nepali-ukhaan-apis](http
 </tr>
 <tr>
 <td colspan="4" align="center"><span id="ओ"><strong>ओ</strong></span></td>
-<td></td>
-<td></td>
-<td></td>
+
 </tr>
 <tr>
 <td>ओखरबोटमा चिल बस्यो, देखेपछि दिल बस्यो</td>
@@ -970,9 +954,7 @@ For APIs: There is a separate repository. Please visit [nepali-ukhaan-apis](http
 </tr>
 <tr>
 <td colspan="4" align="center"><span id="औ"><strong>औ</strong></span></td>
-<td></td>
-<td></td>
-<td></td>
+
 </tr>
 <tr>
 <td>औंला दिंदा डुँडुल्ना निल्ने</td>
@@ -994,9 +976,7 @@ For APIs: There is a separate repository. Please visit [nepali-ukhaan-apis](http
 </tr>
 <tr>
 <td colspan="4" align="center"><span id="क"><strong>क</strong></span></td>
-<td></td>
-<td></td>
-<td></td>
+
 </tr>
 <tr>
 <td>कङ्गालको जात छैन, बोक्सीको गाउँ छैन</td>
@@ -1420,9 +1400,7 @@ For APIs: There is a separate repository. Please visit [nepali-ukhaan-apis](http
 </tr>
 <tr>
 <td colspan="4" align="center"><span id="ख"><strong>ख</strong></span></td>
-<td></td>
-<td></td>
-<td></td>
+
 </tr>
 <tr>
 <td>खर्च न बर्च, तीर्थ जानु पर्छ</td>
@@ -1588,9 +1566,7 @@ For APIs: There is a separate repository. Please visit [nepali-ukhaan-apis](http
 </tr>
 <tr>
 <td colspan="4" align="center"><span id="ग"><strong>ग</strong></span></td>
-<td></td>
-<td></td>
-<td></td>
+
 </tr>
 <tr>
 <td>गधा भारी नपुगी उठ्दैन</td>
@@ -1720,9 +1696,7 @@ For APIs: There is a separate repository. Please visit [nepali-ukhaan-apis](http
 </tr>
 <tr>
 <td colspan="4" align="center"><span id="घ"><strong>घ</strong></span></td>
-<td></td>
-<td></td>
-<td></td>
+
 </tr>
 <tr>
 <td>घमण्डको घडा फुट्छ</td>
@@ -1834,9 +1808,7 @@ For APIs: There is a separate repository. Please visit [nepali-ukhaan-apis](http
 </tr>
 <tr>
 <td colspan="4" align="center"><span id="च"><strong>च</strong></span></td>
-<td></td>
-<td></td>
-<td></td>
+
 </tr>
 <tr>
 <td>चकचके गोरुको चार ठाउँमा डाम, ठुलो माछो लड्यो समातेर खाम</td>
@@ -2056,9 +2028,7 @@ For APIs: There is a separate repository. Please visit [nepali-ukhaan-apis](http
 </tr>
 <tr>
 <td colspan="4" align="center"><span id="ज"><strong>ज</strong></span></td>
-<td></td>
-<td></td>
-<td></td>
+
 </tr>
 <tr>
 <td>जंगलमा मड्‍गल</td>
@@ -2506,9 +2476,7 @@ For APIs: There is a separate repository. Please visit [nepali-ukhaan-apis](http
 </tr>
 <tr>
 <td colspan="4" align="center"><span id="झ"><strong>झ</strong></span></td>
-<td></td>
-<td></td>
-<td></td>
+
 </tr>
 <tr>
 <td>झाल रहे चिचिला लाग्छ</td>
@@ -2542,9 +2510,7 @@ For APIs: There is a separate repository. Please visit [nepali-ukhaan-apis](http
 </tr>
 <tr>
 <td colspan="4" align="center"><span id="ट"><strong>ट</strong></span></td>
-<td></td>
-<td></td>
-<td></td>
+
 </tr>
 <tr>
 <td>टपरी माझेर कहिल्यै चोखिदैन</td>
@@ -2608,9 +2574,7 @@ For APIs: There is a separate repository. Please visit [nepali-ukhaan-apis](http
 </tr>
 <tr>
 <td colspan="4" align="center"><span id="ठ"><strong>ठ</strong></span></td>
-<td></td>
-<td></td>
-<td></td>
+
 </tr>
 <tr>
 <td>ठाउँ न ठहर, बूढीको रहर</td>
@@ -2650,9 +2614,7 @@ For APIs: There is a separate repository. Please visit [nepali-ukhaan-apis](http
 </tr>
 <tr>
 <td colspan="4" align="center"><span id="ड"><strong>ड</strong></span></td>
-<td></td>
-<td></td>
-<td></td>
+
 </tr>
 <tr>
 <td>डढेको मुखमा खुदो हालेको रोटि</td>
@@ -2680,9 +2642,7 @@ For APIs: There is a separate repository. Please visit [nepali-ukhaan-apis](http
 </tr>
 <tr>
 <td colspan="4" align="center"><span id="ढ"><strong>ढ</strong></span></td>
-<td></td>
-<td></td>
-<td></td>
+
 </tr>
 <tr>
 <td>ढाँटको निम्तो खाई पत्याउनु</td>
@@ -2728,9 +2688,7 @@ For APIs: There is a separate repository. Please visit [nepali-ukhaan-apis](http
 </tr>
 <tr>
 <td colspan="4" align="center"><span id="त"><strong>त</strong></span></td>
-<td></td>
-<td></td>
-<td></td>
+
 </tr>
 <tr>
 <td>तँ आँट म पुर्‍याउँछु</td>
@@ -2872,9 +2830,7 @@ For APIs: There is a separate repository. Please visit [nepali-ukhaan-apis](http
 </tr>
 <tr>
 <td colspan="4" align="center"><span id="थ"><strong>थ</strong></span></td>
-<td></td>
-<td></td>
-<td></td>
+
 </tr>
 <tr>
 <td>थाकेको बेलामा पाकेको केरा</td>
@@ -2932,9 +2888,7 @@ For APIs: There is a separate repository. Please visit [nepali-ukhaan-apis](http
 </tr>
 <tr>
 <td colspan="4" align="center"><span id="द"><strong>द</strong></span></td>
-<td></td>
-<td></td>
-<td></td>
+
 </tr>
 <tr>
 <td>दमाइको लुगामा तुना छिनेको</td>
@@ -3094,9 +3048,7 @@ For APIs: There is a separate repository. Please visit [nepali-ukhaan-apis](http
 </tr>
 <tr>
 <td colspan="4" align="center"><span id="ध"><strong>ध</strong></span></td>
-<td></td>
-<td></td>
-<td></td>
+
 </tr>
 <tr>
 <td>धन कमाई धाक, साथी कमाई लाख</td>
@@ -3196,9 +3148,7 @@ For APIs: There is a separate repository. Please visit [nepali-ukhaan-apis](http
 </tr>
 <tr>
 <td colspan="4" align="center"><span id="न"><strong>न</strong></span></td>
-<td></td>
-<td></td>
-<td></td>
+
 </tr>
 <tr>
 <td>न आमा पट्टिको न मामा पट्टिको</td>
@@ -3460,9 +3410,7 @@ For APIs: There is a separate repository. Please visit [nepali-ukhaan-apis](http
 </tr>
 <tr>
 <td colspan="4" align="center"><span id="प"><strong>प</strong></span></td>
-<td></td>
-<td></td>
-<td></td>
+
 </tr>
 <tr>
 <td>पटुकामा रुपैया, बटुकामा भात</td>
@@ -3628,9 +3576,7 @@ For APIs: There is a separate repository. Please visit [nepali-ukhaan-apis](http
 </tr>
 <tr>
 <td colspan="4" align="center"><span id="फ"><strong>फ</strong></span></td>
-<td></td>
-<td></td>
-<td></td>
+
 </tr>
 <tr>
 <td>फकाई फकाई ल्याए, चिमोटी चिमोटी मारे</td>
@@ -3664,9 +3610,7 @@ For APIs: There is a separate repository. Please visit [nepali-ukhaan-apis](http
 </tr>
 <tr>
 <td colspan="4" align="center"><span id="ब"><strong>ब</strong></span></td>
-<td></td>
-<td></td>
-<td></td>
+
 </tr>
 <tr>
 <td>बचनको चोट, मनको घाउ</td>
@@ -4132,9 +4076,7 @@ For APIs: There is a separate repository. Please visit [nepali-ukhaan-apis](http
 </tr>
 <tr>
 <td colspan="4" align="center"><span id="भ"><strong>भ</strong></span></td>
-<td></td>
-<td></td>
-<td></td>
+
 </tr>
 <tr>
 <td>भंगेरो मार्न सजिलो हुन्छ, भुत्ल्याउन गाह्रो</td>
@@ -4318,9 +4260,7 @@ For APIs: There is a separate repository. Please visit [nepali-ukhaan-apis](http
 </tr>
 <tr>
 <td colspan="4" align="center"><span id="म"><strong>म</strong></span></td>
-<td></td>
-<td></td>
-<td></td>
+
 </tr>
 <tr>
 <td>मकैको रोटीमा घिउ हाल्न र माइतिको सम्पतिमा जिउ हाल्न बेकार छ</td>
@@ -4642,9 +4582,7 @@ For APIs: There is a separate repository. Please visit [nepali-ukhaan-apis](http
 </tr>
 <tr>
 <td colspan="4" align="center"><span id="य"><strong>य</strong></span></td>
-<td></td>
-<td></td>
-<td></td>
+
 </tr>
 <tr>
 <td>यता न उता हातमा जुत्ता</td>
@@ -4660,9 +4598,7 @@ For APIs: There is a separate repository. Please visit [nepali-ukhaan-apis](http
 </tr>
 <tr>
 <td colspan="4" align="center"><span id="र"><strong>र</strong></span></td>
-<td></td>
-<td></td>
-<td></td>
+
 </tr>
 <tr>
 <td>राजाको अँगाडि र घोडाको पछाडि नलाग्नु, लात खाइन्छ</td>
@@ -4792,9 +4728,7 @@ For APIs: There is a separate repository. Please visit [nepali-ukhaan-apis](http
 </tr>
 <tr>
 <td colspan="4" align="center"><span id="ल"><strong>ल</strong></span></td>
-<td></td>
-<td></td>
-<td></td>
+
 </tr>
 <tr>
 <td>लक्का छोरोलाई के को धक्का</td>
@@ -4930,9 +4864,7 @@ For APIs: There is a separate repository. Please visit [nepali-ukhaan-apis](http
 </tr>
 <tr>
 <td colspan="4" align="center"><span id="व"><strong>व</strong></span></td>
-<td></td>
-<td></td>
-<td></td>
+
 </tr>
 <tr>
 <td>वचन फेर्नु र बाबु फेर्नु उस्तै हो</td>
@@ -4996,9 +4928,7 @@ For APIs: There is a separate repository. Please visit [nepali-ukhaan-apis](http
 </tr>
 <tr>
 <td colspan="4" align="center"><span id="श"><strong>श</strong></span></td>
-<td></td>
-<td></td>
-<td></td>
+
 </tr>
 <tr>
 <td>शत्रु नदेखे भाईको मुख हेर्नु</td>
@@ -5044,9 +4974,7 @@ For APIs: There is a separate repository. Please visit [nepali-ukhaan-apis](http
 </tr>
 <tr>
 <td colspan="4" align="center"><span id="श्र"><strong>श्र</strong></span></td>
-<td></td>
-<td></td>
-<td></td>
+
 </tr>
 <tr>
 <td>श्रीखण्डलाइ कपुर, भांगलाइ धतुर</td>
@@ -5068,9 +4996,7 @@ For APIs: There is a separate repository. Please visit [nepali-ukhaan-apis](http
 </tr>
 <tr>
 <td colspan="4" align="center"><span id="स"><strong>स</strong></span></td>
-<td></td>
-<td></td>
-<td></td>
+
 </tr>
 <tr>
 <td>संगत गुना को फल</td>
@@ -5350,9 +5276,7 @@ For APIs: There is a separate repository. Please visit [nepali-ukhaan-apis](http
 </tr>
 <tr>
 <td colspan="4" align="center"><span id="ह"><strong>ह</strong></span></td>
-<td></td>
-<td></td>
-<td></td>
+
 </tr>
 <tr>
 <td>हँसियाको बिहेमा खुर्पाको गीत</td>
