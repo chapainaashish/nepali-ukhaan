@@ -51,27 +51,29 @@ For APIs: There is a separate repository. Please visit [nepali-ukhaan-apis](http
 <a href="#घ"> घ </a>|
 <a href="#च"> च </a>|
 <a href="#छ"> छ </a>|
-<a href="#ज"> ज  </a>|
-<a href="#झ"> झ  </a>|
-<a href="#ट"> ट  </a>|
-<a href="#ठ"> ठ  </a>|
-<a href="#ड"> ड  </a>|
-<a href="#ढ"> ढ  </a>|
-<a href="#त"> त  </a>|
-<a href="#थ"> थ  </a>|
-<a href="#ध "> ध   </a>|
-<a href="#न "> न  </a>|
-<a href="#प"> प  </a>|
-<a href="#फ"> फ   </a>|
-<a href="#ब"> ब   </a>|
-<a href="#भ"> भ  </a>|
-<a href="#म "> म  </a>|
-<a href="#र > र   </a>|
-<a href="#ल"> ल  </a>|
-<a href="#व"> व  </a>|
-<a href="#श"> श   </a>|
-<a href="#श्र"> श्र  </a>|
-<a href="#स"> स  </a>|
+<a href="#ज"> ज </a>|
+<a href="#झ"> झ </a>|
+<a href="#ट"> ट </a>|
+<a href="#ठ"> ठ </a>|
+<a href="#ड"> ड </a>|
+<a href="#ढ"> ढ </a>|
+<a href="#त"> त </a>|
+<a href="#थ"> थ </a>|
+<a href="#द"> द </a>|
+<a href="#ध"> ध </a>|
+<a href="#न"> न </a>|
+<a href="#प"> प </a>|
+<a href="#फ"> फ </a>|
+<a href="#ब"> ब </a>|
+<a href="#भ"> भ </a>|
+<a href="#म"> म </a>|
+<a href="#य"> य </a>|
+<a href="#र"> र </a>|
+<a href="#ल"> ल </a>|
+<a href="#व"> व </a>|
+<a href="#श"> श </a>|
+<a href="#श्र"> श्र </a>|
+<a href="#स"> स </a>|
 <a href="#ह"> ह </a>
 
 
@@ -373,6 +375,7 @@ For APIs: There is a separate repository. Please visit [nepali-ukhaan-apis](http
 घैया रोपेर धान फल्दैन    |   	Ghaiyaa ropera dhaan faldaina.
 घोडा चड्ने मान्छे लड्छ    |   	Ghoda chadne maanche ladchha.| Trying without failing is impossible.
 घ्यु केमा पोखियो? दालमा    |   	Ghyu k maa pokhiyo? daal maa.
+<span id="च" style="color:#ff0">**च**</span>
 चकचके गोरुको चार ठाउँमा डाम, ठुलो माछो लड्यो समातेर खाम    |   	Chak chake goru ko chaar thau maa daam, tholo maachho maryo samaatera khaam 
 चण्डाललाई रुद्राक्षको माला    |   	Chhandaal lai rudrakshya ko maalaa.
 चरेस खानु तर हरेस नखानु    |   	Charesh khaanu tara haresh nakhaanu.
@@ -409,6 +412,7 @@ For APIs: There is a separate repository. Please visit [nepali-ukhaan-apis](http
 छोरो उत्ताउलो हुँदा घुँडा भाच्छ, छोरी उत्ताउली हुँदा पोइला जान्छे    |   	Chhoro uttaulo huda ghuda bhaachchha, chhori uttauli huda poila jaanchhe.
 छोरो पायो हर्कमान, छोरि पायो थर्कमान    |   	Chhoro paayo harkamaan, chhori paayo tharkamaan.
 छोरो भन्दा नाती प्यारो, सावाँ भन्दा ब्याज प्यारो    |   	Chhoro bhanda naati pyaaro, sawaa bhandaa byaaj pyaaro 
+<span id="ज" style="color:#ff0">**ज**</span>
 जंगलमा मड्‍गल    |   	Jangal maa mangal.
 जता ओरालो उतै गंगाजी    |   	Jata oralo utai gangaji.
 जता काफल पाक्छ, त्यता चरी नाच्छ    |   	Jata kafal pakchha, tyata chari nachchha.
@@ -483,11 +487,13 @@ For APIs: There is a separate repository. Please visit [nepali-ukhaan-apis](http
 जोगी देख्दा भैँसी तर्सिने, भैँसी देख्दा जोगी तर्सने    |   	Jogi dekhda bhaisi tarsine, bhaisi dekhda jogi tarsine.
 जोगीको घरमा सन्यासी पाहुना    |   	Jogi ko ghar maa sanyaasi paahuna.
 जोगीको घरमा हिप्पी पाहुना    |   	Jogi ko ghar maa hippi paahunaa
+<span id="झ" style="color:#ff0">**झ**</span>
 झाल रहे चिचिला लाग्छ    |   	Jhaal rahe chichilaa laagchha.
 झिंगाको डिंगाले हात्ती मर्दैन    |   	Jhinga ko dinga le hatti mardaina.
 झिङ्गो मारि धार्नी न बिसौली    |   	Jhingo maari dharni na bisauli.
 झुकेको शिर र भत्केको भिर प्रति कसैको आश हुदैन    |   	Jhukeko sir ra bhatkeko bhir prati kasaiko aas hudaina 
 झुटो बोल्नेले छिटो कसम खान्छ    |   	Jhuto bolne le chhito kasam khaanchha.
+<span id="ट" style="color:#ff0">**ट**</span>
 टपरी माझेर कहिल्यै चोखिदैन    |   	Tapari maajhera kahilei chokhidaina 
 टपरीमा भात, हातमा सिन्को, निर्बाह भयो आजको दिनको    |   	Tapari maa bhaat, haat maa sinko, nirbaaha bhayo aaja ko din ko 
 टल्कदैमा सुन हुदैन    |   	Talkadaima sun hudaina
@@ -498,16 +504,19 @@ For APIs: There is a separate repository. Please visit [nepali-ukhaan-apis](http
 टुहुराको पनि दिन फर्कन्छ    |   	Tuhura ko pani din farkanchha. | Every dog has its day. / Everyone has their days
 टुहुराको सहारा दैव    |   	Tuhurako sahara daiba.
 टोपी न सोपी, कपाल केले छोपी    |   	Topi na sopi, kapal ke le chhopi
+<span id="ठ" style="color:#ff0">**ठ**</span>
 ठाउँ न ठहर, बूढीको रहर    |   	Thau na thahar, budi ko rahar.
 ठाउँमा लगाए गाजल, कुठाउँ मा लगाए मोसो    |   	Thau maa lagaaye gaajal, kuthau maa lagaaye moso 
 ठाडो टिका लाउछे, स्वामी कहाँ धाउछे    |   	Thado tika lauchhe, swami kaha dhauchhe 
 ठेस लागेन भने उखुबारी पस्नु, ऋण लागेन भने जमानी बस्नु    |   	Thes laagena bhane ukhu baari pasnu, rin laagena bhane jamaani basnu 
 ठेस लाग्न भिर चाहिन्न    |   	Thes lagna bhir chaninna.
 ठेस् नलागे उखुबारी पस्नु    |   	Thes nalaage ukhubaari pasnu.
+<span id="ड" style="color:#ff0">**ड**</span>
 डढेको मुखमा खुदो हालेको रोटि    |   	Dadheko mukh maa khudo haaleko roti.
 डरलाग्दा मान्छेका घिनलाग्दा कुरा    |   	Dar laagdaa maanchhe kaa ghin laagdaa kura 
 डराउने मान्छेलाई रुखको ठुटो पनि बाघ बन्छ    |   	Daraune maanchhe lai rukh ko thuto pani baagh banchha.
 डाँकाले खाएको धन,आगोले खाएको बन    |   	Daakaa le khaayeko dhan, aago le khaayeko ban 
+<span id="ढ" style="color:#ff0">**ढ**</span>
 ढाँटको निम्तो खाई पत्याउनु    |   	Daat ko nimto khaayi patyaunu.
 ढिँडो र फाँडो एउटै हो    |   	Dhido ra faado eutai ho.
 ढिकीले स्वर्गमा पनि धानै कुट्छ    |   	Dhiki le swarga maa pani dhaanai kutchha.
@@ -515,6 +524,7 @@ For APIs: There is a separate repository. Please visit [nepali-ukhaan-apis](http
 ढुंगा खोज्दा देउता मिल्नु    |   	Dunga khojda deuta milnu. | To get something better while searching for something ordinary
 ढुंगाको भर माटो, माटोको भर ढुंगा    |   	Dhunga ko bhar maato, maato ko bhar dhunga.
 ढुटे कि छोरी कनिका खानेमा परी, कनिका देखेरै उफ्रेर मरी    |   	Dhute ki chhori kanikaa khaane maa pari, kanikaa dekherai ufrera mari.
+<span id="त" style="color:#ff0">**त**</span>
 तँ आँट म पुर्‍याउँछु    |   	Ta aat ma puryauchhu.
 तँ आउँदा मोही पाईनस, तेरो कमारी पठाईदे दही दिउँला    |   	Ta aaudaa mohil paayinas, tero kamaari pathai de dahi diula.
 तँ कुटे जस्तो गर, म रोए जस्तो गर्छु    |   	Ta kute jasto gar, ma roye jasto garchhu.
@@ -538,6 +548,7 @@ For APIs: There is a separate repository. Please visit [nepali-ukhaan-apis](http
 तेरो पो धान छन्, कुट्यो खायो, आफ्ना त चामल छन्, कहिले निफन्नु कहिले केलाउनु    |   	Tero po dhan chhan, kutyo khaayo, aafnaa ta chaamal chhan, kahile nifannu kahile kelaunu 
 तेल कम चिड चिड ज्यादा    |   	Tel kam chid chid jyada 
 तैं रानी मै रानी, को भर्ला कुवाको पानी    |   	Tai raani mai raani, ko bharlaa kuwa ko paani.
+<span id="थ" style="color:#ff0">**थ**</span>
 थाकेको बेलामा पाकेको केरा    |   	Thakeko bela pakeko kera.
 थापा गयो नेपाल, खेत भयो सस्तै, कुलो लग्यो पहिरोले, जस्ताको तस्तै    |   	Thapa gayo Nepal, Khet bhayo sastai, kulo lagyo pahiro le, jasta ko tastai.
 थारुलाई दारु र मुसा भए केही चाहिँदैन    |   	Thaaru lai daaru ra musa bhaye kehi chaahidaina.
@@ -547,6 +558,7 @@ For APIs: There is a separate repository. Please visit [nepali-ukhaan-apis](http
 थोपा थोपा मिलेर सागर बन्छ    |   	Thopa thopa milera saagar banchha. |  A penny saved is a penny earned.
 थोपडा ना सोप्डा प्रियंका चोपडा    |   	Thopda na sopda priyanka chopda.
 थोरै भए ठिक्क, धेरै भए दिक्क    |   	Thorai bhaye thikka, dherai bhaye dikka.
+<span id="द" style="color:#ff0">**द**</span>
 दमाइको लुगामा तुना छिनेको    |   	Damai ko lugaamaa tunaa chhineko 
 दरबारमा जन्मदैमा सबैजना राजा हुदैनन्    |   	Durbar maa janmidaimaa sabai jana raja hudainan 
 दरबारमा प्रवेश गर्दैमा साँढे राजा बन्दैन, बरु दरबार गोठ बन्छ    |   	Durbar prabesh gardai maa saande raajaa bandaina, baru durbar goth banchha.
@@ -573,6 +585,7 @@ For APIs: There is a separate repository. Please visit [nepali-ukhaan-apis](http
 देख्नेका आँखा फुटे सुन्नेका सही    |   	Dekhne ko ankha fute sunne ka sahi.
 दैबले दिन्छ, पितृले हर्छ    |   	Daiba le dinchha, pitri le harchha.
 दौरा न सौराको खल्ती    |   	Daura na saura ko khalti.
+<span id="ध" style="color:#ff0">**ध**</span>
 धन कमाई धाक, साथी कमाई लाख    |   	Dhan kamai dhaak, saathi kamali laakh 
 धन देख्‍दा महादेवको तीन नेत्र    |   	Dhan dekhdaa mahadev ko tin netra
 धन भने पछि महादेव को पनि तीन नेत्र | Dhan bhane paxi mahadev ko pani tin netra | Money really matters.
@@ -589,6 +602,7 @@ For APIs: There is a separate repository. Please visit [nepali-ukhaan-apis](http
 धोबीको कुत्ता यता न उता    |   	Dhobi ko kutta yeta na uta.
 धोबीलाई हतार भयो भन्दैमा रातिमा घाम लाग्दैन    |   	Dhobi lai hataar bhayo bhandai maa raati maa ghaam laagdaina.
 धोबीलाई हतार हुँदैमा घाम लाग्दैन    |   	Dhobi lai hataar hudai maa ghaam laagdaina.
+<span id="न" style="color:#ff0">**न**</span>
 न आमा पट्टिको न मामा पट्टिको    |   	Na aamaa patti ko na maamaa patti ko.
 न धुँदा जाने, न रुँदा जाने    |   	Na dhudaa jaane, na rudaa jaane 
 नकचरा को ओखति छैन    |   	Nakachara ko wokhati chhaina 
@@ -632,6 +646,7 @@ For APIs: There is a separate repository. Please visit [nepali-ukhaan-apis](http
 नौलो छँदा नौ पुलाको गाँस, पूरानो भएपछी जगल्टाको नाश    |   	Naulo chhada nau pulaa ko gaas, purano bhaye pachhi jagalta ko naas.
 न्याउरी मारी पछुतो    |   	Nyauri maari pachhuto.
 न्याय नपाए गोर्खा जानु    |   	Nyaaye napaaye Gorkha jaanu.
+<span id="प" style="color:#ff0">**प**</span>
 पटुकामा रुपैया, बटुकामा भात    |   	Patuka ma rupaiya, batuka ma bhaat 
 पढिलेखी छैन काम, चम्चागिरी गरी खायो माम    |   	Padi lekhi chhaina kaam, chamchaa giri gari khaayo maam.
 पढेर भन्दा परेर जानिन्छ    |   	Padera bhanda parera janinchha.
@@ -659,11 +674,13 @@ For APIs: There is a separate repository. Please visit [nepali-ukhaan-apis](http
 प्रतिक्षाको फल मिठो हुन्छ    |   	Pratiksha ko fal mitho hunchha.
 प्रशासनमा घुसखोरी, जनता बोल्दैनन् मुख फोरी    |   	Prasaasan maa ghus khori, janata boldainan mukh fori.
 प्रेमिकाले छोडेको कहिले कहिले, लभलेटर लेख्छन् आहिले    |   	Premika le chhodeko kahile kahile, love letter lekhchhan ahile.
+<span id="फ" style="color:#ff0">**फ**</span>
 फकाई फकाई ल्याए, चिमोटी चिमोटी मारे    |   	Fakai fakai lyaye, chimoti chimoti maare.
 फलामले फलाम काट्‍छ    |   	Falaam le falaam kaatchha.
 फिनी हराएको थाहा छैन गहुँको दाना गन्ने    |   	Fini harayeko thaha chhaina gahu ko dana ganne.
 फोकट को पाए एक मानो चुक पनी खान्छ    |   	Fokat ko paaye ek maano chuk pani khaanchha.
 फोश्रो आशा न देखाऊ नु | fosre asha na dekhaunu |  Promise only if you can make it.
+<span id="ब" style="color:#ff0">**ब**</span>
 बचनको चोट, मनको घाउ    |   	Bachan ko chhot, man ko ghaau 
 बजेट कहाँ पोखियो, आफ्नै पकेटमा    |   	Bajet kaha pokhiyo, afnai pocket maa
 बत्ती निभ्नु आघी धपक्क बल्छ    |   	Batti nibhnu aghi dhapakka balchha.
@@ -741,6 +758,7 @@ For APIs: There is a separate repository. Please visit [nepali-ukhaan-apis](http
 बोलेर बाठो र दौडेर छिटो कहिल्यै हुँदैन    |   	Bolera batho ra daudera chhito kahelei hudaina.
 बोल्नेको पिठो बिक्छ, नबोल्नेको चामल पनि बिक्दैन    |   	Bolne ko pitho bikchha, nabolne ko chaamal pani bikdaina | person who talks and socialize gains the upperhand 
 ब्रत बस्ने हामी फलाहार खाने कामी    |   	Brata basne haami falhaar khaane kaami.
+<span id="भ" style="color:#ff0">**भ**</span>
 भंगेरो मार्न सजिलो हुन्छ, भुत्ल्याउन गाह्रो    |   	Bhangeko maarna sajilo hunchha, bhutlyauna gahro
 भए अन्त नभए बुढाथोकीको जन्त    |   	Bhaye anta nabhaye budathoki ko janta.
 भण्‍डारीले भन्दियो, गोतामेले गोददियो    |   	Bhandari le bhandiyo, gotame le godhdiyo.
@@ -771,6 +789,7 @@ For APIs: There is a separate repository. Please visit [nepali-ukhaan-apis](http
 भोजन हैन भोक मिठो    |   	Bhojan haina bhok mitho. |  Hunger doesn't judge the taste of food.
 भ्रष्टाचार नगर्नेलाई सिंहदरवार के काम    |   	Bhrastaachaar nagarne lai Singha Durbar k kaam?
 भ्वाड् भन्दा स्वाङ् ठुलो    |   	Bhwang bhanda swang thulo.
+<span id="म" style="color:#ff0">**म**</span>
 मकैको रोटीमा घिउ हाल्न र माइतिको सम्पतिमा जिउ हाल्न बेकार छ    |   	Makai ko roti maa ghyu haalna ra maiti ko sampatti maa jiu haalna bekaar chha.
 मन नपर्ने जेठी बुढिले पकाएको खिर पनि गनाउँछ, मन पर्ने कान्छी बुढिको पाद पनि बसाउँछ    |   	Man naparne jethi budi le pakaayeko kheer pani ganauchha, man parne kaanchhi bude ko paad pani basauchha.
 मन परेको केटो जेठाजू    |   	Man pareko keto jethaju.
@@ -824,8 +843,10 @@ For APIs: There is a separate repository. Please visit [nepali-ukhaan-apis](http
 मौका मा चौका हान्न जान्नु पर्छ    |   	Maukaa maa chaukaa hanna jannu parchha | Seize the opportunity.
 मौकामा कोढीको पनि पाउ मोल्नु पर्छ    |   	Mauka ma kodhi ko pani pau molnu parchha.
 मौकामा हिरा पनी फोर्न सक्नु पर्छ    |   	Maukaa maa hiraa pani forna saknu parchha.
+<span id="य" style="color:#ff0">**य**</span>
 यता न उता हातमा जुत्ता    |   	Yata na uta haat maa juttaa.
 युद्धको बेलामा बुद्धको पुराण काम लाग्दैन    |   	Yuddha ko bela buddha ko puraan kaam laagdaina.
+<span id="र" style="color:#ff0">**र**</span>
 राजाको अँगाडि र घोडाको पछाडि नलाग्नु, लात खाइन्छ   |   	Raajaa ko agaadi ra ghodaa ko pachaadi nalaagnu, laat khaayinchha.
 राजाको काम चारैतिर बदनाम    |   	Raja ko kaam charai tira badnaam.
 राजाको काम छोडी कामिको देउली    |   	Raajaa ko kaam chhodi kaami ko deuli.
@@ -847,6 +868,7 @@ For APIs: There is a separate repository. Please visit [nepali-ukhaan-apis](http
 रुद्रघण्टी नहुनेको विश्वास नगर्नु    |   	Rudraghanti nahune ko biswaas nagarnu.
 रुने आँखालाई गाजलले छेक्दैन    |   	Rune ankha lai gaajal le chhekdaina.
 रोटी चिल्लो मिठो, कुरा खस्रो मिठो    |   	Roti chillo mitho, kura khasro mitho.
+<span id="ल" style="color:#ff0">**ल**</span>
 लक्का छोरोलाई के को धक्का    |   	Lakka choro lai k ko dhakaa 
 लगनको बेला हगन    |   	Lagan ko bela hagan.
 लगनपछिको पोते के काम    |   	Lagan pachhi ko pote ke kaam?
@@ -869,6 +891,7 @@ For APIs: There is a separate repository. Please visit [nepali-ukhaan-apis](http
 लोभीहरु रहुन्जेल पापीहरु भोकै मर्दैनन्    |   	Lobhi haru rahunjel paapi haru bhokai mardainan.
 लौरो टेके भर हुन्छ, कान्छी ल्याए घर हुन्छ    |   	Lauro teke bhar hunchha, kaanchhi lyaaye ghar hunchha 
 ल्हासामा सुन छ, कान मेरो बुच्चै    |   	Lhasa maa sun chha, kaan mero buchhai.
+<span id="व" style="color:#ff0">**व**</span>
 वचन फेर्नु र बाबु फेर्नु उस्तै हो    |   	Bachan fernu ra baabu fernu eutai ho.
 वल्लो घरको नरे, पल्लो घरमा सरे    |   	Wallo ghar ko nare, pallo ghar ma sare.
 वल्लो घाट न पल्लो तीर    |   	Wallo ghaat na pallo tir
@@ -879,6 +902,7 @@ For APIs: There is a separate repository. Please visit [nepali-ukhaan-apis](http
 विष्टको घरमा भात पाक्दा दमाईको घरमा खलबल    |   	Bista ko ghar maa bhaat paakdaa damai ko ghar maa khalbal.
 विसौलीको जिब्रो फड्कार्नु भन्दा धार्नीको टाउको हल्लाउनु बेस    |   	Bisauli ko jibro fadkaarnu bhanda dhaarni ko dauko hallaunu bes.
 वैद्यका गलगाँड जैसीका छोरी राँड    |   	Baidhya kaa galagaad, jaisi kaa chhori raad.
+<span id="श" style="color:#ff0">**श**</span>
 शत्रु नदेखे भाईको मुख हेर्नु    |   	Shatru nadekhe bhai ko mukh hernu.
 शत्रु नलागे आफन्त पाल्नु    |   	Satru nalaage aafanta paalnu.
 शरणको मरण गर्नु हुदैन    |   	Saran ko maran garnu hudaina.
@@ -886,9 +910,11 @@ For APIs: There is a separate repository. Please visit [nepali-ukhaan-apis](http
 शिवजीलाई धतुरोले लाग्दैन    |   	Shiva ji lai dhaturo le laagdaina.
 शुक्र उदाए, फर्सी कुदाए    |   	Sukra udaaye, farsi kudaaye 
 शोक न सुर्ता, भोक न भकारी    |   	Sok na surtaa, bhok na bhakaari.
+<span id="श्र" style="color:#ff0">**श्र**</span>
 श्रीखण्डलाइ कपुर, भांगलाइ धतुर    |   	Shrikhanda lai kapur, bhang lai dhatur.
 श्रीमती कति बाठी, बोका स्टाईलको केश काटी    |   	Shrimati kati baathi, bokaa style ko kesh kaati.
 श्रीमतीको पिटाई खाएको लोग्ने चुरा बज्दा तर्सिन्छ    |   	Shiramti ko pitai khaayeko logne chura bajdaa tarsinchha.
+<span id="स" style="color:#ff0">**स**</span>
 संगत गुना को फल    |   	Sangat guna ko fal.
 संगै बसी सुती सकि, लाज मान्दै घुम्टो कसी    |   	Sangai basi duti saki, laaj maandai ghumto kasi.
 संगैका साथि सिँहदरबार माथी    |   	Sangai kaa saathi singha durbar maathi 
@@ -935,6 +961,7 @@ For APIs: There is a separate repository. Please visit [nepali-ukhaan-apis](http
 स्वास्थ राम्रो चेक-अपले, केटि राम्रो मेक-अपले    |   	Swasthya ramro check up le, keti ramro makeup le.
 स्वास्नीको आगाडी किम जोङ्ग पनी बिरालो    |   	Swasni ko agaadi Kim Jong pani biraalo.
 स्वास्नीमान्छेको थर छैन लोग्ने मान्छेको घर छैन    |   	Swasni maanchhe ko thar chhaina, logne maanchhe ko ghar chhaina.
+<span id="ह" style="color:#ff0">**ह**</span>
 हँसियाको बिहेमा खुर्पाको गीत    |   	Hasiyaa ko bihe maa khurpaa ko geet.
 हगाई भन्दा पदाई ठूलो    |   	Hagai bhanda padai thulo.
 हग्नन गयो कन्डो बिर्सेयो  | Hagna gayo kando birseyo | Forgetting the major/important  thing  you need for some work or an activity.
@@ -979,5 +1006,3 @@ For APIs: There is a separate repository. Please visit [nepali-ukhaan-apis](http
 हेर्दा चरो, पर्दा बन्चरो    |   	Herdaa charo, pardaa bancharo.
 हेर्दाको राम्रो, दिन खानको चाम्रो    |   	Herda ko ramro dina khaana ko chamro 
 हेर्नेको र छेर्नेको भर हुँदैन    |   	Herne ko ra chherne ko bhar hudaina.
-
-
