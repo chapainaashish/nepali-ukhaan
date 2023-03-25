@@ -398,6 +398,7 @@ For APIs: There is a separate repository. Please visit [nepali-ukhaan-apis](http
 चोरलाई चौतारो, साधूलाई सुली    |   	Chor lai chautaro, saadhu lai suli.
 चोरले अरुलाई पनि चोर नै देख्छ    |   	Chor le aru lai pani chor nai dekhchha.
 चौटा खान गएकी बूढी झोलमा डुबेर मरी    |   	Chauta khaana gayeki budi jhol maa dubera mari |  Greed leads to even bigger losses
+<span id="छ" style="color:#ff0">**छ**</span>
 छट्टु छोरालाई पार्टीले लिदैन    |   	Chhattu chhora lai party le lidaina.
 छन् गेडी सबै मेरी छैनन् गेडी सबै टेढी    |   	Chhan gedi sabai meri, chhainan gedi sabai tedi.
 छाडेको पोइ र हिडेको स्वास्नीको नाम कसले लिन्छ    |   	Chhodeko poi ra hideko swaasni ko naam kasle linchha 
