@@ -6,34 +6,35 @@
 
 So, this is a small effort for promoting the Nepali language and literature among youth and helping to regain the position of the Nepali language in our generation. Dhanyabad! 
 
-<h2> Things You Can Contribute 🤔 </h2>
+<h2> Things You Can Contribute</h2>
 
 1. Add new ukhaan tukka
-   
 2. Add meaning to the existing ukhaan tukka
-   
 3. Add example to the existing ukhaan tukka
-
 4. Fix typos and word formation
-   
 5. Share it with your friends and family
 
 
-<h2> Steps For Contribution👣 </h2>
+<h2> Steps For Contribution</h2>
 
-- [x] Fork this repository to your account
-- [x] Press the edit button of `README.md`
-- [x] Do the contribution (Add ukhaan, meaning or example)
-- [x] Commit the changes and make a new pull request
+1.  Fork this repository to your account
+2.  Press the edit button of `README.md`
+3.  Do the contribution (Add ukhaan, meaning or example)
+4.  Commit the changes and make a new pull request
+
+<h2> Rules For Contribution</h2>
+
+- [x] Ukhaan should be listed in alphabetical order 
+- [x] Ukhaan should have at least nepali and roman meaning.
+- [x] Duplicate ukhaan are not allowed.
 
 
-*NOTE: Please add ukhaan and tukka in alphabetical orders*
 
-<h2> Nepali Ukhaan APIs </h2>
+<h2> Nepali Ukhaan APIs</h2>
 
 For APIs: There is a separate repository. Please visit [nepali-ukhaan-apis](https://github.com/chapainaashish/nepali-ukhaan-apis)
 
-<h2> Quick Navigation </h2>
+<h2> Quick Navigation</h2>
 
 <h5> 
 <a href="#अ"> अ </a>| 
