@@ -99,9 +99,8 @@ For APIs: There is a separate repository. Please visit [nepali-ukhaan-apis](http
 अचानो को पिर खुकुरी ले जान्दैन    |   	Achaano ko pir khukuri le jaandaina     |       Dhukha dina manxe le dukha paune manxe ko samsya bujdiaena 
 अचार खानु मुलाको, संगत गर्नु ठुलाको    |   	Achaar khaanu mula ko, sangat garnu thula ko | Asal manxe ko sangat gare khushi paixa nabye dukha |
 अच्छा साले जुल्फी पाले, लिखाले टांग हाले    |   	Achchhaa saale julfi paale, likhaa le taang haale.
-अजिङ्गरको आहारा दैवले जुराउँछ    |   	Ajingar ko aahaaraa daiba le jurauchha.
+अजिङ्गरको आहारा दैवले जुराउँछ    |   	Ajingar ko aahaaraa daiba le jurauchha. |  Yedi kei kura vagya ma chha vane paincha.  |
 अड्को पड्को तेलको धूप    |   	Adko padko tel ko dhup.
-अत्याधिक खानाले शरीरलाई पोषण दिने होइन, रोगी बनाउँछ    |   	Atyaadhik khaanaa le sarir lai posan dine hoina, rogi banauchha.
 अदुवा खाई सभामा बस, मुला खाई बन पस    |   	Aduwaa khaayi sabhaa maa basa, mulaa khaayi bana pasa.
 अनिकालको तोरी, सहकालको जौं    |   	Anikaal ko tori, sahakaal ko jau    
 अनिकालको मानु, दिनु न खानु    |   	Anikaal ko maanu, dinu na khaanu 
