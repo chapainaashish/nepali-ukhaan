@@ -22,7 +22,7 @@ So, this is a small effort for promoting the Nepali language and literature amon
 3.  Do the contribution (Add ukhaan, meaning or example)
 4.  Commit the changes and make a new pull request
 
-<h2> Rules For Contribution</h2>
+<h2>Contribution Guidelines</h2>
 
 - [x] Ukhaan should be listed in alphabetical order 
 - [x] Ukhaan should have at least nepali and roman meaning.
