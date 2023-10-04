@@ -836,6 +836,7 @@ For APIs: There is a separate repository. Please visit [nepali-ukhaan-apis](http
 मुखमा सरस्वती हुनेको सधैं वृहस्पति आउँछ    |   	Mukh maa Saraswati hune ko sadhai brihaspati aauchha.
 मुर्ति चोरलाई पशुपति न गुहेश्वरी    |   	Murti chor lai Pashupati na Guhyeshwari .
 मूर्ख र पैसा छिट्‍टै सकिन्छ    |   	Murkha ra paisa chittai sakinchha.
+मुर्ख तिन पटक हास्छ | A fool laughs three times.
 मूर्खको धन रहँदैन    |   	Marukha ko dhan rahadaina.
 मेरो गोरूको बार्‍है टक्‍का    |   	Mero goru ko bahrai takkaa.| Being overly stubborn.
 मेहनतको फल मिठो हुन्छ    |   	Mehenat ko fal mitho hunchha.    |    Fruits of labor are always sweet.
@@ -1007,4 +1008,4 @@ For APIs: There is a separate repository. Please visit [nepali-ukhaan-apis](http
 हेर्दा चरो, पर्दा बन्चरो    |   	Herdaa charo, pardaa bancharo.
 हेर्दाको राम्रो, दिन खानको चाम्रो    |   	Herda ko ramro dina khaana ko chamro 
 हेर्नेको र छेर्नेको भर हुँदैन    |   	Herne ko ra chherne ko bhar hudaina.
-मुखमा राम राम, बगलीमा छुरा | Mukh maa raam raam bagali maa chhura
+
