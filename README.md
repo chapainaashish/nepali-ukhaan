@@ -1007,3 +1007,4 @@ For APIs: There is a separate repository. Please visit [nepali-ukhaan-apis](http
 हेर्दा चरो, पर्दा बन्चरो    |   	Herdaa charo, pardaa bancharo.
 हेर्दाको राम्रो, दिन खानको चाम्रो    |   	Herda ko ramro dina khaana ko chamro 
 हेर्नेको र छेर्नेको भर हुँदैन    |   	Herne ko ra chherne ko bhar hudaina.
+मुखमा राम राम, बगलीमा छुरा | Mukh maa raam raam bagali maa chhura
