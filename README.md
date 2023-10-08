@@ -844,6 +844,7 @@ For APIs: There is a separate repository. Please visit [nepali-ukhaan-apis](http
 मौका मा चौका हान्न जान्नु पर्छ    |   	Maukaa maa chaukaa hanna jannu parchha | Seize the opportunity.
 मौकामा कोढीको पनि पाउ मोल्नु पर्छ    |   	Mauka ma kodhi ko pani pau molnu parchha.
 मौकामा हिरा पनी फोर्न सक्नु पर्छ    |   	Maukaa maa hiraa pani forna saknu parchha.
+मुर्ख तीन पटक हास्छ | Murkha teen patak haaschha | A foolish laughs three times.
 <span id="य" style="color:#ff0">**य**</span>
 यता न उता हातमा जुत्ता    |   	Yata na uta haat maa juttaa.
 युद्धको बेलामा बुद्धको पुराण काम लाग्दैन    |   	Yuddha ko bela buddha ko puraan kaam laagdaina.
