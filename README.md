@@ -2,7 +2,7 @@
 
 **Namaskar,**
 
- As foreign languages like English are slowly invading our communication habits and lifestyle, it is essential that we don't forget the importance of our native language, Nepali. It feels like our ancient stories, cultural proverbs, and literature are no longer passing from generation to generation.
+ As foreign languages like English are slowly invading our communication habits and lifestyle, it is essential that we don't forget the importance of our native language, Nepali. It feels like our ancient stories, cultural proverbs, and literature are no longer passing from generation to generation. 
 
 So, this is a small effort for promoting the Nepali language and literature among youth and helping to regain the position of the Nepali language in our generation. Dhanyabad! 
 
@@ -17,10 +17,9 @@ So, this is a small effort for promoting the Nepali language and literature amon
 
 <h2> Steps For Contribution</h2>
 
-1.  Fork this repository to your account
-2.  Press the edit button of `README.md`
-3.  Do the contribution (Add ukhaan, meaning or example)
-4.  Commit the changes and make a new pull request
+1.  Press the edit button of `README.md`
+2.  Do the contribution (Add ukhaan, meaning or example)
+3.  Commit the changes and make a new pull request
 
 <h2>Contribution Guidelines</h2>
 
