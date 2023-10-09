@@ -93,7 +93,7 @@ For APIs: There is a separate repository. Please visit [nepali-ukhaan-apis](http
 अक्चु खाए बक्छु खाए झुसे बारुलो    |   	Akchhu khaaye bakchhu khaaye jhuse baarulo
 अगुल्टोले हानेको कुकुर बिजुलीदेखि तर्सन्छ    |   	Agulto le haaneko kukur bijuli dekhi tarsanchha.       |        Ek choti galti garisakepaxi aarko choti garna bata tarsinxa  
 अगुल्ठो पनि नठोसी बल्दैन    |   	Agultho pani nathosi baldaina    |   	कुनै पनि सम्बन्धमा केही असामान्य हुन आवश्यक हुन्छ
-अघि हेर्नु चार हात, पछि हेर्नु बाह्र हात    |   	Aghi hernu chaar haat, pachhi hernu bahra haat 
+अघि हेर्नु चार हात, पछि हेर्नु बाह्र हात    |   	Aghi hernu chaar haat, pachhi hernu bahra haat | agadi ra pachadi dubai tira khyal puraunu 
 अघिको तीतो पछिको मीठो    |   	Aghi ko tito pachhi ko mitho.       |       Mehanat le fal mitho hunxa
 अचानो को पिर खुकुरी ले जान्दैन    |   	Achaano ko pir khukuri le jaandaina     |       Dhukha dina manxe le dukha paune manxe ko samsya bujdiaena 
 अचार खानु मुलाको, संगत गर्नु ठुलाको    |   	Achaar khaanu mula ko, sangat garnu thula ko | Asal manxe ko sangat gare khushi paixa nabye dukha |
@@ -102,14 +102,14 @@ For APIs: There is a separate repository. Please visit [nepali-ukhaan-apis](http
 अड्को पड्को तेलको धूप    |   	Adko padko tel ko dhup.
 अदुवा खाई सभामा बस, मुला खाई बन पस    |   	Aduwaa khaayi sabhaa maa basa, mulaa khaayi bana pasa.
 अनिकालको तोरी, सहकालको जौं    |   	Anikaal ko tori, sahakaal ko jau    
-अनिकालको मानु, दिनु न खानु    |   	Anikaal ko maanu, dinu na khaanu 
+अनिकालको मानु, दिनु न खानु    |   	Anikaal ko maanu, dinu na khaanu  | aafulai dukha pareko bela arulai sahayog garnu ki nagarnu
 अनिकालमा लाईफ जोगाउनु, आन्दोलनमा बाईक जोगाउनु    |   	Anikaal maa life jogaunu, andolan maa bike jogaunu.
 अनिकाले मानू, बाँडिचूडी खानू    |   	Anikaale maanu, badi chudi khaanu.
 अनुहार न दनुवार पोइ खोज्न थाली    |   	Anuhaar na danuwaar poi khojna thaali.
 अनुहार न दनुवार, पाण्‍डव सुनुवार    |   	Anuhaar na danuhaar, pandab sunuwar. | Chyamata bina furti lagunu | Anuhar na danuwar pandav sunwar bhane ghai ram le dherai furti laucha
 अन्धाको देशमा आँखा छोप्नु, लङ्‍गडाको देशमा खुट्‍टा खोच्याउनु    |   	Andhaa ko desh maa aankhaa chhopnu, langadaa ko desh maa khuttaa khochchyaunu.
 अन्धाको सहारा लङ्गडा    |   	Andhaa ko saahaaraa langadaa.
-अन्धाको हातमा टुकी    |   	Andha ko hat ma tuki.
+अन्धाको हातमा टुकी    |   	Andha ko hat ma tuki. | 
 अन्धोलाई ऐनाको खोजि    |   	Andho lai ainaa ko khoji.       |       Na chaie kura ma chaso bhegta garnu
 अन्नमा भन्दा सन्नमा जोड    |   	Anna ma bhanda Sanna ma jod.
 अन्यायको धन, कहिल्यै मेरो नभन    |   	Anyaaye ko dhan, kahilei mero nabhan.
@@ -120,7 +120,7 @@ For APIs: There is a separate repository. Please visit [nepali-ukhaan-apis](http
 अरूले हात्ती चढे भनेर आफूले धुरी चढ्नु हुँदैन    |   	Aru le hatti chade bhanera aafu le dhuri chadnu hudaina.
 अर्काको आङ्गको जुम्रा देख्‍ने, आफ्‍नो आङ्गको भैसी पनि नदेख्‍ने    |   	Arka ko aang ko jumra dekhne, aafno aang ko bhaisi pani nadekhne. |  It is easy to point others fault but don't realize his own faults.
 अर्काको गहना लगाउनु, नाक कान दुखाउनु    |   	Arka ko gahana lagaunu, naak kaan dukhaunu.
-अर्काको नासो गलपासो    |   	Arkaa ko naaso galpaaso.
+अर्काको नासो गलपासो    |   	Arkaa ko naaso galpaaso.  | aruko saman bigrina sakxa
 अर्काको बाच्छो चाटी मुखभरी रौँ    |   	Arka ko bachchho chaati mukh bhari rau.
 अर्काको बारीमा साग छ, मुटु मिचेर के लाग्छ    |   	Arkaa ko baari maa saag chha, mutu michera k laagchha.
 अर्काको बुद्धिले राजा हुनुभन्दा आफ्नै बुद्धिले जोगी हुनु बेस    |   	Arka ko buddhi le raja hunu bhanda afnai buddhi le jogi junu besh.       |        Aru ko muni basera thulo manxe hunu bhanda aafnaie malik aafaie bayera sano kaam garna jati hunxa 
