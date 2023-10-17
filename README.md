@@ -251,7 +251,7 @@ For APIs: There is a separate repository. Please visit [nepali-ukhaan-apis](http
 कसारको कुन गुदी कुन बोक्रो    |   	Kasar ko kun gudhi kun bokro?
 कसैको आहार कसैको विष    |   	Kasai ko aahar, kasaiko bish.       |       Eutai kura ma bhibid bichar
 कसैलाई के धन्दा घरज्वाईंलाई खानको धन्दा    |   	Kasai lai ke dhandaa, ghar juwai lai khaana ko dhandaa.
-कसैलाई लाखा, कसैलाई पाखा    |   	Kasai lai kaakhaa, kasai lai paakhaa.
+कसैलाई लाखा, कसैलाई पाखा    |   	Kasai lai kaakhaa, kasai lai paakhaa. | kunailai maya garni kunailai hela garni
 कसैले तपाईं भनोस् नभनोस् आफैं मपाईं    |   	Kasaile tapai bhanos nabhanos aafai mapai.       |       Aafno prasansa aafai garnu.
 कस्ता कस्ता कहाँ गए मुसाको बच्चा दरबारमा    |   	Kasta kasta kaha gaye musa ko bacchha durbar maa
 कहाँ जान्छस् मछली मेरै ढडिया    |   	Kaha jaanchhas machali merai dhadiya.
@@ -284,7 +284,7 @@ For APIs: There is a separate repository. Please visit [nepali-ukhaan-apis](http
 कालो बादलले संधै पानी पार्दैन    |   	Kaalo baadal le sadhai paani paardaina.
 कालो बाहुन, गोरो शुद्र, यिनीदेखि डराउँछन् महारुद्र    |   	Kaalo baahun, goro sudra, yini dekhi darauchhan mahaa rudra.
 काशी जाने कुतिको बाटो    |   	Kaashi jaane kuti ko baato.
-किन रोइस् मङ्‍गले आफ्‍नै ढंगले    |   	Kina royis mangale aafnai dhangale.
+किन रोइस् मङ्‍गले आफ्‍नै ढंगले    |   	Kina royis mangale aafnai dhangale. | aafaile garda kaam bigranu
 किनेको दाउरा किनेकै पानी, कर्मचारीका श्रीमती महलका रानी    |   	Kineko daura kinekai pani, karmachari ka shrimati mahal kaa raani.
 कुकुर भुक्दै गर्छ, हात्ती लम्कँदै गर्छ    |   	Kukur bhukdai garchha, hatti lamkidai garchha.
 कुकुरको पुच्छर बाह्र बर्ष सम्म ढुङ्रोमा राखेपनी बाङ्गाको बाङ्गै    |   	Kukur ko puchhar bahra barsha dhungro maa raakhe pani bangaa ko baangai 
