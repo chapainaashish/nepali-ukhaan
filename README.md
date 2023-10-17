@@ -934,57 +934,57 @@ For APIs: There is a separate repository. Please visit [nepali-ukhaan-apis](http
 ससुरालीको धनमा नामर्दको रजाईं    |   	Sasurali ko dhan maa naamarda ko rajai.
 सस्तो बेसारले पखला लाग्छ    |   	Sasto besaar le pakhalaa laagchha.
 साँढेको जुधाई, बाच्छाको मिचाई    |   	Saadhe ko judhai bachchhaa ko michai.
-साउँको भन्दा ब्याजको माया    |   	Saunko bhanda byaaj ko maya.
-साउनको भेललाई बेलामा रोक्न सके बाली राम्रो हुन्छ    |   	Saaun ko bhel lai belaa maa rokna sake baali ramro hunchha.
+साउँको भन्दा ब्याजको माया    |   	Saunko bhanda byaaj ko maya.    |    One giving importance to something of lower value.
+साउनको भेललाई बेलामा रोक्न सके बाली राम्रो हुन्छ    |   	Saaun ko bhel lai belaa maa rokna sake baali ramro hunchha.    |    It's better to stop a event that we don't want to go forward in its early stages. 
 साउनमा आँखा फुटेको गोरूले बार्‍है महिना हरियो देख्छ    |   	Saaun maa aankhaa futeko gorule bahrai mahina hariyo dekhchha.
 सानो चीत्तले बोसो पाक्दैन    |   	Sano chitta le boso pakdaina.
 सानो छउन्जेल मर्ला भन्‍ने पीर, ठूलो भएपछि मार्ला भन्‍ने पीर    |   	Saano chhaunjel marlaa bhanne pir, thulo bhaye pachhi marlaa bhanne pir.
 सानोलाई, ऐन ठूलोलाई चैन    |   	Saano lai ain thulo lai chain.
-सार्कीको सरापले डिँगो मर्दैन    |   	Saarki ko saraap le dingo mardaina.
+सार्कीको सरापले डिँगो मर्दैन    |   	Saarki ko saraap le dingo mardaina.    |   	Hate from someone of lower power status is no concern of one in higher status.
 सालीको आशमा भिनाजुको बनिबास    |   	Saali ko aasmaa bhinaju ko banibaas.
 सासूको माया छोरी छउन्जेल, बुहारीको माया छोरा छउन्जेल    |   	Saasu ko maya chhori chhaunjel, buhari ko maya chhora chhaunjel.
 सिपाहिको काम छैन, जर्नेलको मान    |   	Sipaahi ko kaam chhaina jarnel ko maan.
 सिमीका झालमा काउसाको कोसो    |   	Simi ka jhaal maa kausa ko kosho.
 सियो बनेर पस्ने, फालि बनेर निस्कने    |   	Siyo banera pasne, faali banera niskane.
-सियो हराएको दमाइँ जस्तो    |   	Siyo haraayeko damai jasto
+सियो हराएको दमाइँ जस्तो    |   	Siyo haraayeko damai jasto    |    Acting like you have lost all your identity. 
 सीतैंमा पाये भट्टि रीत्तै    |   	Sittai maa paaye bhatti rittai.
-सुख पाए ससुराली जानू, दु:ख पाए मीतकहाँ जानू    |   	Sukhan paaye sasurali jaanu, dukha paaye mit kahaa jaanu.
-सुगुरलाई स्वर्ग जान्छस् भन्दा त्यहाँ गु खान पाईन्छ भनी उल्टो सोध्छ    |   	Sungur lai swarga jaanchhas bhandaa tyaha gu khaana paayinchha bhanera ulto sodhchha.
+सुख पाए ससुराली जानू, दु:ख पाए मीतकहाँ जानू    |   	Sukhan paaye sasurali jaanu, dukha paaye mit kahaa jaanu.    |    In-laws only care for you when you have everything but only your true friend stays by you when you are in your lowest. 
+सुगुरलाई स्वर्ग जान्छस् भन्दा त्यहाँ गु खान पाईन्छ भनी उल्टो सोध्छ    |   	Sungur lai swarga jaanchhas bhandaa tyaha gu khaana paayinchha bhanera ulto sodhchha.    |    Someone not recognizing the value of thing he/she is being offered.
 सुघरी स्वास्निको पोइ मोटाउछ , फोहोरी स्वास्निको कुकुर मोटाउछ    |   	Sughari swaasni ko poi motauchha, fohori swaasni ko kukur motauchha.
-सुनलाई खोल लाउनु पर्दैन    |   	Sun lai khol launu pardaina. | 
+सुनलाई खोल लाउनु पर्दैन    |   	Sun lai khol launu pardaina. |    Something of greater value doesn't need to be looked after.
 सुनारको सय चोट, लोहारको एक चोट    |   	Sunaar ko saya chot, lohaar ko ek chot.
 सूर्य अस्त चन्द्र मस्त   |   	Surya asta chandra masta.
-सूर्यको अगाडि बत्ती    |   	Surya ko agadi batti.
-सोर्‍है साला सत्र    |   	Sohrai saalaa satra.
+सूर्यको अगाडि बत्ती    |   	Surya ko agadi batti.    |    Doing something of little to no importance in grand scheme of things.
+सोर्‍है साला सत्र    |   	Sohrai saalaa satra.    |    
 सौताको रिसले श्रीमानको काखमा पिसाब फेर्नु    |   	Sauta ko rish le shriman ko kaakh maa pisaab fernu.
-स्याल कराउनु कुखरा हराउनु    |   	Syaal karaunu kukhura haraunu.
+स्याल कराउनु कुखरा हराउनु    |   	Syaal karaunu kukhura haraunu.    |    Someone being rightfully afraid of past trauma or thing they dealt with in the past.
 स्यालको शिकार गर्न जाँदा बाघको तयारी गर्नु पर्छ    |   	Syaal ko sikaar garna jaadaa baagh ko tayaari garnu parchha.
 स्वास्थ राम्रो चेक-अपले, केटि राम्रो मेक-अपले    |   	Swasthya ramro check up le, keti ramro makeup le.
-स्वास्नीको आगाडी किम जोङ्ग पनी बिरालो    |   	Swasni ko agaadi Kim Jong pani biraalo.
-स्वास्नीमान्छेको थर छैन लोग्ने मान्छेको घर छैन    |   	Swasni maanchhe ko thar chhaina, logne maanchhe ko ghar chhaina.
+स्वास्नीको आगाडी किम जोङ्ग पनी बिरालो    |   	Swasni ko agaadi Kim Jong pani biraalo.    |    Even men in power are afraid of their wives.
+स्वास्नीमान्छेको थर छैन लोग्ने मान्छेको घर छैन    |   	Swasni maanchhe ko thar chhaina, logne maanchhe ko ghar chhaina.    |    Not having something of importance to one's identity by him/herself anymore.
 <span id="ह" style="color:#ff0">**ह**</span>
-हँसियाको बिहेमा खुर्पाको गीत    |   	Hasiyaa ko bihe maa khurpaa ko geet.
+हँसियाको बिहेमा खुर्पाको गीत    |   	Hasiyaa ko bihe maa khurpaa ko geet.    |    Being happy for someone's sucess than that person themselves.
 हगाई भन्दा पदाई ठूलो    |   	Hagai bhanda padai thulo.
 हग्नन गयो कन्डो बिर्सेयो  | Hagna gayo kando birseyo | Forgetting the major/important  thing  you need for some work or an activity.
 हगे हग मुते काटुला    |   	Hage hag mute kaatulaa.
 हगेपछि दैलो देख्नु    |   	Hage pachhi dailo dekhnu.
-हग्नेलाई भन्दा देख्‍नेलाई लाज    |   	Hagne lai bhandaa dekhne lai laaj.
+हग्नेलाई भन्दा देख्‍नेलाई लाज    |   	Hagne lai bhandaa dekhne lai laaj.    |    Feeling second hand embarrassment of one's action.
 हग्ने बेलामा चक खोज्नु  |   hagne bela ma chak khojnu   | antim samaya ma kehi garnu
-हडबड को काम गड्बड हुन्छ    |   	Hadbad ko kaam gadbad hunchha 
+हडबड को काम गड्बड हुन्छ    |   	Hadbad ko kaam gadbad hunchha    |    The work done in hurry is often wrong.
 हत्केलामा तोरी उम्रदैन    |   	Hatkela ma tori umradaina 
 हराएको गाई सूर्यलाई दान    |   	Harayeko gai surya lai daan.
 हरिप देखेर दैव डराउँछ    |   	Harip dekhera daiba daraunchha.
-हरेस खाए नि चरेस नखानु    |   	Hares khaaye ni charesh nakhaanu.
-हर्रो नपाउनेलाई जाईफल    |   	Harro napaune lai jaayifal 
-हर्‍रो नपाउनेले जाईफल को धाक    |   	Harro napaune le jaifal ko dhaak 
+हरेस खाए नि चरेस नखानु    |   	Hares khaaye ni charesh nakhaanu.    |    It's okay to idulge in bad habits but never give up on your life or the thing you are pursing. 
+हर्रो नपाउनेलाई जाईफल    |   	Harro napaune lai jaayifal
+हर्‍रो नपाउनेले जाईफल को धाक    |   	Harro napaune le jaifal ko dhaak    |    One who doesn't even posses a small thing of value, faunting even a bigger thing of much greater value.
 हलुवामा बालुवा    |   	Haluwa ma baluwa.
 हलेदो भन्ने थाहा पाएपछि कोट्याउनु पर्दैन    |   	Hadelo bhanne thaahaa paaye pachhi kotyaunu pardaina.
 हलो अड्काएर गोरू चुट्नु    |   	Halo adkaayera goru chutnu.
 हलो काटेर मुङ्ग्रो    |   	Halo kaatera mungro.
 हलो जोत्दैमा गोरू ब्याउँदैन    |   	Halo jotdaimaa goru byaudaina
-हल्लिएको दाँत एकदिन फुक्लन्छ    |   	Halliyeko daat ek din fuklanchha 
-हाँसी हाँसी कसेको गाँठो रोई रोई फुकाउनु पर्छ    |   	Haasi haasi kaseko gaatho roi roi fukaunu parchha 
-हातमा पुस्तक मनमा दश थोक    |   	Haat maa pustak, man maa das thok.
+हल्लिएको दाँत एकदिन फुक्लन्छ    |   	Halliyeko daat ek din fuklanchha   	|   	There eventually is bound be consequences of ones actions.
+हाँसी हाँसी कसेको गाँठो रोई रोई फुकाउनु पर्छ    |   	Haasi haasi kaseko gaatho roi roi fukaunu parchha
+हातमा पुस्तक मनमा दश थोक    |   	Haat maa pustak, man maa das thok.   	|   	Overthinking too much, when you need to do the real work.
 हाती को दुइटा दात हुन्छ, एउटा खाने अर्को देखाउने    |   	Haatti ko dui woata daant hunchha, euta khaane, arko dekhaaune. | Cruelty under politeness.
 हात्ती आयो हात्ती आयो फुस्सा    |   	Hatti aayo hatti aayo fussaa.| Not getting anything as expected or promised.
 हात्ती उडाउने बतास आयो पिउरी खोज्छेस् राँड    |   	Haatti udaaune bataas aayo piuri khojchhes raand.
@@ -995,15 +995,15 @@ For APIs: There is a separate repository. Please visit [nepali-ukhaan-apis](http
 हाथ को माछा छोडेर पोखरी को माछा खोज्ने    |   	Haat ko machha chhodera pokhari ko machha khojne.
 हारेको कुकुरले सँधैं दाँत देखाउँछ    |   	Hareko kukur le sadhai dant dekhauchha.
 हार्ने गोरुको छेर्ने दाउ    |   	Harne goru ko chherne dau.
-हावा नचली पात हल्लिंदैन    |   	Hawa nachali paat hallidaina.
+हावा नचली पात हल्लिंदैन    |   	Hawa nachali paat hallidaina.   	|   	Bigger event affecting the outcome of smaller event
 हिँड्दैछ पाइला मेट्दैछ    |   	Hindaichha, paila metdaichha.
 हिंडने गोरूले चुटाई खान्छ    |   	Hidne goru le chutai khaanchha.
 हिराको मोल किराले जान्दैन    |   	Hira ko mol kira le jandaina 
 हिस्स बुढीको खिस्स दाँत    |   	Hissa budi ko khissa daat.
-हुने बिरुवाको चिल्लो पात    |   	Hune beruwa ko chillo paat. | The prodigies display talent from an early age
+हुने बिरुवाको चिल्लो पात    |   	Hune beruwa ko chillo paat. |   	The prodigies display talent from an early age
 हुने हार, दैव नटार    |   	Hune haar daiba nataar. 
 हुलमुलमा जिउ जोगाउनु, अनिकालमा बिउ जोगाउनु    |   	Julmul maa jiu jogaunu, anikal maa jiu jogaunu.
 हेरेर मर्नु भन्दा छेरेर मर्नु जाती    |   	Herera marnu bhanda chherera marnu jaati.
 हेर्दा चरो, पर्दा बन्चरो    |   	Herdaa charo, pardaa bancharo.
-हेर्दाको राम्रो, दिन खानको चाम्रो    |   	Herda ko ramro dina khaana ko chamro 
-हेर्नेको र छेर्नेको भर हुँदैन    |   	Herne ko ra chherne ko bhar hudaina.
+हेर्दाको राम्रो, दिन खानको चाम्रो    |   	Herda ko ramro dina khaana ko chamro   	|   	 Action not backing up the things you are saying. 
+हेर्नेको र छेर्नेको भर हुँदैन    |   	Herne ko ra chherne ko bhar hudaina.   	|
