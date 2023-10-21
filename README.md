@@ -278,7 +278,7 @@ For APIs: There is a separate repository. Please visit [nepali-ukhaan-apis](http
 काम पाईनस् बुहारी पाडाको ढाड कन्याई दे    |   	Kaam paayinas buhaari paadaa ko dhaad kanyaai de.
 काम साँचे आफूलाई, खान साँचे अरूलाई    |   	Kaam saache aafulai, khaana saache arulai. |  If you want something done right, do it yourself.
 कामीको पालो कात्तिकमा    |   	Kaami ko paalo kaatikmaa.
-कामीको बिहे, अठार खाँचो    |   	Kaami ko bihe, athaara khaacho.
+कामीको बिहे, अठार खाँचो    |   	Kaami ko bihe, athaara khaacho.| kunai pani euta kaam garna vanda pahila aru dherai kaam garna parni 
 काले काले मिलेर खाउँ भाले    |   	Kaale kaale milera khau bhaale.
 कालो अक्षर भैँसी बराबर    |   	Kaalo akshar bhaisi barabar.
 कालो बादलले संधै पानी पार्दैन    |   	Kaalo baadal le sadhai paani paardaina.
