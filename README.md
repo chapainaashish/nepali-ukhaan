@@ -86,30 +86,30 @@ For APIs: There is a separate repository. Please visit [nepali-ukhaan-apis](http
 | Nepali | Roman | Meaning | Example
 | --------- | ----------- |  ----------- | ----------- |
 <span id="अ" style="color:#ff0">**अ**</span>
-अंग्रेजीको काइदा, भुक्नेलाई फाइदा    |   	Angreji ko kaida, bhukne lai faida      |       
-अकटको कुलो, बिकटको खेत, बिर्सेछु दाजै शिलोकको फेद    |   	Akat ko kulo, bikat ko khet, birsechhu daajai silok ko fed
-अकबर राजा, बिरबल काजि, इन्साफ दिन्छन खुसिराजि    |   	Akabar raaja, birbal kaaji, insaaf dinchhan khusiraaji
+अंग्रेजीको काइदा, भुक्नेलाई फाइदा    |   	Angreji ko kaida, bhukne lai faida      |       Those who are clever can benefit from any situation
+अकटको कुलो, बिकटको खेत, बिर्सेछु दाजै शिलोकको फेद    |   	Akat ko kulo, bikat ko khet, birsechhu daajai silok ko fed | People often forget the help & advice provided by others but remember the benefits they received
+अकबर राजा, बिरबल काजि, इन्साफ दिन्छन खुसिराजि    |   	Akabar raaja, birbal kaaji, insaaf dinchhan khusiraaji | Justice is served by both the powerful and the wise
 अकबरी सुनलाई कसी लाउनु पर्दैन    |   	Akabari sun lai kasi laaunu pardaina. | Ramro manche yesai ramro
-अक्चु खाए बक्छु खाए झुसे बारुलो    |   	Akchhu khaaye bakchhu khaaye jhuse baarulo
+अक्चु खाए बक्छु खाए झुसे बारुलो    |   	Akchhu khaaye bakchhu khaaye jhuse baarulo | Someone who has faced stronger challenges is not easily defeated by weaker ones
 अगुल्टोले हानेको कुकुर बिजुलीदेखि तर्सन्छ    |   	Agulto le haaneko kukur bijuli dekhi tarsanchha.       |        Ek choti galti garisakepaxi aarko choti garna bata tarsinxa  
 अगुल्ठो पनि नठोसी बल्दैन    |   	Agultho pani nathosi baldaina    |   	कुनै पनि सम्बन्धमा केही असामान्य हुन आवश्यक हुन्छ
-अघि हेर्नु चार हात, पछि हेर्नु बाह्र हात    |   	Aghi hernu chaar haat, pachhi hernu bahra haat | agadi ra pachadi dubai tira khyal puraunu 
+अघि हेर्नु चार हात, पछि हेर्नु बाह्र हात    |   	Aghi hernu chaar haat, pachhi hernu bahra haat | Agadi ra pachadi dubai tira khyal puraunu 
 अघिको तीतो पछिको मीठो    |   	Aghi ko tito pachhi ko mitho.       |       Mehanat le fal mitho hunxa
 अचानो को पिर खुकुरी ले जान्दैन    |   	Achaano ko pir khukuri le jaandaina     |       Dhukha dina manxe le dukha paune manxe ko samsya bujdiaena 
 अचार खानु मुलाको, संगत गर्नु ठुलाको    |   	Achaar khaanu mula ko, sangat garnu thula ko | Asal manxe ko sangat gare khushi paixa nabye dukha |
-अच्छा साले जुल्फी पाले, लिखाले टांग हाले    |   	Achchhaa saale julfi paale, likhaa le taang haale.
+अच्छा साले जुल्फी पाले, लिखाले टांग हाले    |   	Achchhaa saale julfi paale, likhaa le taang haale. | Strong foundation, bright outcome. Weak base, poor fate
 अजिङ्गरको आहारा दैवले जुराउँछ    |   	Ajingar ko aahaaraa daiba le jurauchha. |  Yedi kei kura vagya ma chha vane paincha.  |
-अड्को पड्को तेलको धूप    |   	Adko padko tel ko dhup.
-अदुवा खाई सभामा बस, मुला खाई बन पस    |   	Aduwaa khaayi sabhaa maa basa, mulaa khaayi bana pasa.
-अनिकालको तोरी, सहकालको जौं    |   	Anikaal ko tori, sahakaal ko jau    
+अड्को पड्को तेलको धूप    |   	Adko padko tel ko dhup. | The nature of certain things, which briefly sparkle and then vanish
+अदुवा खाई सभामा बस, मुला खाई बन पस    |   	Aduwaa khaayi sabhaa maa basa, mulaa khaayi bana pasa. | Choosing words and actions wisely to fit the context
+अनिकालको तोरी, सहकालको जौं    |   	Anikaal ko tori, sahakaal ko jau   | Doing things at the opportune moment  
 अनिकालको मानु, दिनु न खानु    |   	Anikaal ko maanu, dinu na khaanu  | aafulai dukha pareko bela arulai sahayog garnu ki nagarnu
-अनिकालमा लाईफ जोगाउनु, आन्दोलनमा बाईक जोगाउनु    |   	Anikaal maa life jogaunu, andolan maa bike jogaunu.
-अनिकाले मानू, बाँडिचूडी खानू    |   	Anikaale maanu, badi chudi khaanu.
-अनुहार न दनुवार पोइ खोज्न थाली    |   	Anuhaar na danuwaar poi khojna thaali.
+अनिकालमा लाईफ जोगाउनु, आन्दोलनमा बाईक जोगाउनु    |   	Anikaal maa life jogaunu, andolan maa bike jogaunu. | Recognizing what matters most in a given context.
+अनिकाले मानू, बाँडिचूडी खानू    |   	Anikaale maanu, badi chudi khaanu. | To take advantage of whatever comes your way, even if it's not ideal or appropriate
+अनुहार न दनुवार पोइ खोज्न थाली    |   	Anuhaar na danuwaar poi khojna thaali. |  Looking for something new rather than being content
 अनुहार न दनुवार, पाण्‍डव सुनुवार    |   	Anuhaar na danuhaar, pandab sunuwar. | Chyamata bina furti lagunu | Anuhar na danuwar pandav sunwar bhane ghai ram le dherai furti laucha
-अन्धाको देशमा आँखा छोप्नु, लङ्‍गडाको देशमा खुट्‍टा खोच्याउनु    |   	Andhaa ko desh maa aankhaa chhopnu, langadaa ko desh maa khuttaa khochchyaunu.
-अन्धाको सहारा लङ्गडा    |   	Andhaa ko saahaaraa langadaa.
-अन्धाको हातमा टुकी    |   	Andha ko hat ma tuki. | 
+अन्धाको देशमा आँखा छोप्नु, लङ्‍गडाको देशमा खुट्‍टा खोच्याउनु    |   	Andhaa ko desh maa aankhaa chhopnu, langadaa ko desh maa khuttaa khochchyaunu.  | Adapting to fit in with the prevailing environment and customs
+अन्धाको सहारा लङ्गडा    |   	Andhaa ko saahaaraa langadaa. | Attempting something that is inherently ineffective or counterproductive
+अन्धाको हातमा टुकी    |   	Andha ko hat ma tuki. | Empowering someone blindly without care for the hazardous potential consequences
 अन्धोलाई ऐनाको खोजि    |   	Andho lai ainaa ko khoji.       |       Na chaie kura ma chaso bhegta garnu
 अन्नमा भन्दा सन्नमा जोड    |   	Anna ma bhanda Sanna ma jod.
 अन्यायको धन, कहिल्यै मेरो नभन    |   	Anyaaye ko dhan, kahilei mero nabhan.
