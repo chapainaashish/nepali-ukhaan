@@ -635,7 +635,7 @@ For APIs: There is a separate repository. Please visit [nepali-ukhaan-apis](http
 नाच्न नजान्ने आँगन टेढो    |   	Naachna najaanne agan tedo | Placing the blame on something after being unable to do a task
 नातिनिको कुर्ता सुरुवालमा हजुरआमाको रजाइ    |   	Naatini ko kurtaa suruwaal maa hajuraamaa ko rajai.
 नानी भन्दा आची ठूलो    |   	Naani bhanda aachi thulo.
-नाफा भए पेशा, घाटा भए दशा    |   	Nafa bhaye pesha, ghata bhaye dasha.
+नाफा भए पेशा, घाटा भए दशा    |   	Nafa bhaye pesha, ghata bhaye dasha.    |   	If you profit, it's a job, if you make a loss you've got bad luck
 नाम होस् या बदनाम, तर नहोस् गुमनाम    |   	Nam hos ya badnam, tara nahos gumnaam.
 नामर्दकि जोइ हुनुभन्दा मर्दकि कमारी हुनु जाति    |   	Namarda ki joi hunu bhanda marda ki kamari hunu jati.
 नामर्दलाई लुतो    |   	Naamarda lai luto.
