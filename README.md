@@ -111,31 +111,31 @@ For APIs: There is a separate repository. Please visit [nepali-ukhaan-apis](http
 अन्धाको सहारा लङ्गडा    |   	Andhaa ko saahaaraa langadaa. | Attempting something that is inherently ineffective or counterproductive
 अन्धाको हातमा टुकी    |   	Andha ko hat ma tuki. | Empowering someone blindly without care for the hazardous potential consequences
 अन्धोलाई ऐनाको खोजि    |   	Andho lai ainaa ko khoji.       |       Na chaie kura ma chaso bhegta garnu
-अन्नमा भन्दा सन्नमा जोड    |   	Anna ma bhanda Sanna ma jod.
-अन्यायको धन, कहिल्यै मेरो नभन    |   	Anyaaye ko dhan, kahilei mero nabhan.
-अभागी मोरो हग्न बस्यो, बाह्र हातको घोँचो पस्यो    |   	Abhaagi moro hagna basyo, bahra haat ko ghocho pasyo.
-अभागीको भाई सप्रन्छ, भाग्यमानीको छोरो सप्रन्छ    |   	Abhaagi ko bhai sapranchha, bhaagyamaani ko chhoro sapranchha.
-अराएको काम र भराएको मानोले कति दिन चल्छ    |   	Araayeko kaam ra bharaayeko maano le kati din chalchha 
-अरुको बारिको काँक्रो चोर्नी, आफ्नो भने नुनको ढिको नफोर्नी    |   	Aru ko bari ko kakro chorne, aafno bhane nun ko dhiko naforni.
-अरूले हात्ती चढे भनेर आफूले धुरी चढ्नु हुँदैन    |   	Aru le hatti chade bhanera aafu le dhuri chadnu hudaina.
+अन्नमा भन्दा सन्नमा जोड    |   	Anna ma bhanda Sanna ma jod.   |       Kind words are valued over mere food/provisions
+अन्यायको धन, कहिल्यै मेरो नभन    |   	Anyaaye ko dhan, kahilei mero nabhan.  |   Wealth accumulated through injustice should never be considered as rightfully one's own
+अभागी मोरो हग्न बस्यो, बाह्र हातको घोँचो पस्यो    |   	Abhaagi moro hagna basyo, bahra haat ko ghocho pasyo. |  Misfortune befalls the unlucky at every turn, even when they try to avoid it
+अभागीको भाई सप्रन्छ, भाग्यमानीको छोरो सप्रन्छ    |   	Abhaagi ko bhai sapranchha, bhaagyamaani ko chhoro sapranchha.  | No one can escape their destiny
+अराएको काम र भराएको मानोले कति दिन चल्छ    |   	Araayeko kaam ra bharaayeko maano le kati din chalchha  | Makeshift solutions and temporary measures can only last for so long
+अरुको बारिको काँक्रो चोर्नी, आफ्नो भने नुनको ढिको नफोर्नी    |   	Aru ko bari ko kakro chorne, aafno bhane nun ko dhiko naforni. | It is easy to find faults in others while ignoring one's own shortcomings
+अरूले हात्ती चढे भनेर आफूले धुरी चढ्नु हुँदैन    |   	Aru le hatti chade bhanera aafu le dhuri chadnu hudaina. |  One should not imitate others' mistakes, but learn from them instead
 अर्काको आङ्गको जुम्रा देख्‍ने, आफ्‍नो आङ्गको भैसी पनि नदेख्‍ने    |   	Arka ko aang ko jumra dekhne, aafno aang ko bhaisi pani nadekhne. |  It is easy to point others fault but don't realize his own faults.
-अर्काको गहना लगाउनु, नाक कान दुखाउनु    |   	Arka ko gahana lagaunu, naak kaan dukhaunu.
+अर्काको गहना लगाउनु, नाक कान दुखाउनु    |   	Arka ko gahana lagaunu, naak kaan dukhaunu. | Envy over others' possessions is a cause of distress
 अर्काको नासो गलपासो    |   	Arkaa ko naaso galpaaso.  | aruko saman bigrina sakxa
-अर्काको बाच्छो चाटी मुखभरी रौँ    |   	Arka ko bachchho chaati mukh bhari rau.
-अर्काको बारीमा साग छ, मुटु मिचेर के लाग्छ    |   	Arkaa ko baari maa saag chha, mutu michera k laagchha.
+अर्काको बाच्छो चाटी मुखभरी रौँ    |   	Arka ko bachchho chaati mukh bhari rau. | Speaking ill of others to impress is insincere flattery
+अर्काको बारीमा साग छ, मुटु मिचेर के लाग्छ    |   	Arkaa ko baari maa saag chha, mutu michera k laagchha. | There is no gain in envying others' prosperity and good fortune
 अर्काको बुद्धिले राजा हुनुभन्दा आफ्नै बुद्धिले जोगी हुनु बेस    |   	Arka ko buddhi le raja hunu bhanda afnai buddhi le jogi junu besh.       |        Aru ko muni basera thulo manxe hunu bhanda aafnaie malik aafaie bayera sano kaam garna jati hunxa 
-अर्काको भर भोकभोकै मर    |   	Arkaa ko bhar bhok bhokai mar.
-अर्तीको कुरा घर्तीको पनि लिनुपर्छ    |   	Arti ko kura gharti ko pani linuparchha.
-अर्थ न बर्थ गोविन्द गाई    |   	Artha na bartha gobinda gai.
-अलिनु पनि नखाऊँ, नूनढिकी पनि नफोरौँ    |   	Alinu pani nakhau, nundhiki pani naforau.
-अल्छीलाई बल्छी, मर्दलाई जाल    |   	Alchhi lai balchhi, marda lai jaal.
-अल्छीले जति जैसीले जान्दैन    |   	Alchi le jati jaisi le jaandaina
+अर्काको भर भोकभोकै मर    |   	Arkaa ko bhar bhok bhokai mar. | Relying solely on others leads to ruin
+अर्तीको कुरा घर्तीको पनि लिनुपर्छ    |   	Arti ko kura gharti ko pani linuparchha. | One should consider advice from outsiders as well as insiders
+अर्थ न बर्थ गोविन्द गाई    |   	Artha na bartha gobinda gai. | A useless person
+अलिनु पनि नखाऊँ, नूनढिकी पनि नफोरौँ    |   	Alinu pani nakhau, nundhiki pani naforau. | One should avoid both excess and deficiency
+अल्छीलाई बल्छी, मर्दलाई जाल    |   	Alchhi lai balchhi, marda lai jaal.  | The use of flattery to exploit different targets
+अल्छीले जति जैसीले जान्दैन    |   	Alchi le jati jaisi le jaandaina | A person can know more about specific thing than a general educated person
 अल्छे तिघ्रो, स्वादे जिब्रो    |   	Alchhe tighro, swade jibro. | Kaam garni jagar chaina khana mitho mitho khojni
-असारमा आली लगाए पो मंसिरमा बाली खान पाइन्छ    |   	Asaar maa aali lagaaye po mangshi maa baali khaana paayinchha.
-असारमा मीत लाए हिलामा हात, मंसिरमा मीत लाए फिलामा हात    |   	Asar ma mit laaye hila ma haat, mangsir ma mit laaye fila ma haat.
-असारमा सुरुवाल लगाउनेले मंसिरमा पराल चोर्छ    |   	Asaar ma suruwal laguane le mangsir ma paral chorchha.
-अहंकारी भ्यागुताको ट्वार ट्वारै ठूलो    |   	Ahankari bhyaguto ko twar twar nai thulo
-अँध्यारो काम खोला को गीत    |   	Andhyaro kaam khola ko geet | भेउ नपाई गरिएको काम
+असारमा आली लगाए पो मंसिरमा बाली खान पाइन्छ    |   	Asaar maa aali lagaaye po mangshi maa baali khaana paayinchha. | One reaps the rewards of hard work in due time
+असारमा मीत लाए हिलामा हात, मंसिरमा मीत लाए फिलामा हात    |   	Asar ma mit laaye hila ma haat, mangsir ma mit laaye fila ma haat. | The rewards of labor vary according to the season
+असारमा सुरुवाल लगाउनेले मंसिरमा पराल चोर्छ    |   	Asaar ma suruwal laguane le mangsir ma paral chorchha. | Early and consistent hard work pays off in the long run
+अहंकारी भ्यागुताको ट्वार ट्वारै ठूलो    |   	Ahankari bhyaguto ko twar twar nai thulo | The conceited think their own faults are small
+अँध्यारो काम खोला को गीत    |   	Andhyaro kaam khola ko geet | Work done without proper planning is bound to fail
 आँ गर्दा अलङ्‍कार बुझ्ने    |   	Aa gardaa alangkaar bujhne. | Jati bhaneko cha tyo bhanda badi bujhne.
 |<span id="आ" style="color:#ff0">**आ**</span> |
 आँखा नदेख्‍ने नेत्रलाल, कान नसुन्‍ने कर्णकान्त    |   	Aankha nadekhne netralaal kana nasunne karnakaanta
