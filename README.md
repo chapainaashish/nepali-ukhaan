@@ -138,12 +138,12 @@ For APIs: There is a separate repository. Please visit [nepali-ukhaan-apis](http
 अँध्यारो काम खोला को गीत    |   	Andhyaro kaam khola ko geet | Work done without proper planning is bound to fail
 आँ गर्दा अलङ्‍कार बुझ्ने    |   	Aa gardaa alangkaar bujhne. | Jati bhaneko cha tyo bhanda badi bujhne.
 |<span id="आ" style="color:#ff0">**आ**</span> |
-आँखा नदेख्‍ने नेत्रलाल, कान नसुन्‍ने कर्णकान्त    |   	Aankha nadekhne netralaal kana nasunne karnakaanta
-आँटी छोरीलाई बाघले नि खाँदैन    |   	Aanti chhori lai baagh le ni khaadaina.
-आँटेको काम झट्टै श्री गणेश    |   	Aateko kaam jhattai shree ganesh.
+आँखा नदेख्‍ने नेत्रलाल, कान नसुन्‍ने कर्णकान्त    |   	Aankha nadekhne netralaal kana nasunne karnakaanta | People who are unable or unwilling to perceive reality despite having the ability
+आँटी छोरीलाई बाघले नि खाँदैन    |   	Aanti chhori lai baagh le ni khaadaina. | Close bond between family members
+आँटेको काम झट्टै श्री गणेश    |   	Aateko kaam jhattai shree ganesh. | Tasks done with care and attention get done quickly and smoothly
 आँपको आँप, कोयाको दाम    |   	Aanp ko aanp, khoya ko daam    |   	नाफादार थोकबाट त नाफा छ नै तर जे कुराबाट आशा छैन, त्यसबाट पनि लाभ पाउनु
-आइमाई को रुपै सत्रु, रुपै मित्रु    |   	Ayimaayi ko rupai satru, rupai mitru.
-आइमाईको पेटमा कुरा पच्दैन    |   	Aayimai ko pet maa kura pachhdaina.
+आइमाई को रुपै सत्रु, रुपै मित्रु    |   	Ayimaayi ko rupai satru, rupai mitru. | True friends accept one as they are are are, for who they are
+आइमाईको पेटमा कुरा पच्दैन    |   	Aayimai ko pet maa kura pachhdaina. | A Person who can't keep secrets
 आई बूढी मच्चिंदै, गई बूढी थच्चिंदै    |   	Aaayi budi machchidai, gayi budi thachchidai.
 आई लाग्ने माथि जाई लाग्नु    |   	Aayi laagne maathi jaayi laagne.
 आउँछ समय पर्खंदैन, बग्छ खोलो फर्कंदैन    |   	Aauchha samaye parkhadaina, bagchha khola farkadaina.    |   	Opportunity and flowing river wait for no one, be careful you don't miss out
@@ -151,17 +151,17 @@ For APIs: There is a separate repository. Please visit [nepali-ukhaan-apis](http
 आए बाउको गए साहुको    |   	Aaye bau ko gaye saahu ko | Taking a chance.
 आकाश को राहु, पातलको केतु, एक पटक नपरी कसरी चेतु    |   	Akash ko rahu, paataal ko ketu, ek patak napari kasari chetu?    |   	If you don't experience it once, how will you know (or feel fear)
 आकाशको फल आँखा तरी मर्    |   	Aakas ko fal, aankha tari mar.       |       Aafu le napaune khaie na paune kura laie herera santhustha garni
-आकाशमा थुके मुखमा छिटा    |   	Aakash maa thuke, mukh maa chhitaa.
-आखाँले देखेको बिज्ञान भन्दा मनले बुझेको भगवान प्यारो    |   	Ankha le dekheko bigyan bhanda man le dekheko bhagwan pyaro.
+आकाशमा थुके मुखमा छिटा    |   	Aakash maa thuke, mukh maa chhitaa. | Talking big in front of many people may fall flat in reality
+आखाँले देखेको बिज्ञान भन्दा मनले बुझेको भगवान प्यारो    |   	Ankha le dekheko bigyan bhanda man le dekheko bhagwan pyaro. | Careless actions may have unintended consequences
 आगो ताप्नु मुढाको कुरा, सुन्‍नु बुढाको    |   	Aago taapnu muda ko kura sunnu buda ko       |       Aafu vanda thulo manxe ko aardi upadesh sunna parxa 
-आज घर पुगिएला त ? आफ्नै खुट्टालाइ सोध    |   	Aaja ghar pugiyela ta? aafnai khutta lai sodha 
-आज मर्यो, भोलि ओखति    |   	Aaja maryo, bholi okhati.       |       Dhilo vaye paxi matra kei garna thalni 
+आज घर पुगिएला त ? आफ्नै खुट्टालाइ सोध    |   	Aaja ghar pugiyela ta? aafnai khutta lai sodha | Don't rely on others, trust your own abilities and judgment
+आज मर्यो, भोलि ओखति    |   	Aaja maryo, bholi okhati.       |       Dhilo vaye paxi matra kei garna thalni | What's done is done, no use dwelling on the past
 आजकालका केटी स्टाइलको भारी टाउकोमा भने डिस्को गर्ने जुम्राको ढाडी    |   	Aajkal kaa keti style ko bhaari tauko maa bhane disko garne jumraa ko dhaadi.
 आजको कामलाई भोलि नभन्नु    |   	Aaja ko kaam lai bholi nabhannu.       |       kaam na sachnu, aaja ko kaam aajai garni / There is not time like present.
-आधा गाग्रो छचल्किन्छ    |   	Adha gagro chhachalkinchha.
+आधा गाग्रो छचल्किन्छ    |   	Adha gagro chhachalkinchha. | Half-hearted efforts are bound to fail
 आफु भलो त जगत भलो    |   	Aafu bhalo ta jagat bhallo | afuleh pargati garda samaj ko pragati afai hunxa kinaki ek ek jana milera nai samaj banxa |
-आफुले खान नपाएको अंगुर अमिलो    |   	Aafule khaana napaayeko angur amilo.
-आफू ताक्छु मुडो, बन्चरो ताक्छ घुँडो    |   	Afu taakchhu mudo, bancharo takchha ghundo.
+आफुले खान नपाएको अंगुर अमिलो    |   	Aafule khaana napaayeko angur amilo. | Telling bad things about a thing you can't get
+आफू ताक्छु मुडो, बन्चरो ताक्छ घुँडो    |   	Afu taakchhu mudo, bancharo takchha ghundo. | Don't be too proud, It may harm you
 आफू नमरी स्वर्ग देखिँदैन    |   	Aafu namari swarga dekhidaina.       |       Aafu le kei kaam gari na heri thaha hunna 
 आफै त महादेव उत्तानो पर, कसले देला बर    |   	Aafai ta mahadev uttaano par, kasle delaa bar.
 आफ्नै छोरी नखर्माउली, तन्नेरीलाई दोष    |   	Aafnai chhori nakharmauli, tanneri lai dosh.       |       Aafno dosh naheri aru laie dosh lagaune 
