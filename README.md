@@ -163,31 +163,31 @@ For APIs: There is a separate repository. Please visit [nepali-ukhaan-apis](http
 आफुले खान नपाएको अंगुर अमिलो    |   	Aafule khaana napaayeko angur amilo. | Telling bad things about a thing you can't get
 आफू ताक्छु मुडो, बन्चरो ताक्छ घुँडो    |   	Afu taakchhu mudo, bancharo takchha ghundo. | Don't be too proud, It may harm you
 आफू नमरी स्वर्ग देखिँदैन    |   	Aafu namari swarga dekhidaina.       |       Aafu le kei kaam gari na heri thaha hunna 
-आफै त महादेव उत्तानो पर, कसले देला बर    |   	Aafai ta mahadev uttaano par, kasle delaa bar.
+आफै त महादेव उत्तानो पर, कसले देला बर    |   	Aafai ta mahadev uttaano par, kasle delaa bar. | Implying ownself don't have enough, forget about giving others
 आफ्नै छोरी नखर्माउली, तन्नेरीलाई दोष    |   	Aafnai chhori nakharmauli, tanneri lai dosh.       |       Aafno dosh naheri aru laie dosh lagaune 
-आफ्नो छोराछोरी र अर्काकी स्वास्नी सबैलाई राम्रो लाग्छ    |   	Aafno chora chori ra arkaa ki swasni sabai lai ramro laagchha
-आफ्नो टाउको फुटे पछि मित को टाउको बेल बराबर    |   	Aafno tauko fute pachhi mit ko tauko bel baraabar.
-आफ्नो थैली सुरक्षित राखे अर्कालाई दोष लगाउनु पर्दैन    |   	Aafno thaili surakshit raakhe arkaa lai dosh lagaunu pardaina.
+आफ्नो छोराछोरी र अर्काकी स्वास्नी सबैलाई राम्रो लाग्छ    |   	Aafno chora chori ra arkaa ki swasni sabai lai ramro laagchha | 
+आफ्नो टाउको फुटे पछि मित को टाउको बेल बराबर    |   	Aafno tauko fute pachhi mit ko tauko bel baraabar. | When your own plans fail, blaming others is pointless
+आफ्नो थैली सुरक्षित राखे अर्कालाई दोष लगाउनु पर्दैन    |   	Aafno thaili surakshit raakhe arkaa lai dosh lagaunu pardaina. | If you take care of your things, you won't have to blame others for the loss
 आफ्नो थैलोको गाँठो कस्नु, अरुलाई दोष नदिनु    |   	Aafno thailo ko gaatho kasnu, aru lai dosh nadinu. | Keep your work yourself and don't blame others.
-आफ्नो नुन, आफ्नै पानी, खाउ ज्वाईं कोखा तानी    |   	Aafno nun, aafnai paani, khau juwai kokha taani 
+आफ्नो नुन, आफ्नै पानी, खाउ ज्वाईं कोखा तानी    |   	Aafno nun, aafnai paani, khau juwai kokha taani | Take care of your own needs before worrying about others
 आफ्नो भाग्य आफैले बनाउनु पर्छ    |   	Aafno bhaagya aafai le banaunu parchha. | mehanat garera aafno sapana afai pura garna sakinxa rather than wait for things to happen. |
-आफ्नो रुचि खानु, अर्काको रुचि लाउनु    |   	Aafno ruchhi khaanu, arkaa ko ruchi launu.
-आफ्‍नो हात जगन्‍नाथ    |   	Aafno haat jagannaath.
-आमा पनि ब्युटी छोरि पनि ब्युटी बाउले गर्नु पर्ने चुलाको ड्युटी    |   	Ama pani beauty, chori pani beauty, bau le garnu parne chula ko duty.
-आमा बाबुको मन छोरा छोरी माथि, छोरा छोरीको मन डिङगो जुत्ता माथि    |   	Aama baabu ko man chhora chhori mathi, chhora chori ko man dingo juttaa maathi.
-आमा बाबुलाई समस्या टार्न गार्हो, छोराछोरीलाई भने स्टाईल नै प्यारो    |   	Aamaa baabu lai samasya taarna gahro, chhora chhori lai bhane style nai pyaaro.
+आफ्नो रुचि खानु, अर्काको रुचि लाउनु    |   	Aafno ruchhi khaanu, arkaa ko ruchi launu. | Focus on your own interests, not others
+आफ्‍नो हात जगन्‍नाथ    |   	Aafno haat jagannaath. | We are responsible for our own actions and their consequences
+आमा पनि ब्युटी छोरि पनि ब्युटी बाउले गर्नु पर्ने चुलाको ड्युटी    |   	Ama pani beauty, chori pani beauty, bau le garnu parne chula ko duty. | Everyone has their own responsibilities and do their duties
+आमा बाबुको मन छोरा छोरी माथि, छोरा छोरीको मन डिङगो जुत्ता माथि    |   	Aama baabu ko man chhora chhori mathi, chhora chori ko man dingo juttaa maathi. | Parental love is unconditional while children tend to be more self-centered in their interests
+आमा बाबुलाई समस्या टार्न गार्हो, छोराछोरीलाई भने स्टाईल नै प्यारो    |   	Aamaa baabu lai samasya taarna gahro, chhora chhori lai bhane style nai pyaaro. | Parental love is unconditional while children tend to be more self-centered in their interests
 आमा-बाबा को मन छोरा तिर, छोरा को मन अर्काको छोरी तिर    |   	Aama baba ko man chhora tira, chhora ko man arka ko chhori tira. | buwa ama ko maya chora lai chora bane budi kp kura matrai sunne |
-आमाको माया आँखाको डिलमा    |   	Ama ko maya ankha ko dil maa.
-आमाबाबुको मन छोराछोरी माथि छोराछोरीको मन ढुंगामुढा माथि    |   	Aamaa baabu ko man chhoraachhori maathi choraa chhori ko man dhungaa mudaa maathi.
-आमा–छोराको ऐंचोपैंचो, बाबु–छोराको लेनदेन    |   	Aamaa-chhoraa ko aicho paicho, baabu-chhoraa ko len den.
+आमाको माया आँखाको डिलमा    |   	Ama ko maya ankha ko dil maa. | Mother's affection is inherent and taken for granted like the pupil that allows us to see
+आमाबाबुको मन छोराछोरी माथि छोराछोरीको मन ढुंगामुढा माथि    |   	Aamaa baabu ko man chhoraachhori maathi choraa chhori ko man dhungaa mudaa maathi. | Parental love is unconditional while children tend to be more self-centered in their interests
+आमा–छोराको ऐंचोपैंचो, बाबु–छोराको लेनदेन    |   	Aamaa-chhoraa ko aicho paicho, baabu-chhoraa ko len den. | Relationship between mother and child is based on affection, while between father and child it is more transactional
 आम्दानी चार आनाको खर्च बाह्र आनाको    |   	Aamdani chaar aanaa ko kharchaa bahra aanaa ko. | Aaye banda byaye dherai |
 आयूको छोरालाई वायूको डर    |   	Aayu ko choora lai baayu ko dar. | Hunai nasakne kura dekhi daraune |
-आयो गयो माया मोह, आएन गएन को हो को हो    |   	Aayo gayo maya moha, aayena gayena ko ho ko ho.
+आयो गयो माया मोह, आएन गएन को हो को हो    |   	Aayo gayo maya moha, aayena gayena ko ho ko ho. | Family/friends who have always been there matter the most
 आलु खाएर पेडाको धाक    |   	Aalu khaayera pedaa ko dhaak.       |       Sano kaam garera thulo kaam ko dhaak dine 
 अँध्याराको काम खोलाको गीत    |   	Andhyaro ko kaam khola ko geet.    |   	Work without recognition is meaningless
 अगुल्टो पनि नठोसी बल्दैन    |   	Agulto pani nathosi baldaina.    |   	Disagreements happen in a relationship.
 <span id="इ" style="color:#ff0">**इ**</span>
-इखालु स्वास्नीको बचन, बहुला कुकुरको दाँत    |   	Ikhaalu swaasni ko bachan, bahulaa kukur ko daat.
+इखालु स्वास्नीको बचन, बहुला कुकुरको दाँत    |   	Ikhaalu swaasni ko bachan, bahulaa kukur ko daat. | Words or actions done in anger lack rationale
 इन्द्रको अगाडि स्वर्गको बयान    |   	Indra ko agaadi swarga ko bayaan.       |       Kei kura bare derai thaha vayeko manxe laie tei kura bare bayan garnu.
 इश्वर धपायो, शास्त्र चपायो    |   	Ishwor dhapaayo, saastra chapaayo.
 <span id="ई" style="color:#ff0">**ई**</span>
