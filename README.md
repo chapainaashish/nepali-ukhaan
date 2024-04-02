@@ -668,7 +668,7 @@ For APIs: There is a separate repository. Please visit [nepali-ukhaan-apis](http
 पाडो खानेले बाच्छो राख्दैन    |   	Paado khaane le bachho raakhdaina 
 पानी खानू मूलको, स्वास्नी ल्याउनू कूलको    |   	Paani khaanu mul ko, swasni lyaunu kul ko.
 पानीमा बसी गोही संग दुस्मनी    |   	Paani maa basi gohi sanga dusmani 
-पाप धुरीबाट कराउँछ    |   	Paap dhuri baata karauchha.
+पाप धुरीबाट कराउँछ    |   	Paap dhuri baata karauchha. | Engaging in wrongful actions discreetly or behind the scenes
 पापा पनि चिची पनि    |   	Paapaa pani chini pani.
 पारिको घाँस हरियो हुन्छ    |   	Paari ko ghas hariyo hunchha.
 पुड्के बाहुनको सुड्के चन्दन    |   	Pudke baahun ko sudke chandan.
@@ -719,7 +719,7 @@ For APIs: There is a separate repository. Please visit [nepali-ukhaan-apis](http
 बादरको पुच्छर टाई न इँजार    |   	Badar ko puchhar tai na ijaar 
 बाँदर को पुच्छर, लौरो न हतियार    |   	Badar ko puchchhar lauro na hatiyaar | Being useless.
 बाँदरको हातमा नरिवल    |   	Badar ko haat maa nariwal. | For a fragile thing or responsibility falling in the hands of irresponsible people 
-बाध दुब्लाएर बिरालो हुदैन    |   	Baag dublaayera biralo hudaina.
+बाध दुब्लाएर बिरालो हुदैन    |   	Baag dublaayera biralo hudaina. | True nature or essence of something, does not change merely
 बाबू भन्दा छोरो जान्ने, नाति पेटै बाट मट्याङ्ग्रा हान्ने    |   	Baabu bhanda chhoro janne, naati petai baata matyangra hanne.
 बारी न विरुवा नौ मुरी तोरी    |   	Baari na biruwaa nau muri tori.
 बार्‍ह छोरा तेर्‍ह नाति, बूढाको धोक्रो काँधै माथि    |   	Bahra chhora tehra naati, buda ko dhokro kaadhai maathi.
