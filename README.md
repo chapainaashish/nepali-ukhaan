@@ -840,7 +840,7 @@ For APIs: There is a separate repository. Please visit [nepali-ukhaan-apis](http
 मुखमा सरस्वती हुनेको सधैं वृहस्पति आउँछ    |   	Mukh maa Saraswati hune ko sadhai brihaspati aauchha.
 मुर्ति चोरलाई पशुपति न गुहेश्वरी    |   	Murti chor lai Pashupati na Guhyeshwari .
 मूर्ख र पैसा छिट्‍टै सकिन्छ    |   	Murkha ra paisa chittai sakinchha.
-मूर्खको धन रहँदैन    |   	Marukha ko dhan rahadaina.
+मूर्खको धन रहँदैन    |   	Marukha ko dhan rahadaina. | A foolish person tends to spend money too quickly
 मेरो गोरूको बार्‍है टक्‍का    |   	Mero goru ko bahrai takkaa.| Being overly stubborn.
 मेहनतको फल मिठो हुन्छ    |   	Mehenat ko fal mitho hunchha.    |    Fruits of labor are always sweet.
 मोही माग्नु,ढुंग्रो लुकाउनु    |   	Mohi maagnu dhungro lukaunu.
@@ -876,7 +876,7 @@ For APIs: There is a separate repository. Please visit [nepali-ukhaan-apis](http
 रोटी चिल्लो मिठो, कुरा खस्रो मिठो    |   	Roti chillo mitho, kura khasro mitho.
 <span id="ल" style="color:#ff0">**ल**</span>
 लक्का छोरोलाई के को धक्का    |   	Lakka choro lai k ko dhakaa 
-लगनको बेला हगन    |   	Lagan ko bela hagan.
+लगनको बेला हगन    |   	Lagan ko bela hagan. | Engaging in inappropriate or disrespectful behavior during moments of significance
 लगनपछिको पोते के काम    |   	Lagan pachhi ko pote ke kaam?
 लगौंटी च्याती कुसुमे रुमाल    |   	Lagauti chyati kusume rumal.
 लङ्का जित्ने हनुमान जस पाउने ढेडु    |   	Lanka jitne hanuman jas paune dhedu.
@@ -921,7 +921,7 @@ For APIs: There is a separate repository. Please visit [nepali-ukhaan-apis](http
 श्रीमती कति बाठी, बोका स्टाईलको केश काटी    |   	Shrimati kati baathi, bokaa style ko kesh kaati.
 श्रीमतीको पिटाई खाएको लोग्ने चुरा बज्दा तर्सिन्छ    |   	Shiramti ko pitai khaayeko logne chura bajdaa tarsinchha.
 <span id="स" style="color:#ff0">**स**</span>
-संगत गुना को फल    |   	Sangat guna ko fal.
+संगत गुना को फल    |   	Sangat guna ko fal. |  Positive actions and virtuous behavior lead to favorable outcomes
 संगै बसी सुती सकि, लाज मान्दै घुम्टो कसी    |   	Sangai basi duti saki, laaj maandai ghumto kasi.
 संगैका साथि सिँहदरबार माथी    |   	Sangai kaa saathi singha durbar maathi 
 सज्जन सँगको मितेरी शिलापत्र, दुर्जन सँगको मितेरी अलपत्र    |   	Sajjan sanga ko miteri shilapatra, durjan sanga ko miterai alapatra.
