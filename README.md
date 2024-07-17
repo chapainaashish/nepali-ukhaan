@@ -668,7 +668,7 @@ For APIs: There is a separate repository. Please visit [nepali-ukhaan-apis](http
 पाडो खानेले बाच्छो राख्दैन    |   	Paado khaane le bachho raakhdaina 
 पानी खानू मूलको, स्वास्नी ल्याउनू कूलको    |   	Paani khaanu mul ko, swasni lyaunu kul ko.
 पानीमा बसी गोही संग दुस्मनी    |   	Paani maa basi gohi sanga dusmani 
-पाप धुरीबाट कराउँछ    |   	Paap dhuri baata karauchha.
+पाप धुरीबाट कराउँछ    |   	Paap dhuri baata karauchha. | Engaging in wrongful actions discreetly or behind the scenes
 पापा पनि चिची पनि    |   	Paapaa pani chini pani.
 पारिको घाँस हरियो हुन्छ    |   	Paari ko ghas hariyo hunchha.
 पुड्के बाहुनको सुड्के चन्दन    |   	Pudke baahun ko sudke chandan.
@@ -719,7 +719,7 @@ For APIs: There is a separate repository. Please visit [nepali-ukhaan-apis](http
 बादरको पुच्छर टाई न इँजार    |   	Badar ko puchhar tai na ijaar 
 बाँदर को पुच्छर, लौरो न हतियार    |   	Badar ko puchchhar lauro na hatiyaar | Being useless.
 बाँदरको हातमा नरिवल    |   	Badar ko haat maa nariwal. | For a fragile thing or responsibility falling in the hands of irresponsible people | badar ko haat ma nariwal vanejahi, sadikshya ko haat ma ghadi kahilei tikdaina
-बाध दुब्लाएर बिरालो हुदैन    |   	Baag dublaayera biralo hudaina.
+बाध दुब्लाएर बिरालो हुदैन    |   	Baag dublaayera biralo hudaina. | True nature or essence of something, does not change merely
 बाबू भन्दा छोरो जान्ने, नाति पेटै बाट मट्याङ्ग्रा हान्ने    |   	Baabu bhanda chhoro janne, naati petai baata matyangra hanne.
 बारी न विरुवा नौ मुरी तोरी    |   	Baari na biruwaa nau muri tori.
 बार्‍ह छोरा तेर्‍ह नाति, बूढाको धोक्रो काँधै माथि    |   	Bahra chhora tehra naati, buda ko dhokro kaadhai maathi.
@@ -840,7 +840,7 @@ For APIs: There is a separate repository. Please visit [nepali-ukhaan-apis](http
 मुखमा सरस्वती हुनेको सधैं वृहस्पति आउँछ    |   	Mukh maa Saraswati hune ko sadhai brihaspati aauchha.
 मुर्ति चोरलाई पशुपति न गुहेश्वरी    |   	Murti chor lai Pashupati na Guhyeshwari .
 मूर्ख र पैसा छिट्‍टै सकिन्छ    |   	Murkha ra paisa chittai sakinchha.
-मूर्खको धन रहँदैन    |   	Marukha ko dhan rahadaina.
+मूर्खको धन रहँदैन    |   	Marukha ko dhan rahadaina. | A foolish person tends to spend money too quickly
 मेरो गोरूको बार्‍है टक्‍का    |   	Mero goru ko bahrai takkaa.| Being overly stubborn.
 मेहनतको फल मिठो हुन्छ    |   	Mehenat ko fal mitho hunchha.    |    Fruits of labor are always sweet.
 मोही माग्नु,ढुंग्रो लुकाउनु    |   	Mohi maagnu dhungro lukaunu.
@@ -876,7 +876,7 @@ For APIs: There is a separate repository. Please visit [nepali-ukhaan-apis](http
 रोटी चिल्लो मिठो, कुरा खस्रो मिठो    |   	Roti chillo mitho, kura khasro mitho.
 <span id="ल" style="color:#ff0">**ल**</span>
 लक्का छोरोलाई के को धक्का    |   	Lakka choro lai k ko dhakaa 
-लगनको बेला हगन    |   	Lagan ko bela hagan.
+लगनको बेला हगन    |   	Lagan ko bela hagan. | Engaging in inappropriate or disrespectful behavior during moments of significance
 लगनपछिको पोते के काम    |   	Lagan pachhi ko pote ke kaam?
 लगौंटी च्याती कुसुमे रुमाल    |   	Lagauti chyati kusume rumal.
 लङ्का जित्ने हनुमान जस पाउने ढेडु    |   	Lanka jitne hanuman jas paune dhedu.
@@ -921,7 +921,7 @@ For APIs: There is a separate repository. Please visit [nepali-ukhaan-apis](http
 श्रीमती कति बाठी, बोका स्टाईलको केश काटी    |   	Shrimati kati baathi, bokaa style ko kesh kaati.
 श्रीमतीको पिटाई खाएको लोग्ने चुरा बज्दा तर्सिन्छ    |   	Shiramti ko pitai khaayeko logne chura bajdaa tarsinchha.
 <span id="स" style="color:#ff0">**स**</span>
-संगत गुना को फल    |   	Sangat guna ko fal.
+संगत गुना को फल    |   	Sangat guna ko fal. |  Positive actions and virtuous behavior lead to favorable outcomes
 संगै बसी सुती सकि, लाज मान्दै घुम्टो कसी    |   	Sangai basi duti saki, laaj maandai ghumto kasi.
 संगैका साथि सिँहदरबार माथी    |   	Sangai kaa saathi singha durbar maathi 
 सज्जन सँगको मितेरी शिलापत्र, दुर्जन सँगको मितेरी अलपत्र    |   	Sajjan sanga ko miteri shilapatra, durjan sanga ko miterai alapatra.
