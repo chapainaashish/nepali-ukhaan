@@ -718,7 +718,7 @@ For APIs: There is a separate repository. Please visit [nepali-ukhaan-apis](http
 बाटो न घाटो, दगुर्छ लाटो    |   	Bato na ghato, dagurchha laato.
 बादरको पुच्छर टाई न इँजार    |   	Badar ko puchhar tai na ijaar 
 बाँदर को पुच्छर, लौरो न हतियार    |   	Badar ko puchchhar lauro na hatiyaar | Being useless.
-बाँदरको हातमा नरिवल    |   	Badar ko haat maa nariwal. | For a fragile thing or responsibility falling in the hands of irresponsible people 
+बाँदरको हातमा नरिवल    |   	Badar ko haat maa nariwal. | For a fragile thing or responsibility falling in the hands of irresponsible people | badar ko haat ma nariwal vanejahi, sadikshya ko haat ma ghadi kahilei tikdaina
 बाध दुब्लाएर बिरालो हुदैन    |   	Baag dublaayera biralo hudaina. | True nature or essence of something, does not change merely
 बाबू भन्दा छोरो जान्ने, नाति पेटै बाट मट्याङ्ग्रा हान्ने    |   	Baabu bhanda chhoro janne, naati petai baata matyangra hanne.
 बारी न विरुवा नौ मुरी तोरी    |   	Baari na biruwaa nau muri tori.
