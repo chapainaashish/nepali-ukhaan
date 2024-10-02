@@ -105,7 +105,7 @@ For APIs: There is a separate repository. Please visit [nepali-ukhaan-apis](http
 अनिकालको मानु, दिनु न खानु    |   	Anikaal ko maanu, dinu na khaanu  | aafulai dukha pareko bela arulai sahayog garnu ki nagarnu
 अनिकालमा लाईफ जोगाउनु, आन्दोलनमा बाईक जोगाउनु    |   	Anikaal maa life jogaunu, andolan maa bike jogaunu. | Recognizing what matters most in a given context.
 अनिकाले मानू, बाँडिचूडी खानू    |   	Anikaale maanu, badi chudi khaanu. | To take advantage of whatever comes your way, even if it's not ideal or appropriate
-अनुहार न दनुवार पोइ खोज्न थाली    |   	Anuhaar na danuwaar poi khojna thaali. |  Looking for something new rather than being content
+अनुहार न दनुवार पोइ खोज्न थाली    |   	Anuhaar na danuwaar poi khojna thaali. |  Looking for something new rather than being content | सधैं नयाँ नयाँ कपडा खोज्दैमा रमेशलाई सम्झाउने बेला भयो, अनुहार न दनुवार पोइ खोज्न थाली भनेजस्तो
 अनुहार न दनुवार, पाण्‍डव सुनुवार    |   	Anuhaar na danuhaar, pandab sunuwar. | Chyamata bina furti lagunu | Anuhar na danuwar pandav sunwar bhane ghai ram le dherai furti laucha
 अन्धाको देशमा आँखा छोप्नु, लङ्‍गडाको देशमा खुट्‍टा खोच्याउनु    |   	Andhaa ko desh maa aankhaa chhopnu, langadaa ko desh maa khuttaa khochchyaunu.  | Adapting to fit in with the prevailing environment and customs
 अन्धाको सहारा लङ्गडा    |   	Andhaa ko saahaaraa langadaa. | Attempting something that is inherently ineffective or counterproductive
@@ -114,7 +114,7 @@ For APIs: There is a separate repository. Please visit [nepali-ukhaan-apis](http
 अन्नमा भन्दा सन्नमा जोड    |   	Anna ma bhanda Sanna ma jod.   |       Kind words are valued over mere food/provisions
 अन्यायको धन, कहिल्यै मेरो नभन    |   	Anyaaye ko dhan, kahilei mero nabhan.  |   Wealth accumulated through injustice should never be considered as rightfully one's own
 अभागी मोरो हग्न बस्यो, बाह्र हातको घोँचो पस्यो    |   	Abhaagi moro hagna basyo, bahra haat ko ghocho pasyo. |  Misfortune befalls the unlucky at every turn, even when they try to avoid it
-अभागीको भाई सप्रन्छ, भाग्यमानीको छोरो सप्रन्छ    |   	Abhaagi ko bhai sapranchha, bhaagyamaani ko chhoro sapranchha.  | No one can escape their destiny
+अभागीको भाई सप्रन्छ, भाग्यमानीको छोरो सप्रन्छ    |   	Abhaagi ko bhai sapranchha, bhaagyamaani ko chhoro sapranchha.  | No one can escape their destiny | रामको छोराले राम्रो जागिर पाएपछि उसको परिवारको जीवनस्तर सुध्रियो, आखिर अभागीको भाई सप्रन्छ, भाग्यमानीको छोरो सप्रन्छ
 अराएको काम र भराएको मानोले कति दिन चल्छ    |   	Araayeko kaam ra bharaayeko maano le kati din chalchha  | Makeshift solutions and temporary measures can only last for so long
 अरुको बारिको काँक्रो चोर्नी, आफ्नो भने नुनको ढिको नफोर्नी    |   	Aru ko bari ko kakro chorne, aafno bhane nun ko dhiko naforni. | It is easy to find faults in others while ignoring one's own shortcomings
 अरूले हात्ती चढे भनेर आफूले धुरी चढ्नु हुँदैन    |   	Aru le hatti chade bhanera aafu le dhuri chadnu hudaina. |  One should not imitate others' mistakes, but learn from them instead
@@ -134,7 +134,7 @@ For APIs: There is a separate repository. Please visit [nepali-ukhaan-apis](http
 असारमा आली लगाए पो मंसिरमा बाली खान पाइन्छ    |   	Asaar maa aali lagaaye po mangshi maa baali khaana paayinchha. | One reaps the rewards of hard work in due time
 असारमा मीत लाए हिलामा हात, मंसिरमा मीत लाए फिलामा हात    |   	Asar ma mit laaye hila ma haat, mangsir ma mit laaye fila ma haat. | The rewards of labor vary according to the season
 असारमा सुरुवाल लगाउनेले मंसिरमा पराल चोर्छ    |   	Asaar ma suruwal laguane le mangsir ma paral chorchha. | Early and consistent hard work pays off in the long run
-अहंकारी भ्यागुताको ट्वार ट्वारै ठूलो    |   	Ahankari bhyaguto ko twar twar nai thulo | The conceited think their own faults are small
+अहंकारी भ्यागुताको ट्वार ट्वारै ठूलो    |   	Ahankari bhyaguto ko twar twar nai thulo | The conceited think their own faults are small | तिमी अहंकारी नबन, अहंकारी भ्यागुताको ट्वार ट्वारै ठूलो भन्ने उखान बिर्सने छैनौ
 अँध्यारो काम खोला को गीत    |   	Andhyaro kaam khola ko geet | Work done without proper planning is bound to fail
 आँ गर्दा अलङ्‍कार बुझ्ने    |   	Aa gardaa alangkaar bujhne. | Jati bhaneko cha tyo bhanda badi bujhne.
 |<span id="आ" style="color:#ff0">**आ**</span> |
@@ -170,7 +170,7 @@ For APIs: There is a separate repository. Please visit [nepali-ukhaan-apis](http
 आफ्नो थैली सुरक्षित राखे अर्कालाई दोष लगाउनु पर्दैन    |   	Aafno thaili surakshit raakhe arkaa lai dosh lagaunu pardaina. | If you take care of your things, you won't have to blame others for the loss
 आफ्नो थैलोको गाँठो कस्नु, अरुलाई दोष नदिनु    |   	Aafno thailo ko gaatho kasnu, aru lai dosh nadinu. | Keep your work yourself and don't blame others.
 आफ्नो नुन, आफ्नै पानी, खाउ ज्वाईं कोखा तानी    |   	Aafno nun, aafnai paani, khau juwai kokha taani | Take care of your own needs before worrying about others
-आफ्नो भाग्य आफैले बनाउनु पर्छ    |   	Aafno bhaagya aafai le banaunu parchha. | mehanat garera aafno sapana afai pura garna sakinxa rather than wait for things to happen. |
+आफ्नो भाग्य आफैले बनाउनु पर्छ    |   	Aafno bhaagya aafai le banaunu parchha. | mehanat garera aafno sapana afai pura garna sakinxa rather than wait for things to happen. | विद्यार्थीहरुले राम्रो अंक प्राप्त गर्नका लागि आफैले कडा मेहनत गर्नुपर्छ, किनकि आफ्नो भाग्य आफैले बनाउनु पर्छ
 आफ्नो रुचि खानु, अर्काको रुचि लाउनु    |   	Aafno ruchhi khaanu, arkaa ko ruchi launu. | Focus on your own interests, not others
 आफ्‍नो हात जगन्‍नाथ    |   	Aafno haat jagannaath. | We are responsible for our own actions and their consequences
 आमा पनि ब्युटी छोरि पनि ब्युटी बाउले गर्नु पर्ने चुलाको ड्युटी    |   	Ama pani beauty, chori pani beauty, bau le garnu parne chula ko duty. | Everyone has their own responsibilities and do their duties
@@ -187,7 +187,7 @@ For APIs: There is a separate repository. Please visit [nepali-ukhaan-apis](http
 अँध्याराको काम खोलाको गीत    |   	Andhyaro ko kaam khola ko geet.    |   	Work without recognition is meaningless
 अगुल्टो पनि नठोसी बल्दैन    |   	Agulto pani nathosi baldaina.    |   	Disagreements happen in a relationship.
 <span id="इ" style="color:#ff0">**इ**</span>
-इखालु स्वास्नीको बचन, बहुला कुकुरको दाँत    |   	Ikhaalu swaasni ko bachan, bahulaa kukur ko daat. | Words or actions done in anger lack rationale
+इखालु स्वास्नीको बचन, बहुला कुकुरको दाँत    |   	Ikhaalu swaasni ko bachan, bahulaa kukur ko daat.    |   	क्रोधमा गरिएका शब्द वा कार्यहरूमा तर्कको अभाव हुन्छ।     |   	रमालाई रिस उठ्दा उसले जे पायो त्यही भन्छे, इखालु स्वास्नीको बचन, बहुला कुकुरको दाँत जस्तै
 इन्द्रको अगाडि स्वर्गको बयान    |   	Indra ko agaadi swarga ko bayaan.       |       Kei kura bare derai thaha vayeko manxe laie tei kura bare bayan garnu.
 इश्वर धपायो, शास्त्र चपायो    |   	Ishwor dhapaayo, saastra chapaayo.
 <span id="ई" style="color:#ff0">**ई**</span>
@@ -881,6 +881,7 @@ For APIs: There is a separate repository. Please visit [nepali-ukhaan-apis](http
 लगौंटी च्याती कुसुमे रुमाल    |   	Lagauti chyati kusume rumal.
 लङ्का जित्ने हनुमान जस पाउने ढेडु    |   	Lanka jitne hanuman jas paune dhedu.
 लहरा तान्दा पहरा गर्जिन्छ    |   	Laharaa taandaa pahara garjhinchha.
+ल्हासामा सुन छ, कान मेरो बुच्चै    |   	Lhasa maa sun chha, kaan mero buchhai    |   	केही चीजहरू तपाईंको पहुँच भन्दा बाहिर हुन्छन्     |   	उसले धेरैपटक प्रयत्न गर्यो तर सफलता हात लागेन। यो त्यस्तै भयो, 'ल्हासामा सुन छ, कान मेरो बुच्चै'
 लाटाको देशमा गाँडा तन्नेरी    |   	Laata ko desh maa gaadaa tanneri.
 लाटो लड्छ एक बल्ड्याङ बाठो लड्छ तीन बल्ड्याङ    |   	Laato ladchha ek baldyang, batho ladcha tin baldyang.
 लात को घोडा बात ले मान्दैन    |   	Laat ko ghodaa baat le maandaina.
