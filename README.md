@@ -95,7 +95,7 @@ For APIs: There is a separate repository. Please visit [nepali-ukhaan-apis](http
 अगुल्ठो पनि नठोसी बल्दैन    |   	Agultho pani nathosi baldaina    |   	कुनै पनि सम्बन्धमा केही असामान्य हुन आवश्यक हुन्छ
 अघि हेर्नु चार हात, पछि हेर्नु बाह्र हात    |   	Aghi hernu chaar haat, pachhi hernu bahra haat | Agadi ra pachadi dubai tira khyal puraunu 
 अघिको तीतो पछिको मीठो    |   	Aghi ko tito pachhi ko mitho.       |       Mehanat le fal mitho hunxa
-अचानो को पिर खुकुरी ले जान्दैन    |   	Achaano ko pir khukuri le jaandaina     |       Dhukha dina manxe le dukha paune manxe ko samsya bujdiaena 
+अचानो को पिर खुकुरी ले जान्दैन    |   	Achaano ko pir khukuri le jaandaina     |       Dhukha dina manxe le dukha paune manxe ko samsya bujdiaena | अचानो को पिर खुकुरी ले जान्दैन भनेझै गरिबहरुका पीर व्यथा धनीलाई कहाँ थाहा हुन्छ र?
 अचार खानु मुलाको, संगत गर्नु ठुलाको    |   	Achaar khaanu mula ko, sangat garnu thula ko | Asal manxe ko sangat gare khushi paixa nabye dukha |
 अच्छा साले जुल्फी पाले, लिखाले टांग हाले    |   	Achchhaa saale julfi paale, likhaa le taang haale. | Strong foundation, bright outcome. Weak base, poor fate
 अजिङ्गरको आहारा दैवले जुराउँछ    |   	Ajingar ko aahaaraa daiba le jurauchha. |  Yedi kei kura vagya ma chha vane paincha.  |
@@ -117,6 +117,7 @@ For APIs: There is a separate repository. Please visit [nepali-ukhaan-apis](http
 अभागीको भाई सप्रन्छ, भाग्यमानीको छोरो सप्रन्छ    |   	Abhaagi ko bhai sapranchha, bhaagyamaani ko chhoro sapranchha.  | No one can escape their destiny | रामको छोराले राम्रो जागिर पाएपछि उसको परिवारको जीवनस्तर सुध्रियो, आखिर अभागीको भाई सप्रन्छ, भाग्यमानीको छोरो सप्रन्छ
 अराएको काम र भराएको मानोले कति दिन चल्छ    |   	Araayeko kaam ra bharaayeko maano le kati din chalchha  | Makeshift solutions and temporary measures can only last for so long
 अरुको बारिको काँक्रो चोर्नी, आफ्नो भने नुनको ढिको नफोर्नी    |   	Aru ko bari ko kakro chorne, aafno bhane nun ko dhiko naforni. | It is easy to find faults in others while ignoring one's own shortcomings
+अरुको लाख आमाको काख | Aru ko lakh aama ko kakh | Nothing is comparable with mother's love.
 अरूले हात्ती चढे भनेर आफूले धुरी चढ्नु हुँदैन    |   	Aru le hatti chade bhanera aafu le dhuri chadnu hudaina. |  One should not imitate others' mistakes, but learn from them instead
 अर्काको आङ्गको जुम्रा देख्‍ने, आफ्‍नो आङ्गको भैसी पनि नदेख्‍ने    |   	Arka ko aang ko jumra dekhne, aafno aang ko bhaisi pani nadekhne. |  It is easy to point others fault but don't realize his own faults.
 अर्काको गहना लगाउनु, नाक कान दुखाउनु    |   	Arka ko gahana lagaunu, naak kaan dukhaunu. | Envy over others' possessions is a cause of distress
@@ -147,9 +148,9 @@ For APIs: There is a separate repository. Please visit [nepali-ukhaan-apis](http
 आई बूढी मच्चिंदै, गई बूढी थच्चिंदै    |   	Aaayi budi machchidai, gayi budi thachchidai.
 आई लाग्ने माथि जाई लाग्नु    |   	Aayi laagne maathi jaayi laagne.
 आउँछ समय पर्खंदैन, बग्छ खोलो फर्कंदैन    |   	Aauchha samaye parkhadaina, bagchha khola farkadaina.    |   	Opportunity and flowing river wait for no one, be careful you don't miss out
-आए आँप गए झटारो    |   	Aaye aanp gaye jhataaro. | Try everything and explore all the ways if you have nothing to loose.
+आए आँप गए झटारो    |   	Aaye aanp gaye jhataaro. | Try everything and explore all the ways if you have nothing to loose. | आए आँप गए झटारो भन्ने सोचेर रामले १० रुपैयामा १० लाख पुरस्कार पाउने चिठ्ठा किन्यो।
 आए बाउको गए साहुको    |   	Aaye bau ko gaye saahu ko | Taking a chance.
-आकाश को राहु, पातलको केतु, एक पटक नपरी कसरी चेतु    |   	Akash ko rahu, paataal ko ketu, ek patak napari kasari chetu?    |   	If you don't experience it once, how will you know (or feel fear)
+आकाश को राहु, पातलको केतु, एक पटक नपरी कसरी चेतु    |   	Akash ko rahu, paataal ko ketu, ek patak napari kasari chetu?    |    	If you don't experience it once, how will you know (or feel fear)
 आकाशको फल आँखा तरी मर्    |   	Aakas ko fal, aankha tari mar.       |       Aafu le napaune khaie na paune kura laie herera santhustha garni
 आकाशमा थुके मुखमा छिटा    |   	Aakash maa thuke, mukh maa chhitaa. | Talking big in front of many people may fall flat in reality
 आखाँले देखेको बिज्ञान भन्दा मनले बुझेको भगवान प्यारो    |   	Ankha le dekheko bigyan bhanda man le dekheko bhagwan pyaro. | Careless actions may have unintended consequences
@@ -238,7 +239,7 @@ For APIs: There is a separate repository. Please visit [nepali-ukhaan-apis](http
 औसींमा किनेर, पुर्णेमा फाल्ने    |   	Aunsi maa kinera, purne maa faalne       |        Saman derai din samma natiknu
 <span id="क" style="color:#ff0">**क**</span>
 कङ्गालको जात छैन, बोक्सीको गाउँ छैन    |   	Kangaal ko jaat chhaina, boksi ko gaaun chhaina.       |       Jata pani dhalna sakne manxe ko bhar hudaie na.
-कच्चा वैद्यको मात्रा यमपुरीको यात्रा    |   	Kachchaa baidhya ko matraa yampurko yaatra.
+कच्चा वैद्यको मात्रा यमपुरीको यात्रा    |   	Kachchaa baidhya ko matraa yampurko yaatra. | Inexperience can lead to mistakes and challenges
 कता हराइस् नौनी विलौनीमा    |   	Kataa haraayis nauni bilauni maa.       |       Rup pariwartan garnu.
 कतै खातैखात, कतै पुर्पुरोमा हात    |   	Katai khatai khat, katai purpuro ma haat.
 कतै दिन, कतै रात, एकातिर भोक अर्कोतिर भात    |   	Katai din, katai raat, ekaatira bhok arko tira bhaat.       |       Kosaie laie dhuka paie rako bela arko manxe ramaie lo gari rako hunxa.
@@ -282,7 +283,7 @@ For APIs: There is a separate repository. Please visit [nepali-ukhaan-apis](http
 कामीको पालो कात्तिकमा    |   	Kaami ko paalo kaatikmaa.
 कामीको बिहे, अठार खाँचो    |   	Kaami ko bihe, athaara khaacho.| kunai pani euta kaam garna vanda pahila aru dherai kaam garna parni 
 काले काले मिलेर खाउँ भाले    |   	Kaale kaale milera khau bhaale.
-कालो अक्षर भैँसी बराबर    |   	Kaalo akshar bhaisi barabar.
+कालो अक्षर भैँसी बराबर    |   	Kaalo akshar bhaisi barabar.    | Doesn't know to read and write.
 कालो बादलले संधै पानी पार्दैन    |   	Kaalo baadal le sadhai paani paardaina.
 कालो बाहुन, गोरो शुद्र, यिनीदेखि डराउँछन् महारुद्र    |   	Kaalo baahun, goro sudra, yini dekhi darauchhan mahaa rudra.
 काशी जाने कुतिको बाटो    |   	Kaashi jaane kuti ko baato.
@@ -368,8 +369,8 @@ For APIs: There is a separate repository. Please visit [nepali-ukhaan-apis](http
 घरमा भुसाहा छैन, खल्तीमा चुरोट    |   	Ghar maa bhusaahaa chhaina, khalti maa churot 
 घरै पिँडालु, बनै पिँडालु, ससुराली गयो बाह्र हातको पिँडालु    |   	Gharai pidalu, banai pidalu, sasurali gayo bahra haat ko pidalu.
 घरै पोले पछि खरानीको के पिर   |   	Gharai pole pachhi kharaani ko k pir.
-घाँटी हेरी हाइनेक किन्नु    |   	Ghaati heri high neck kinnu.
-घाँटी हेरेर हाड निल्नु    |   	Ghaati herera haad nilnu.
+घाँटी हेरी हाइनेक किन्नु    |   	Ghaati heri high neck kinnu. 
+घाँटी हेरेर हाड निल्नु    |   	Ghaati herera haad nilnu. | To make purchases that only align with your income and budget.
 घिउ न तेल पका बुढी सेल    |   	Ghiu na tel pakaa budi sel.
 घिच्न जान्दैनन् पकाउनेलाई दोष    |   	Ghichna jaandainan pakaune lai dosh.
 घुमि फिरी रुम्जाटार    |   	Ghumi firi Rumjatar
@@ -388,7 +389,7 @@ For APIs: There is a separate repository. Please visit [nepali-ukhaan-apis](http
 चित्र होइन चरित्र हेर्नु, व्यक्ति होइन व्यक्तित्व हेर्नु    |   	Chitra hoina charitra hernu, byakti hoina byaktitwa hernu.
 चिनाको भात भातै होइन, स्वास्नीको जात जातै होइन    |   	Chinaa ko bhaat bhaatai hoina, swasni ko jaat jaatai hoina 
 चिनीको नाम जपेर मुख गुलियो हुदैन    |   	Chini ko naam japera mukh guliyo hudaina 
-चिन्‍नु न जान्‍नु घचेडी माग्नु    |   	Chinnu na jannu ghachedi maagnu.
+चिन्‍नु न जान्‍नु घचेडी माग्नु    |   	Chinnu na jannu ghachedi maagnu. | Seeking assistance from someone you don't know or have no prior relationship with.
 चीनको राजा भोटको नून ज्यानै दिए नि नदेख्‍ने गुन    |   	Chin ko raajaa bhot ko nun jyaanai diya ni nadekhne gun.
 चैतमा गोरु बेचेर पाखी किन्नु    |   	Chait maa goru bechera paakhi kinnu.
 चोर औंला अरु तिर, बाँकी औंला आँफै तिर    |   	Chor aunla aru tira, baaki aula afai tira.
@@ -470,9 +471,9 @@ For APIs: There is a separate repository. Please visit [nepali-ukhaan-apis](http
 जिते हस्तिनापुरको राज, हारे चपरी मुनीको बास    |   	Jite hastinaapur ko raaj, haare chapari muni ko baas.
 जुत्ता लगाउनेको चुरिफुरी खोला आए पछि देखिन्छ    |   	Jutta lagaune ko churi furi khola aaye pachhi dekhinchha.
 जुत्ताको माला लगाएको नेता छाला देख्दा तर्सन्छ    |   	Jutta ko mala lagayeko netaa chhala dekhda tarsanchha.
-जुन गोरुको सिंग छैन उसैको नाम तिखे    |   	Jun goru ko singh chhaina uskai naam tikhe.
+जुन गोरुको सिंग छैन उसैको नाम तिखे    |   	Jun goru ko singh chhaina uskai naam tikhe. |  A person's behavior or actions do not align with their name or reputation.
 जुन जोगी आएपनि कानै चिरेको    |   	Jun jogi aaye pani kanai chireko. | Every person who does the same thing have similar characteristics/ Everyone who does no work at all
-जुन थालमा खायो, त्यही थालमा हग्छ    |   	Jun thaal maa khaayo, tehi thaal maa hagchha.
+जुन थालमा खायो, त्यही थालमा हग्छ    |   	Jun thaal maa khaayo, tehi thaal maa hagchha. | To insult or disrespect a person who helped you during your tough times.
 जुन नेता आए पनि घुस खान नछाड्ने    |   	Jun neta aye pani ghus khana nachhodne.
 जुनकिरीको पिंधले स्वर्ग उज्यालो हुदैन    |   	Junkiri ko pidh le swarga ujyaalo hudaina 
 जुवाको धन गन्दै नगन    |   	Juwa ko dhan gandai nagan.
@@ -584,9 +585,10 @@ For APIs: There is a separate repository. Please visit [nepali-ukhaan-apis](http
 दुधको साक्षी बिरालो    |   	Dudh ko saakshi biralo.
 दुबो मौलाएझैँ मौलाउनु तर कुकुर बौलाएझैँ नबौलाउनु    |   	Dubo maulaaye jhai maulaaunu tara kukur baulaaye jhai nabaulaunu 
 दुर्गंधित भन्ने थाहा पाएपछि उधिनिरहनु पर्दैन    |   	Durgandhi bhanne thaahaa paayepachii udhini rahanu pardaina.    |   	Once you know it's smelly, there's no need to dig it up
+दुवै हातमा लड्डु | Dubai haat ma laddu | To gain advantages or positive outcomes in all situations or contexts. 
 दुश्मन खोज्न टाढा जानु पर्दैन    |   	Dusman khojna tada janu pardaina. | You don't have to go to far to find an enemy familiarity breeds contempt.
 दूध दिने गाईको लात्ती पनि सहनुपर्छ    |   	Dudh dine gai ko latti pani sahanu parchha.
-देख्नेका आँखा फुटे सुन्नेका सही    |   	Dekhne ko ankha fute sunne ka sahi.
+देख्नेका आँखा फुटे सुन्नेका सही    |   	Dekhne ko ankha fute sunne ka sahi. | Person who has only heard about something tries to act like an expert, more than the person who has actually seen or experienced it.
 दैबले दिन्छ, पितृले हर्छ    |   	Daiba le dinchha, pitri le harchha.
 दौरा न सौराको खल्ती    |   	Daura na saura ko khalti.
 <span id="ध" style="color:#ff0">**ध**</span>
@@ -630,7 +632,7 @@ For APIs: There is a separate repository. Please visit [nepali-ukhaan-apis](http
 नभएकी स्वास्नी कस्ती कस्ती, भएकी स्वास्नी सस्ती    |   	Nabhaye ki swasni kasti kasti, bhaye ki swasni saasti 
 नभरेको गाग्रो छछल किन्छ | nabhareko gagro chalkanxa | Empty vessel sounds much. Half knowledge is dangerous.
 नभेटुन्जेल उसैको पिरलो, भेटे पछि कुकुर र बिरालो    |   	Nabhetunjel usaiko piralo bhete pachhi kukur ra biralo 
-नमच्चिने पिङको सय झड्का    |   	Namachine ping ko saya jhadkaa
+नमच्चिने पिङको सय झड्का    |   	Namachine ping ko saya jhadkaa | Someone lacking skills or qualifications pretends to be capable or agile, despite their incompetence.
 नयाँ जोगी खरानी धेरै घस्छ    |   	Naya jogi kharani dherai ghaschha
 नयाँ दुलही चुरा धेरै बजाउँछिन्    |   	Nayaa dulahi churaa dherai bajaauchhin.
 नशा भनेको सुर्तीले पनि दिन्छ    |   	Nashaa bhaneko surti le pani dinchha.
@@ -776,7 +778,7 @@ For APIs: There is a separate repository. Please visit [nepali-ukhaan-apis](http
 भाउजुको देवर तन्नेरी    |   	Bhauju ko dewar tannari
 भाउजुले पोलेको देवर, बुहारीले पोलेको ससुरो    |   	Bhauju le poleko dewar, buhari le poleko sasuro 
 भाग्यमा छ भन्दैमा डोकोमा दुध दुहेर अडिँदैन    |   	Bhagya ma chha bhandai maa doko maa dukh duhera adidaina.
-भाग्यमानीको भूतै कमारो    |   	Bhagyamaani ko bhutai kamaaro.
+भाग्यमानीको भूतै कमारो    |   	Bhagyamaani ko bhutai kamaaro. | Someone else does the work for a lucky person.
 भाङ्ग्राको टोपीमा गुहेँलीको फूल    |   	Bhangra ko topi maa guheli ko ful 
 भित्ताको पनि कान हुन्छ    |   	Bhittaa ko pani kaam hunchha.
 भित्र खोले सिस्नो स्वाप् स्वाप्, बाहिर डिङगो जुत्ता ढ्याप् ढ्याप्    |   	Bhitra khole sisno swap swap, baahira dingo juttaa dhyap dhyap.
@@ -1007,7 +1009,7 @@ For APIs: There is a separate repository. Please visit [nepali-ukhaan-apis](http
 हिराको मोल किराले जान्दैन    |   	Hira ko mol kira le jandaina 
 हिस्स बुढीको खिस्स दाँत    |   	Hissa budi ko khissa daat.
 हुने बिरुवाको चिल्लो पात    |   	Hune beruwa ko chillo paat. |   	The prodigies display talent from an early age
-हुने हार, दैव नटार    |   	Hune haar daiba nataar. 
+हुने हार, दैव नटार    |   	Hune haar daiba nataar. | No one can escape their destiny.
 हुलमुलमा जिउ जोगाउनु, अनिकालमा बिउ जोगाउनु    |   	Julmul maa jiu jogaunu, anikal maa jiu jogaunu.
 हेरेर मर्नु भन्दा छेरेर मर्नु जाती    |   	Herera marnu bhanda chherera marnu jaati.
 हेर्दा चरो, पर्दा बन्चरो    |   	Herdaa charo, pardaa bancharo.
