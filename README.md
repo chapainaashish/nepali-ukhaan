@@ -125,7 +125,7 @@ For APIs: There is a separate repository. Please visit [nepali-ukhaan-apis](http
 अर्काको बाच्छो चाटी मुखभरी रौँ    |   	Arka ko bachchho chaati mukh bhari rau. | Speaking ill of others to impress is insincere flattery
 अर्काको बारीमा साग छ, मुटु मिचेर के लाग्छ    |   	Arkaa ko baari maa saag chha, mutu michera k laagchha. | There is no gain in envying others' prosperity and good fortune
 अर्काको बुद्धिले राजा हुनुभन्दा आफ्नै बुद्धिले जोगी हुनु बेस    |   	Arka ko buddhi le raja hunu bhanda afnai buddhi le jogi junu besh.       |        Aru ko muni basera thulo manxe hunu bhanda aafnaie malik aafaie bayera sano kaam garna jati hunxa 
-अर्काको भर भोकभोकै मर    |   	Arkaa ko bhar bhok bhokai mar. | Relying solely on others leads to ruin
+अर्काको भर भोकभोकै मर    |   	Arkaa ko bhar bhok bhokai mar. | Relying solely on others leads to ruin | arkako bhar bhok bhokai mar vanejhai garib janta chhetipurti ko lagi sarkar ko varosama basera dukha behorna paryo
 अर्तीको कुरा घर्तीको पनि लिनुपर्छ    |   	Arti ko kura gharti ko pani linuparchha. | One should consider advice from outsiders as well as insiders
 अर्थ न बर्थ गोविन्द गाई    |   	Artha na bartha gobinda gai. | A useless person
 अलिनु पनि नखाऊँ, नूनढिकी पनि नफोरौँ    |   	Alinu pani nakhau, nundhiki pani naforau. | One should avoid both excess and deficiency
