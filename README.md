@@ -145,7 +145,7 @@ For APIs: There is a separate repository. Please visit [nepali-ukhaan-apis](http
 आँपको आँप, कोयाको दाम    |   	Aanp ko aanp, khoya ko daam    |   	नाफादार थोकबाट त नाफा छ नै तर जे कुराबाट आशा छैन, त्यसबाट पनि लाभ पाउनु
 आइमाई को रुपै सत्रु, रुपै मित्रु    |   	Ayimaayi ko rupai satru, rupai mitru. | True friends accept one as they are are are, for who they are
 आइमाईको पेटमा कुरा पच्दैन    |   	Aayimai ko pet maa kura pachhdaina. | A Person who can't keep secrets
-आई बूढी मच्चिंदै, गई बूढी थच्चिंदै    |   	Aaayi budi machchidai, gayi budi thachchidai.
+आई बूढी मच्चिंदै, गई बूढी थच्चिंदै    |   	Aaayi budi machchidai, gayi budi thachchidai. | Come in like a lion, go out like a lamb
 आई लाग्ने माथि जाई लाग्नु    |   	Aayi laagne maathi jaayi laagne.
 आउँछ समय पर्खंदैन, बग्छ खोलो फर्कंदैन    |   	Aauchha samaye parkhadaina, bagchha khola farkadaina.    |   	Opportunity and flowing river wait for no one, be careful you don't miss out
 आए आँप गए झटारो    |   	Aaye aanp gaye jhataaro. | Try everything and explore all the ways if you have nothing to loose. | आए आँप गए झटारो भन्ने सोचेर रामले १० रुपैयामा १० लाख पुरस्कार पाउने चिठ्ठा किन्यो।
