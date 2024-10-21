@@ -1015,3 +1015,5 @@ For APIs: There is a separate repository. Please visit [nepali-ukhaan-apis](http
 हेर्दा चरो, पर्दा बन्चरो    |   	Herdaa charo, pardaa bancharo.
 हेर्दाको राम्रो, दिन खानको चाम्रो    |   	Herda ko ramro dina khaana ko chamro   	|   	 Action not backing up the things you are saying. 
 हेर्नेको र छेर्नेको भर हुँदैन    |   	Herne ko ra chherne ko bhar hudaina.   	|   	Don't trust fortune tellers just like you can't trust people with diarrhea (alternately don't trust watchers or cowards)
+<span id="ख" style="color:#ff0">**ख**</span>  
+खाइलाग्दो देख्दा पोसो, चपाउँदा मैलो पित्तल | Khailaagdo dekhda poso, chapauda mailo pittal | Something that looks attractive or valuable at first glance may turn out to be worthless upon closer inspection.
