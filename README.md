@@ -166,7 +166,7 @@ For APIs: There is a separate repository. Please visit [nepali-ukhaan-apis](http
 आफू नमरी स्वर्ग देखिँदैन    |   	Aafu namari swarga dekhidaina.       |       Aafu le kei kaam gari na heri thaha hunna 
 आफै त महादेव उत्तानो पर, कसले देला बर    |   	Aafai ta mahadev uttaano par, kasle delaa bar. | Implying ownself don't have enough, forget about giving others
 आफ्नै छोरी नखर्माउली, तन्नेरीलाई दोष    |   	Aafnai chhori nakharmauli, tanneri lai dosh.       |       Aafno dosh naheri aru laie dosh lagaune 
-आफ्नो छोराछोरी र अर्काकी स्वास्नी सबैलाई राम्रो लाग्छ    |   	Aafno chora chori ra arkaa ki swasni sabai lai ramro laagchha | 
+आफ्नो छोराछोरी र अर्काकी स्वास्नी सबैलाई राम्रो लाग्छ    |   	Aafno chora chori ra arkaa ki swasni sabai lai ramro laagchha | A person like their things more than others things
 आफ्नो टाउको फुटे पछि मित को टाउको बेल बराबर    |   	Aafno tauko fute pachhi mit ko tauko bel baraabar. | When your own plans fail, blaming others is pointless
 आफ्नो थैली सुरक्षित राखे अर्कालाई दोष लगाउनु पर्दैन    |   	Aafno thaili surakshit raakhe arkaa lai dosh lagaunu pardaina. | If you take care of your things, you won't have to blame others for the loss
 आफ्नो थैलोको गाँठो कस्नु, अरुलाई दोष नदिनु    |   	Aafno thailo ko gaatho kasnu, aru lai dosh nadinu. | Keep your work yourself and don't blame others.
