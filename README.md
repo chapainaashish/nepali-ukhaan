@@ -157,7 +157,7 @@ For APIs: There is a separate repository. Please visit [nepali-ukhaan-apis](http
 आगो ताप्नु मुढाको कुरा, सुन्‍नु बुढाको    |   	Aago taapnu muda ko kura sunnu buda ko       |       Aafu vanda thulo manxe ko aardi upadesh sunna parxa 
 आज घर पुगिएला त ? आफ्नै खुट्टालाइ सोध    |   	Aaja ghar pugiyela ta? aafnai khutta lai sodha | Don't rely on others, trust your own abilities and judgment
 आज मर्यो, भोलि ओखति    |   	Aaja maryo, bholi okhati.       |       Dhilo vaye paxi matra kei garna thalni | What's done is done, no use dwelling on the past
-आजकालका केटी स्टाइलको भारी टाउकोमा भने डिस्को गर्ने जुम्राको ढाडी    |   	Aajkal kaa keti style ko bhaari tauko maa bhane disko garne jumraa ko dhaadi.
+आजकालका केटी स्टाइलको भारी टाउकोमा भने डिस्को गर्ने जुम्राको ढाडी    |   	Aajkal kaa keti style ko bhaari tauko maa bhane disko garne jumraa ko dhaadi. | All style and no substance
 आजको कामलाई भोलि नभन्नु    |   	Aaja ko kaam lai bholi nabhannu.       |       kaam na sachnu, aaja ko kaam aajai garni / There is not time like present.
 आधा गाग्रो छचल्किन्छ    |   	Adha gagro chhachalkinchha. | Half-hearted efforts are bound to fail
 आफु भलो त जगत भलो    |   	Aafu bhalo ta jagat bhallo | afuleh pargati garda samaj ko pragati afai hunxa kinaki ek ek jana milera nai samaj banxa |
