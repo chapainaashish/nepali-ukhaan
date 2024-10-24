@@ -1006,7 +1006,7 @@ For APIs: There is a separate repository. Please visit [nepali-ukhaan-apis](http
 हावा नचली पात हल्लिंदैन    |   	Hawa nachali paat hallidaina.   	|   	Bigger event affecting the outcome of smaller event
 हिँड्दैछ पाइला मेट्दैछ    |   	Hindaichha, paila metdaichha.
 हिंडने गोरूले चुटाई खान्छ    |   	Hidne goru le chutai khaanchha.
-हिराको मोल किराले जान्दैन    |   	Hira ko mol kira le jandaina 
+हिराको मोल किराले जान्दैन    |   	Hira ko mol kira le jandaina   | Insects don't know the value of diamond.
 हिस्स बुढीको खिस्स दाँत    |   	Hissa budi ko khissa daat.
 हुने बिरुवाको चिल्लो पात    |   	Hune beruwa ko chillo paat. |   	The prodigies display talent from an early age
 हुने हार, दैव नटार    |   	Hune haar daiba nataar. | No one can escape their destiny.
