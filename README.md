@@ -433,7 +433,7 @@ For APIs: There is a separate repository. Please visit [nepali-ukhaan-apis](http
 जसको छैन एक फाँक सुर्ती, उसैले लगाउछ दस लाखको फुर्ति    |   	Jasko chhaina ek faak surti, usaile lagauchha das laakh ko furti 
 जसको डम्फू उसकै ताल    |   	Jasko damfu uskai taal.
 जसको तरबार उसको घरबार    |   	Jasko tarbaar usko gharbaar.
-जसको बाँदर उसैले नचाउँछ    |   	Jasko baadar, usaile nachauchha.
+जसको बाँदर उसैले नचाउँछ    |   	Jasko baadar, usaile nachauchha.  | Owner of the property gets to use it for their advantage
 जसको लाठी उसको भैंसी    |   	Jasko lathi usko bhaisi. | Jo snagha srot sadhan xa uni mathi hunxa |
 जसको शक्ति, उस्को भक्ति    |   	Jasko shakti, usko bhakti. | Jo sangha sakhti xa sabai usai ko jai jai kar garxan | 
 जसको सीता खानु, उसकै गीता गाउनु    |   	Jasko sita khanu, uskai gita gaunu. | Jasko nun khayeko xa usaiko ghunghan gaunu |
