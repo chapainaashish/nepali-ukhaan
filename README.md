@@ -258,6 +258,7 @@ For APIs: There is a separate repository. Please visit [nepali-ukhaan-apis](http
 कसैले तपाईं भनोस् नभनोस् आफैं मपाईं    |   	Kasaile tapai bhanos nabhanos aafai mapai.       |       Aafno prasansa aafai garnu.
 कस्ता कस्ता कहाँ गए मुसाको बच्चा दरबारमा    |   	Kasta kasta kaha gaye musa ko bacchha durbar maa
 कहाँ जान्छस् मछली मेरै ढडिया    |   	Kaha jaanchhas machali merai dhadiya.
+कहिले सासूको पालो कहिले बुहारीको | Kahile saasu ko paalo kahile buhari ko | Life gives everyone a chance in their own time.
 कही नभाको जात्रा प्रग्या प्रतिस्ठानमा    |   	Kahi nabhayeko jaatraa pragya pritisthaan maa.
 कांही नभएको जात्रा हाँडी गाउँमा    |   	Kahi navayeko jatra haadi gau maa.       |       Kei kaam pani thik sanga nahune.
 काका भन्नु र कान्छा बाऊ भन्नु एउटै कुरो हो    |   	Kaka bhannu ra kancha bau bhannu eutai kuro ho.
