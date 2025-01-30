@@ -687,6 +687,7 @@ For APIs: There is a separate repository. Please visit [nepali-ukhaan-apis](http
 फिनी हराएको थाहा छैन गहुँको दाना गन्ने    |   	Fini harayeko thaha chhaina gahu ko dana ganne.
 फोकट को पाए एक मानो चुक पनी खान्छ    |   	Fokat ko paaye ek maano chuk pani khaanchha.
 फोश्रो आशा न देखाऊ नु | fosre asha na dekhaunu |  Promise only if you can make it.
+फुटेको खप्पर जहां गए पनि ठक्कर | futeko khappar jaha gaye pani thakkar | The broken pot gets bumped wherever it goes
 <span id="ब" style="color:#ff0">**ब**</span>
 बचनको चोट, मनको घाउ    |   	Bachan ko chhot, man ko ghaau 
 बजेट कहाँ पोखियो, आफ्नै पकेटमा    |   	Bajet kaha pokhiyo, afnai pocket maa
