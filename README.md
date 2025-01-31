@@ -685,6 +685,7 @@ For APIs: There is a separate repository. Please visit [nepali-ukhaan-apis](http
 फकाई फकाई ल्याए, चिमोटी चिमोटी मारे    |   	Fakai fakai lyaye, chimoti chimoti maare.
 फलामले फलाम काट्‍छ    |   	Falaam le falaam kaatchha.
 फिनी हराएको थाहा छैन गहुँको दाना गन्ने    |   	Fini harayeko thaha chhaina gahu ko dana ganne.
+फुटेको खप्पर जहां गए पनि ठक्कर | futeko khappar jaha gaye pani thakkar | The broken pot gets bumped wherever it goes
 फोकट को पाए एक मानो चुक पनी खान्छ    |   	Fokat ko paaye ek maano chuk pani khaanchha.
 फोश्रो आशा न देखाऊ नु | fosre asha na dekhaunu |  Promise only if you can make it.
 <span id="ब" style="color:#ff0">**ब**</span>
