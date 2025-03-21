@@ -839,6 +839,7 @@ For APIs: There is a separate repository. Please visit [nepali-ukhaan-apis](http
 मामा आउँदा केरा पाकेन, केरा पाक्दा मामा आएनन्    |   	Mama auda kera pakena, kera pakdaa mama aayenan.
 मामा को घोडामा भान्जा को हे हे    |   	Mama ko ghoda maa bhanjaa ko he he | One enjoys in others property.
 मारे पाप पाले पुण्य    |   	Maare paap paale punya.
+माहाभारत सकियो तर सीता कोस्को आमा?    |   	Mahabharat sakiyo tara Sita kosko aama?    |   	Even after an epic issue is resolved, people still obsess over minor or irrelevant details    |   	We won the match, but I wish we had scored one more goal.
 मुख मा राम राम बगली मा छुरा    |   	Mukh maa ram ram bavali maa chhuraa.| Two-faced people/ The ones who say good things in front of you and back-bite later
 मुखमा लगाउन चिलाउनेको गेडो छैन, कुन्नि के जातिमा लगाउन जाइफल    |   	Mukhn maa lagauna chilaune ko gedo chhaina, kunni k maa lagauna jaifal.
 मुखमा सरस्वती हुनेको सधैं वृहस्पति आउँछ    |   	Mukh maa Saraswati hune ko sadhai brihaspati aauchha.
