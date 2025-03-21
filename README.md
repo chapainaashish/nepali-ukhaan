@@ -317,6 +317,7 @@ For APIs: There is a separate repository. Please visit [nepali-ukhaan-apis](http
 खसी भनम बोसो छैन, बोको भनम नसो छैन    |   	Khasi bhanam boso chhaina, boko bhanam naso chhaina.
 खाइछाड कि लाइछाड, मरेपछि लम्पसार   |   	Khaayi chhad ki laayi chaad, mare pachhi lampasaar.
 खाई न पाई छालाको टोपी लाई    |   	Khaayi na paayi chaalaa ko topi laayi.
+खाइलाग्दो देख्दा पोसो, चपाउँदा मैलो पित्तल | Khailaagdo dekhda poso, chapauda mailo pittal | Something that looks attractive or valuable at first glance may turn out to be worthless upon closer inspection.
 खाई न पाई दौरामाथि टाई    |   	Khaayi na paayi, dauraa maathi tai.
 खाउँ कर्कली, पेट फर्कली, नखाउँ कर्कली, सासू झर्कली    |   	Khau karkali pet farkali, nakhau karkali saasu jharkali.
 खाए खा नखाए घिच    |   	Khaaye khaa nakhaaye ghich.
@@ -1018,5 +1019,3 @@ For APIs: There is a separate repository. Please visit [nepali-ukhaan-apis](http
 हेर्दा चरो, पर्दा बन्चरो    |   	Herdaa charo, pardaa bancharo.
 हेर्दाको राम्रो, दिन खानको चाम्रो    |   	Herda ko ramro dina khaana ko chamro   	|   	 Action not backing up the things you are saying. 
 हेर्नेको र छेर्नेको भर हुँदैन    |   	Herne ko ra chherne ko bhar hudaina.   	|   	Don't trust fortune tellers just like you can't trust people with diarrhea (alternately don't trust watchers or cowards)
-<span id="ख" style="color:#ff0">**ख**</span>  
-खाइलाग्दो देख्दा पोसो, चपाउँदा मैलो पित्तल | Khailaagdo dekhda poso, chapauda mailo pittal | Something that looks attractive or valuable at first glance may turn out to be worthless upon closer inspection.
