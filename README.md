@@ -31,7 +31,9 @@ So, this is a small effort for promoting the Nepali language and literature amon
 
 <h2> Nepali Ukhaan APIs</h2>
 
-For APIs: There is a separate repository. Please visit [nepali-ukhaan-apis](https://github.com/chapainaashish/nepali-ukhaan-apis)
+For APIs, there is a separate repository. Please visit: [nepali-ukhaan-apis](https://github.com/chapainaashish/nepali-ukhaan-apis)
+
+Special thanks to [Paurakh4](https://github.com/Paurakh4) for the web app:  [Nepali Ukhaan Web App](https://digital-ukhan.vercel.app) 
 
 <h2> Quick Navigation</h2>
 
